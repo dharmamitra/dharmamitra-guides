@@ -4,17 +4,16 @@
 
 ---
 
-## Table of Contents
+## Table of Contents
 
 - [About Dharmamitra](#about-dharmamitra)
 - [DharmaNexus](#dharmanexus)
 - [MITRA Translate](#mitra-translate)
-- [MITRA OCR](#mitra-ocr)
-- [MITRA Search](#mitra-search)
-- [MITRA Dictionaries](#mitra-dictionaries)
-- [MITRA Models & API](#mitra-models--api)
-- [MITRA Publications](#mitra-publications)
-- [Getting Started](#getting-started)
+- [MITRA OCR](#mitra-ocr)
+- [MITRA Search](#mitra-search)
+- [MITRA Dictionaries](#mitra-dictionaries)
+- [MITRA Models & API](#mitra-models--api)
+- [MITRA Publications](#mitra-publications)
 - [Contributing](#contributing)
 - [License](#license)
 - [Citation](#citation)
