@@ -48,8 +48,7 @@ The project grew out of the original *BuddhaNexus* stack (2014‑2024) and has s
   - Tibetan → English  
   - Classical Chinese → English
 
-- **Model:** Standalone many-to-one translation model is available on 🤗 Hugging Face: (`dharmamitra/mitra‑translate‑<lang>`) 
-
+- **Model:** Standalone many-to-one translation model is available on 🤗 [Hugging Face](https://huggingface.co/buddhist-nlp/gemma-2-mitra-it).
 ---
 
 ## MITRA OCR
