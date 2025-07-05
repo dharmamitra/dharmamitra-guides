@@ -26,9 +26,7 @@
 
 ## About Dharmamitra
 
-**[Dharmamitra](https://dharmamitra.org)** is a meta‑platform that bundles state‑of‑the‑art NLP, OCR and information‑retrieval components for scholars working with the Ancient Asian languages Sanskrit, Pāli, Classical Chinese, and Tibetan.  Each tool can be used stand‑alone or orchestrated as part of a full research pipeline—from raw page scans to bilingual, semantically searchable corpora.
-
-The project grew out of the original *BuddhaNexus* stack (2014‑2024) and has since been completely refactored for scalability, open licensing, and transparent citation.  All code in this organisation is released under permissive licenses, and every dataset is either public‑domain or Creative Commons.
+**[Dharmamitra](https://dharmamitra.org)** is a meta‑platform that bundles state‑of‑the‑art NLP, OCR, information‑retrieval, and intertextuality exploration components for anybody working with the Ancient Asian languages Sanskrit, Pāli, Classical Chinese, and Tibetan. All code in this organisation is released under permissive licenses, and we provide large datasets in either public‑domain or under Creative Commons licensing.
 
 ---
 
