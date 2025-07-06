@@ -17,6 +17,7 @@
 - [MITRA Models & API](#mitra-models--api)
   - [ByT5-Sanskrit](#byt5-sanskrit)
 - [MITRA Publications](#mitra-publications)
+- [Acknowledgments](#acknowledgments)
 
 ---
 <div align="center">
@@ -82,7 +83,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 
 > *Advanced translation mode that provides comprehensive research context by integrating deep semantic search across entire data collections.*
 
-**MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of Dharmamitra's data collections.
+**MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language in MITRA Translate to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of MITRA Search and [DharmaNexus](https://dharmanexus.org).
 
 #### Features
 
@@ -203,6 +204,11 @@ The complete inference scripts and applications are available in the [ByT5-Sansk
 
 - **MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics.** *Sebastian Nehrdich, Avery Chen, Marcus Bingenheimer, Lu Huang, Rouying Tang, Xiang Wei, Leijie Zhu, Kurt Keutzer.* *Proc. 5th Intl. Conf. on NLP for Digital Humanities*, Albuquerque, pp. 129–137. [ACL Anthology](https://aclanthology.org/2025.nlp4dh-1.12/) · DOI: 10.18653/v1/2025.nlp4dh-1.12
 
+---
+
+## Acknowledgments
+
+We extend our deepest gratitude to the **[Tsadra Foundation](https://tsadra.org)** for their generous financial and spiritual support, which has made all of this work possible. Their funding has been instrumental in supporting the hosting of our models and providing critical infrastructure for our deep learning research and development efforts.
 
 ---
 
