@@ -89,12 +89,12 @@ By setting the target language to `English (Explained)`, additional grammatical 
 - **Grammatical Analysis**: Access detailed morphological and syntactic analysis of selected text
 - **Cross-Platform Support**: Available for both Chrome and Firefox browsers
 - **Privacy-Focused**: No data collection or tracking - all processing happens through the Dharmamitra API
-- **Easy Integration**: Works on any webpage with selectable text
+- **Easy Integration**: Works on any webpage with selectable text, including in-browser PDFs 
 
 #### Installation
 
-- **Chrome Extension**: Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/dharmamitra-language-tool/jlmleoklbpdehnokplffodjomekoiadl) (526+ users, 5.0 rating)
-- **Firefox Extension**: Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dharmamitra-language-tools/) (8+ users)
+- **Chrome Extension**: Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/dharmamitra-language-tool/jlmleoklbpdehnokplffodjomekoiadl)
+- **Firefox Extension**: Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dharmamitra-language-tools/)
 
 #### Usage
 
