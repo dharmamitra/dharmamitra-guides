@@ -11,6 +11,7 @@
 - [MITRA Translate](#mitra-translate)
 - [MITRA OCR](#mitra-ocr)
 - [MITRA Search](#mitra-search)
+- [MITRA Deep Research](#mitra-deep-research)
 - [MITRA Browser Extensions](#mitra-browser-extensions)
 - [MITRA Dictionaries](#mitra-dictionaries)
 - [MITRA Models & API](#mitra-models--api)
@@ -74,6 +75,32 @@ By setting the target language to `English (Explained)`, additional grammatical 
     - Search for high-level concepts expressed in modern languages like English 
     - Filter options to narrow down results to language, collection, category, and even individual text
     - Results link directly into [DharmaNexus](https://dharmanexus.org), where further multilingual parallels and intertextuality can be explored. 
+
+---
+
+## MITRA Deep Research
+
+> *Advanced translation mode that provides comprehensive research context by integrating deep semantic search across entire data collections.*
+
+**MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of Dharmamitra's data collections.
+
+#### Features
+
+- **Comprehensive Translation**: Enhanced translations that incorporate semantic search results from across all language collections
+- **Parallel Discovery**: Automatic identification of parallel passages, variants, and related texts in different languages
+- **Contextual Analysis**: Deep semantic search reveals how concepts are expressed across the entire corpus
+- **DharmaNexus Integration**: Direct links to [DharmaNexus](https://dharmanexus.org) for exploring intertextual relationships and multilingual parallels
+- **Topical Queries**: Support for research questions like "the definition of cetanā" with comprehensive literature evidence
+- **Evidence-Based Results**: All additional information is sourced from the extensive DharmaNexus database
+
+#### Research Capabilities
+
+- **Cross-Language Parallels**: Discover how concepts are expressed in Sanskrit, Pāli, Tibetan, and Chinese texts
+- **Semantic Variants**: Find different ways the same idea is conveyed across the corpus
+- **Historical Context**: Access to comprehensive literature evidence for deeper understanding
+- **Intertextual Relationships**: Explore connections between texts and traditions
+
+This mode provides a significantly superior translation experience by incorporating the full breadth of available textual evidence and scholarly context, making it ideal for serious research and academic work.
 
 ---
 
