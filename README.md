@@ -73,7 +73,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 - **Features:**
     - Powerful semantic search using state-of-the-art multilingual embedding models and sophisticated linguistic preprocessing 
     - search for semantically related passages in the same language and across different languages (Sanskrit to Tibetan, Pāli to Chinese etc.)
-    - Search for high-level concepts expressed in modern languages like English 
+    - Search for high-level concepts and ideas expressed in modern languages like English 
     - Filter options to narrow down results to language, collection, category, and even individual text
     - Results link directly into [DharmaNexus](https://dharmanexus.org), where further multilingual parallels and intertextuality can be explored. 
 
@@ -88,18 +88,11 @@ By setting the target language to `English (Explained)`, additional grammatical 
 #### Features
 
 - **Comprehensive Translation**: Enhanced translations that incorporate semantic search results from across all language collections
-- **Parallel Discovery**: Automatic identification of parallel passages, variants, and related texts in different languages
+- **Parallel Discovery**: Automatic identification of parallel passages, translations, and related texts in different languages
 - **Contextual Analysis**: Deep semantic search reveals how concepts are expressed across the entire corpus
 - **DharmaNexus Integration**: Direct links to [DharmaNexus](https://dharmanexus.org) for exploring intertextual relationships and multilingual parallels
-- **Topical Queries**: Support for research questions like "the definition of cetanā" with comprehensive literature evidence
-- **Evidence-Based Results**: All additional information is sourced from the extensive DharmaNexus database
-
-#### Research Capabilities
-
-- **Cross-Language Parallels**: Discover how concepts are expressed in Sanskrit, Pāli, Tibetan, and Chinese texts
-- **Semantic Variants**: Find different ways the same idea is conveyed across the corpus
-- **Historical Context**: Access to comprehensive literature evidence for deeper understanding
-- **Intertextual Relationships**: Explore connections between texts and traditions
+- **Topical Queries**: Support for topical questions like "the definition of cetanā" with comprehensive literature evidence
+- **Evidence-Based Results**: All additional information is sourced from the extensive DharmaNexus database  
 
 This mode provides a significantly superior translation experience by incorporating the full breadth of available textual evidence and scholarly context, making it ideal for serious research and academic work.
 
@@ -109,7 +102,7 @@ This mode provides a significantly superior translation experience by incorporat
 
 > *Browser extensions for instant access to Dharmamitra translation and language tools directly from any webpage.*
 
-**Dharmamitra Language Tools** browser extensions bring the power of Dharmamitra's machine translation and grammatical analysis capabilities directly to your browser, enabling seamless translation and analysis of Sanskrit, Pāli, Tibetan, and Buddhist Chinese texts while browsing the web.
+**Dharmamitra Language Tools** browser extensions bring the power of Dharmamitra's machine translation, grammatical analysis and deep research capabilities directly to your browser, enabling seamless translation and analysis of Sanskrit, Pāli, Tibetan, and Buddhist Chinese texts while browsing the web.
 
 #### Features
 
