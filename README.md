@@ -94,7 +94,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 - **Topical Queries**: Support for topical questions like "the definition of cetanā" with comprehensive literature evidence
 - **Evidence-Based Results**: All additional information is sourced from the extensive DharmaNexus database  
 
-This mode provides a significantly superior translation experience by incorporating the full breadth of available textual evidence and scholarly context, making it ideal for serious research and academic work.
+This mode provides a significantly superior translation experience by incorporating possibly relevant textual evidence and deeper context, making it ideal for serious translation, research, and academic work.
 
 ---
 
