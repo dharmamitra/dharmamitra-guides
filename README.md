@@ -1,4 +1,4 @@
-# Dharmamitra: Open Tools for Buddhist Digital Philology
+# Dharmamitra: Open Tools for Translation and Digital Philology of Ancient Asian Languages
 
 *Accelerating research on Classical Asian source languages with modern machine‑learning workflows.*
 
@@ -11,6 +11,7 @@
 - [MITRA Translate](#mitra-translate)
 - [MITRA OCR](#mitra-ocr)
 - [MITRA Search](#mitra-search)
+- [MITRA Browser Extensions](#mitra-browser-extensions)
 - [MITRA Dictionaries](#mitra-dictionaries)
 - [MITRA Models & API](#mitra-models--api)
   - [ByT5-Sanskrit](#byt5-sanskrit)
@@ -73,9 +74,42 @@ By setting the target language to `English (Explained)`, additional grammatical 
     - Search for high-level concepts expressed in modern languages like English 
     - Filter options to narrow down results to language, collection, category, and even individual text
     - Results link directly into [DharmaNexus](https://dharmanexus.org), where further multilingual parallels and intertextuality can be explored. 
+
 ---
 
-## MITRA Dictionaries
+## MITRA Browser Extensions
+
+> *Browser extensions for instant access to Dharmamitra translation and language tools directly from any webpage.*
+
+**Dharmamitra Language Tools** browser extensions bring the power of Dharmamitra's machine translation and grammatical analysis capabilities directly to your browser, enabling seamless translation and analysis of Sanskrit, Pāli, Tibetan, and Buddhist Chinese texts while browsing the web.
+
+#### Features
+
+- **Instant Translation**: Translate selected text from Sanskrit, Pāli, Tibetan, and Buddhist Chinese to English
+- **Grammatical Analysis**: Access detailed morphological and syntactic analysis of selected text
+- **Cross-Platform Support**: Available for both Chrome and Firefox browsers
+- **Privacy-Focused**: No data collection or tracking - all processing happens through the Dharmamitra API
+- **Easy Integration**: Works on any webpage with selectable text
+
+#### Installation
+
+- **Chrome Extension**: Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/dharmamitra-language-tool/jlmleoklbpdehnokplffodjomekoiadl) (526+ users, 5.0 rating)
+- **Firefox Extension**: Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dharmamitra-language-tools/) (8+ users)
+
+#### Usage
+
+1. Install the extension for your browser
+2. Select any Sanskrit, Pāli, Tibetan, or Buddhist Chinese text on any webpage
+3. Right-click and choose "Translate with Dharmamitra" or use the extension's context menu
+4. View instant translation and grammatical analysis results
+
+#### License
+
+Released under GNU General Public License v3.0, ensuring the extension remains open source and freely available.
+
+---
+
+## MITRA Dictionaries
 
 > Auto‑generated **Sanskrit ↔ Tibetan** termbanks derived from 600 k parallel sentence pairs (≈ 4 million entries).
 
