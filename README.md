@@ -15,9 +15,6 @@
 - [MITRA Models & API](#mitra-models--api)
   - [ByT5-Sanskrit](#byt5-sanskrit)
 - [MITRA Publications](#mitra-publications)
-- [Contributing](#contributing)
-- [License](#license)
-- [Citation](#citation)
 
 ---
 <div align="center">
@@ -54,8 +51,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 ---
 
 ## MITRA OCR
-> *High‑accuracy OCR based on Google Gemini engine.*
-We now feature fast OCR powered by the Gemini engine for high-accuracy text extraction from Sanskrit, Tibetan, and Chinese typeset documents.
+> *Fast OCR powered by the Gemini engine for high-accuracy text extraction from Sanskrit, Tibetan, and Chinese typeset documents.*
 
 - **Features:**
   - Upload PDFs up to 100MB in size
@@ -144,21 +140,4 @@ The complete inference scripts and applications are available in the [ByT5-Sansk
 
 ---
 
-
----
-
-## Contributing
-
-
----
-
-## License
-
-
----
-
-## Citation
-
-
-Happy researching! 🚀
 
