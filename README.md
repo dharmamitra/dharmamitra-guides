@@ -38,19 +38,32 @@
 ## MITRA Translate
 
 > *Neural machine translation models fine‑tuned for Buddhist domain texts.*
-
+We offer free-for-access machine translation capabilities live at [Dharmamitra](https://dharmanexus.org). 
 - **Languages supported:**
   - Sanskrit → English
   - Pāli → English
   - Tibetan → English  
   - Classical Chinese → English
 
+We support translate-from-image, just upload your image to the translator! 
+- **English Explained Mode:** 
+By setting the target language to `English (Explained)`, additional grammatical explanations are added to the translation, based on dedicated grammatical preprocessing models. These explanations include word segmentation, lemmatization, morpho-syntactic analysis, and context-aware meanings for each word.
+
 - **Model:** Standalone many-to-one translation model is available on 🤗 [Hugging Face](https://huggingface.co/buddhist-nlp/gemma-2-mitra-it).
 ---
 
 ## MITRA OCR
-
 > *High‑accuracy OCR based on Google Gemini engine.*
+We now feature fast OCR powered by the Gemini engine for high-accuracy text extraction from Sanskrit, Tibetan, and Chinese typeset documents.
+
+- **Features:**
+  - Upload PDFs up to 100MB in size
+  - Automatic conversion to IAST/Wylie transliteration when needed
+  - Direct image upload to translator for screenshot-to-translation workflow
+  - Integrated with MITRA Translate for seamless OCR → translation pipeline
+
+
+> *Note: We are currently also developing our own customized OCR models optimized specifically for Buddhist texts.*
 
 ---
 
