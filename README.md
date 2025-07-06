@@ -51,7 +51,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 ---
 
 ## MITRA OCR
-> *Fast OCR powered by the Gemini engine for high-accuracy text extraction from Sanskrit, Tibetan, and Chinese typeset documents.*
+> *Fast OCR powered by the Gemini engine for high-accuracy text extraction from Sanskrit, Tibetan, and Chinese typeset documents available live at [Dharmamitra](https://dharmamitra.org).*
 
 - **Features:**
   - Upload PDFs up to 100MB in size
@@ -65,9 +65,14 @@ By setting the target language to `English (Explained)`, additional grammatical 
 ---
 
 ## MITRA Search
+> *Semantic search across document collections in Pāli, Sanskrit, Tibetan, and Chinese available live at [Dharmamitra](https://dharmamitra.org).*
 
-> *Approximate‑nearest‑neighbour semantic search across all four languages.*
-
+- **Features:**
+    - Powerful semantic search using state-of-the-art multilingual embedding models and sophisticated linguistic preprocessing 
+    - search for semantically related passages in the same language and across different languages (Sanskrit to Tibetan, Pāli to Chinese etc.)
+    - Search for high-level concepts expressed in modern languages like English 
+    - Filter options to narrow down results to language, collection, category, and even individual text
+    - Results link directly into [DharmaNexus](https://dharmanexus.org), where further multilingual parallels and intertextuality can be explored. 
 ---
 
 ## MITRA Dictionaries
