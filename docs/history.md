@@ -8,9 +8,11 @@ Dharmamitra was founded at UC Berkeley in **April 2023** by Kurt Keutzer and Seb
 
 ### Platform Launch and Growth (2024)
 
-Building on this initial success, we soft-launched the comprehensive Dharmamitra web platform in **April 2024**, just one year after the project's start. The platform debuted with machine translation capabilities for Sanskrit, Tibetan, Classical Chinese, and Pāli to English.
+Building on this initial success, we soft-launched the comprehensive [Dharmamitra web platform](https://dharmamitra.org) in **April 2024**, just one year after the project's start. The platform debuted with machine translation capabilities for Sanskrit, Tibetan, Classical Chinese, and Pāli to English.
 
 Without any formal advertising, the platform's utility and power attracted an initial community of approximately 500 unique users within its first few weeks.
+
+In autumn 2024 the release of the [Dharmamitra Chrome Extension](https://chromewebstore.google.com/detail/dharmamitra-language-tool/jlmleoklbpdehnokplffodjomekoiadl) followed, which saw rapid adaption among translators and researchers around the world. 
 
 ### Scaling and Expansion (2025)
 
