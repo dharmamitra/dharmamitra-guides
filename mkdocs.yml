@@ -1,0 +1,6 @@
+site_name: Dharmamitra Guides
+theme:
+  name: material
+repo_url: https://github.com/dharmamitra/dharmamitra-guides
+nav:
+  - 'Home': 'index.md' 
