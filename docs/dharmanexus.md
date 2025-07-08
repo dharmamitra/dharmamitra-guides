@@ -2,7 +2,7 @@
 
 ## DharmaNexus
 
-**[DharmaNexus](https://dharmanexus.org)** is a web platform for the exploration of intertextuality for literature preserved in Pāli, Sanskrit, Chinese, and Tibetan. Its technical foundation and user interface are a continuation of [BuddhaNexus](https://buddhanexus.net), and it is tightly integrated into MITRASearch and provides modernized algorithms that integrate sophisticated multilingual matching with deep semantic similarity capabilities provided by [Gemma 2 MITRA-E](https://huggingface.co/buddhist-nlp/gemma-2-mitra-e).
+**[DharmaNexus](https://dharmanexus.org)** is a web platform for the exploration of intertextuality for literature preserved in Pāli, Sanskrit, Chinese, and Tibetan. It also functions as the main textual reference database for [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research). Its technical foundation and user interface are a continuation of [BuddhaNexus](https://buddhanexus.net), and it is tightly integrated into MITRASearch and provides modernized algorithms that integrate sophisticated multilingual matching with deep semantic similarity capabilities provided by [Gemma 2 MITRA-E](https://huggingface.co/buddhist-nlp/gemma-2-mitra-e).
 
 ---
 
@@ -24,3 +24,36 @@ DharmaNexus helps you find intertextual connections within and between texts in 
 *   **Table View:** A sortable table of all matches.
 *   **Graph View:** Charts that visualize where matches are found.
 *   **Numbers View:** Uses standard numbering systems to locate matches in Pāli and Chinese texts.
+
+---
+
+### Underlying Data
+
+#### Pāli
+
+The Pāli textual corpus in DharmaNexus is drawn from several high-quality digital editions:
+
+*   The core canonical texts (Sutta, Vinaya, and Abhidhamma) are sourced from [SuttaCentral](https://suttacentral.net/)'s segmented texts from their [bilara-data](https://github.com/suttacentral/bilara-data) repository. This allows for precise linking to SuttaCentral.
+*   The commentarial literature (Aṭṭhakathā, Ṭīkā, and Anya) is from the Chaṭṭha Saṅgāyana edition published by the [Vipassana Research Institute (VRI)](https://tipitaka.org/).
+
+#### Sanskrit
+
+The Sanskrit corpus is extensive and has been gathered from multiple academic projects:
+
+*   [Göttingen Register of Electronic Texts in Indian Languages (GRETIL)](http://gretil.sub.uni-goettingen.de/gretil.html)
+*   [Digital Sanskrit Buddhist Canon (DSBC)](https://www.dsbcproject.org/)
+*   [Muktabodha Indological Research Institute](https://muktabodha.org/)
+*   [SuttaCentral](https://suttacentral.net/)
+
+While some minor standardization has been applied to make the matching process possible, the texts are largely presented as received from their sources. The collection is organized with Buddhist texts following the structure of the Tibetan Kangyur and Tengyur.
+#### Chinese
+
+The Chinese textual corpus was obtained from the [Chinese Buddhist Electronic Text Association (CBETA)](https://cbeta.org/).
+
+#### Tibetan
+
+The Tibetan textual corpora are obtained from various sources, including the **Asian Classics Input Projects (ACIP)** for the Tibetan Buddhist Canon, and the **[Tsadra Foundation](https://tsadra.org/)'s [Dharma Cloud](https://dharmacloud.tsadra.org/)**.
+
+In close collaboration with the [Tsadra Foundation](https://tsadra.org/), major collections such as the *rin chen gter mdzod*, *rNying ma rgyud ’bum*, and *rNying ma bka’ ma* will be added over time. We are also continuously expanding our collection of Sanskrit texts.
+
+
