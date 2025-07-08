@@ -2,7 +2,7 @@
 
 *Accelerating research on Classical Asian source languages with modern machine‑learning workflows.*
 
----
+
 <div align="center">
   <img src="assets/guides-logo.png" alt="Dharmamitra Logo" width="500">
 </div>
