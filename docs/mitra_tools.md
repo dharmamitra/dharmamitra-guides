@@ -4,7 +4,7 @@
 
 We offer free-for-access machine translation capabilities live at [Dharmamitra](https://dharmanexus.org). 
 
-### Languages supported:
+### Languages supported
 - Sanskrit → English
 - Pāli → English
 - Tibetan → English
@@ -59,7 +59,7 @@ We provide comprehensive grammatical analysis capabilities for Sanskrit powered 
 ## MITRA Search
 > *Semantic search across document collections in Pāli, Sanskrit, Tibetan, and Chinese available live at [Dharmamitra](https://dharmanexus.org).*
 
-### Features:
+### Features
 - Powerful semantic search using state-of-the-art multilingual embedding models and sophisticated linguistic preprocessing 
 - search for semantically related passages in the same language and across different languages (Sanskrit to Tibetan, Pāli to Chinese etc.)
 - Search for high-level concepts and ideas expressed in modern languages like English 
@@ -74,13 +74,14 @@ We provide comprehensive grammatical analysis capabilities for Sanskrit powered 
 
 **MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language in MITRA Translate to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of MITRA Search and [DharmaNexus](https://dharmanexus.org).
 
-### Features:
+### Features
 - **Comprehensive Translation**: Enhanced translations that incorporate semantic search results from across all language collections
 - **Parallel Discovery**: Automatic identification of parallel passages, translations, and related texts in different languages
 - **Contextual Analysis**: Deep semantic search reveals how concepts are expressed across the entire corpus
 - **DharmaNexus Integration**: Direct links to [DharmaNexus](https://dharmanexus.org) for exploring intertextual relationships and multilingual parallels
 - **Topical Queries**: Support for topical questions like "the definition of cetanā" with comprehensive literature evidence
 - **Evidence-Based Results**: All additional information is sourced from the extensive DharmaNexus database  
+- **Integration of Relevant Passages from Secondary Literature**: MITRA Deep Research will automatically check for relevant passages in secondary literature and cite it if good matches appear
 
 This mode provides a significantly superior translation experience by incorporating possibly relevant textual evidence and deeper context, making it ideal for serious translation, research, and academic work.
 
