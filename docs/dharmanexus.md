@@ -60,7 +60,7 @@ The complete Chinese data can be found on [GitHub](https://github.com/dharmamitr
 
 #### Tibetan
 
-The Tibetan textual corpora are obtained from various sources, including the **Asian Classics Input Projects (ACIP)** for the Tibetan Buddhist Canon, and the **[Tsadra Foundation](https://tsadra.org/)'s [Dharma Cloud](https://dharmacloud.tsadra.org/)**.
+The Tibetan textual corpora are obtained from various sources, including the Asian Classics Input Projects (ACIP) for the Tibetan Buddhist Canon, and the [Tsadra Foundation](https://tsadra.org/)'s [Dharma Cloud](https://dharmacloud.tsadra.org/).
 
 In close collaboration with the [Tsadra Foundation](https://tsadra.org/), major collections such as the *rin chen gter mdzod*, *rNying ma rgyud ’bum*, and *rNying ma bka’ ma* will be added over time. 
 
