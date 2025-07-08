@@ -15,7 +15,31 @@ We support translate-from-image, just upload your image to the translator!
 **English Explained Mode:** 
 By setting the target language to `English (Explained)`, additional grammatical explanations are added to the translation, based on dedicated grammatical preprocessing models. These explanations include word segmentation, lemmatization, morpho-syntactic analysis, and context-aware meanings for each word.
 
-**Model:** Standalone many-to-one translation model is available on 🤗 [Hugging Face](https://huggingface.co/buddhist-nlp/gemma-2-mitra-it).
+**Model:** Standalone many-to-one translation model is available on 🤗 [Hugging Face](https://huggingface.co/buddhist-nlp/gemma-2-mitra-it).
+
+---
+
+## MITRA Sanskrit Grammar
+
+> *Advanced grammatical analysis for Sanskrit texts with Sandhi segmentation, lemmatization, and detailed morphological annotations available live at [Dharmamitra](https://dharmamitra.org).*
+
+We provide comprehensive grammatical analysis capabilities for Sanskrit powered by the state-of-the-art [ByT5-Sanskrit](https://dharmamitra.github.io/dharmamitra-guides/mitra_models/#byt5-sanskrit) model.
+
+- **Features:**
+    - **Sandhi Segmentation**: Automatic breaking down of compound words and Sandhi formations
+    - **Lemmatization**: Identification of base forms and dictionary entries for each word
+    - **Grammatical Tags**: Detailed morphological analysis including case, gender, number, tense, mood, and voice
+    - **Lexical Candidates**: Multiple possible meanings and interpretations for each word
+    - **Interactive Interface**: Click the 'grammar' button after entering Sanskrit text to access detailed annotations
+
+**How to Use:**
+1. Enter a Sanskrit sentence into the translation field at [Dharmamitra](https://dharmamitra.org)
+2. Click the 'grammar' button that appears
+3. A side menu opens displaying comprehensive grammatical analysis including Sandhi segmentation, lemmatization, and grammatical tags
+4. Explore lexical candidates and morphological details for each word
+
+**Technical Details:**
+ByT5-Sanskrit is a grammatical annotation model trained on the [Digital Corpus of Sanskrit](http://www.sanskrit-linguistics.org/) by Oliver Hellwig
 
 ---
 

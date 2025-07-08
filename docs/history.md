@@ -4,7 +4,7 @@ The Dharmamitra project has rapidly evolved from its inception, driven by a miss
 
 ### Inception and Early Breakthroughs (2023)
 
-Dharmamitra was founded at UC Berkeley in **April 2023** by Kurt Keutzer and Sebastian Nehrdich. The project quickly gained momentum, and within just seven months, the team developed and released the **Monlam-Mitra machine translation model** in November 2023 in collaboration with [monlam.ai](https://monlam.ai). The team of monlam.ai did the necessary data collection, while we contributed automatized sentence alignment and machine translation model finetuning. This model represented a significant milestone as the first publicly available, functional solution for Tibetan-English machine translation.
+Dharmamitra was founded at [BAIR](https://bair.berkeley.edu/), UC Berkeley in **April 2023** by Kurt Keutzer and Sebastian Nehrdich. The project quickly gained momentum, and within just seven months, the team developed and released the **Monlam-Mitra machine translation model** in November 2023 in collaboration with [monlam.ai](https://monlam.ai). The team of monlam.ai did the necessary data collection, while we contributed automatized sentence alignment and machine translation model finetuning. This model represented a significant milestone as the first publicly available, functional solution for Tibetan-English machine translation.
 
 ### Platform Launch and Growth (2024)
 
