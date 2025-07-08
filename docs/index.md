@@ -15,6 +15,33 @@
 
 ## Acknowledgments
 
-We extend our deepest gratitude to the **[Tsadra Foundation](https://tsadra.org)** for their generous financial and spiritual support, which has made all of this work possible. Their funding has been instrumental in supporting the hosting of our models and providing critical infrastructure for our deep learning research and development efforts.
+We are immensely grateful to the following organizations for their generous support, which has been pivotal to the development of Dharmamitra. Their contributions have been instrumental in advancing our research and enabling us to provide our tools and data to the community.
+
+<table>
+  <tr>
+    <td align="center" width="200"><a href="https://tsadra.org"><img src="assets/tsadra-logo.svg" alt="Tsadra Foundation Logo" width="150"></a></td>
+    <td><strong><a href="https://tsadra.org">Tsadra Foundation</a></strong><br>For their generous financial and spiritual support, which has made all of this work possible. Their funding has been instrumental in supporting the hosting of our models and providing critical infrastructure for our deep learning research and development efforts.</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><strong>Foguang.ai</strong></td>
+    <td><strong><a href="https://foguang.ai">Foguang.ai</a></strong><br>For their collaboration on the development of Chinese to English translation for Venerable Master Hsing Yun's Complete Works and other Buddhist texts.</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><a href="https://monlam.ai"><img src="assets/monlam-ai-logo.png" alt="Monlam AI Logo" width="150"></a></td>
+    <td><strong><a href="https://monlam.ai">Monlam AI</a></strong><br>For their partnership in machine translation data collection for Tibetan and English.</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><a href="https://www.ymfz.org/?lang=en"><strong>Kumarajiva Project</strong></a></td>
+    <td><strong><a href="https://www.ymfz.org/?lang=en">Kumarajiva Project</a></strong><br>For their contributions to the development of Tibetan &lt;> Chinese capabilities and user interface for specific translation purposes.</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><a href="http://www.iitkgp.ac.in/"><img src="assets/iit-kharagpur-logo.png" alt="IIT Kharagpur Logo" width="150"></a></td>
+    <td><strong><a href="http://www.iitkgp.ac.in/">Indian Institute of Technology, Kharagpur</a></strong><br>For their work on the development of Sanskrit translation model development and Sanskrit &lt;> English dataset compilation.</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><a href="https://ai4bharat.org/"><img src="assets/ai4bharat-logo.svg" alt="AI4Bharat Logo" width="150"></a></td>
+    <td><strong><a href="https://ai4bharat.org/">AI4Bharat</a></strong><br>For their collaboration on the development of Sanskrit data collection.</td>
+  </tr>
+</table>
 
 --- 
