@@ -50,7 +50,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 
 **MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language in MITRA Translate to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of MITRA Search and [DharmaNexus](https://dharmanexus.org).
 
-**Features:**
+- **Features:**
     - **Comprehensive Translation**: Enhanced translations that incorporate semantic search results from across all language collections
     - **Parallel Discovery**: Automatic identification of parallel passages, translations, and related texts in different languages
     - **Contextual Analysis**: Deep semantic search reveals how concepts are expressed across the entire corpus
