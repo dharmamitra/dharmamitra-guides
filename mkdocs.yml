@@ -10,7 +10,7 @@ nav:
   - 'Home': 'index.md'
   - 'DharmaNexus': 'dharmanexus.md'
   - 'MITRA Tools': 'mitra_tools.md'
-  - 'MITRA Browser Extension': 'mitra_browser_extension.md'
+  - 'MITRA Browser Extensions': 'mitra_browser_extensions.md'
   - 'MITRA Dictionaries': 'mitra_dictionaries.md'
   - 'MITRA Models': 'mitra_models.md'
   - 'Datasets': 'datasets.md'
