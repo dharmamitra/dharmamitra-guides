@@ -89,4 +89,10 @@ The complete Tibetan data can be found on [GitHub](https://github.com/dharmamitr
 
 ### Technical Background 
 
-DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts from various text collections (See Sanskrit data description), which are then indexed on [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search), which has access to all the data available in DharmaNexus. For Tibetan, a special substitution-based stemmer based on [Paul Hackett's Tibetan Verb Lexicon](https://www.shambhala.com/a-tibetan-verb-lexicon-15252.html?srsltid=AfmBOoqO0LtadFcogdBf_YR8L207hBf8ycgHiyKw259R3TrLebxZJgjt) is used. Pāli uses a slightly adapted version of the ByT5-Sanskrit model for word segmentation. For Chinese, we use the standard analyzers provided by Elasticsearch. In addition to token-based search, DharmaNexus is also searchable in [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) via deep semantic embeddings on sentence and paragraph level.  
+DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts from various text collections (See Sanskrit data description), which are then indexed on [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search), which has access to all the data available in DharmaNexus. For Tibetan, a special substitution-based stemmer based on [Paul Hackett's Tibetan Verb Lexicon](https://www.shambhala.com/a-tibetan-verb-lexicon-15252.html?srsltid=AfmBOoqO0LtadFcogdBf_YR8L207hBf8ycgHiyKw259R3TrLebxZJgjt) is used. Pāli uses a slightly adapted version of the ByT5-Sanskrit model for word segmentation. For Chinese, we use the standard analyzers provided by Elasticsearch. In addition to token-based search, DharmaNexus is also searchable in [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) via deep semantic embeddings on sentence and paragraph level.
+
+---
+
+## FAQ
+
+For frequently asked questions about DharmaNexus, see the [DharmaNexus section](https://dharmamitra.github.io/dharmamitra-guides/faq/#mitra-search-dharmanexus) in our main FAQ document.  

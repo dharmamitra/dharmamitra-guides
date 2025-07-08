@@ -2,13 +2,15 @@
 
 > *Neural machine translation models fine‑tuned for Buddhist domain texts available live at [Dharmamitra](https://dharmamitra.org).*  
 
-We offer free-for-access machine translation capabilities live at [Dharmamitra](https://dharmanexus.org). 
+We offer free-for-access machine translation capabilities live at [Dharmamitra](https://dharmanexus.org). Currently, our main model uses a combination of in-context-learning and the Gemini API. 
 
 ### Languages supported
 - Sanskrit → English
 - Pāli → English
 - Tibetan → English
 - Classical Chinese → English
+
+We primarily focus on English as the target language, but support for other languages is growing. Notably, Korean is also well-supported due to a large user base.
 
 We support translate-from-image, just upload your image to the translator!  
 
@@ -23,7 +25,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 
 > *Advanced grammatical analysis for Sanskrit texts with Sandhi segmentation, lemmatization, and detailed morphological annotations available live at [Dharmamitra](https://dharmamitra.org).*
 
-We provide comprehensive grammatical analysis capabilities for Sanskrit powered by the state-of-the-art [ByT5-Sanskrit](https://dharmamitra.github.io/dharmamitra-guides/mitra_models/#byt5-sanskrit) model.
+We provide comprehensive grammatical analysis capabilities for Sanskrit powered by [ByT5-Sanskrit](https://dharmamitra.github.io/dharmamitra-guides/mitra_models/#byt5-sanskrit) model. This model represents the current state of the art for Sanskrit NLP, with an error rate roughly 50% lower than previous models and approaching the accuracy of a single human expert annotator.
 
 ### Features
 - **Sandhi Segmentation**: Automatic breaking down of compound words and Sandhi formations
@@ -87,43 +89,7 @@ This mode provides a significantly superior translation experience by incorporat
 
 --- 
 
-# FAQ: MITRA Tools & [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)
+## FAQ
 
-## MITRA Tools
+For frequently asked questions about the different MITRA tools, see the [MITRA Tools](https://dharmamitra.github.io/dharmamitra-guides/faq/#mitra-tools) section in our main FAQ document. 
 
-**Q: What languages does MITRA Translate support?**  
-A: Sanskrit, Pāli, Tibetan, and Classical Chinese to English. "English (Explained)" mode provides grammatical explanations.
-
-**Q: Can I translate text from images or PDFs?**  
-A: Yes! You can upload images or PDFs (up to 100MB) for OCR and translation. The system supports direct screenshot-to-translation workflows.
-
-**Q: What is "English (Explained)" mode?**  
-A: This mode adds grammatical explanations, including word segmentation, lemmatization, and morpho-syntactic analysis, to the translation.
-
-**Q: How do I access Sanskrit grammatical analysis?**  
-A: Enter Sanskrit text and click the 'grammar' button to see detailed analysis, including Sandhi segmentation and lemmatization.
-
-**Q: Is there a browser extension?**  
-A: Yes, MITRA browser extensions for Chrome and Firefox allow instant translation and grammatical analysis on any webpage.
-
-**Q: Are the tools free to use?**  
-A: Yes, all MITRA tools are free for access at [Dharmamitra](https://dharmamitra.org).
-
----
-
-## [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)
-
-**Q: What is [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)?**  
-A: [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) is a web platform for exploring intertextuality in Buddhist literature across Pāli, Sanskrit, Chinese, and Tibetan. It powers [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research).
-
-**Q: How does [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) find parallels?**  
-A: It uses advanced semantic search and multilingual matching to highlight similar passages across texts and languages.
-
-**Q: What data sources does [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) use?**  
-A: [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) draws from SuttaCentral, CBETA, DSBC, GRETIL, Muktabodha, ACIP, and more, with ongoing data expansion.
-
-**Q: Can I filter or customize my search?**  
-A: Yes, you can filter by similarity score, match length, collection, and text. Multiple result views (text, table, graph, numbers) are available.
-
-**Q: Is [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) integrated with MITRA tools?**  
-A: Yes, [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research) use [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) for semantic search and parallel discovery. 
