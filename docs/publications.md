@@ -1,4 +1,4 @@
-## MITRA Publications
+## Relevant Publications
 
 *Chronological list of key peer‑reviewed outputs underpinning the project.*
 
