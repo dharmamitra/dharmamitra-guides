@@ -2,7 +2,7 @@
 
 > *Browser extensions for instant access to Dharmamitra translation and language tools directly from any webpage.*
 
-**Dharmamitra Language Tools** browser extensions bring the power of Dharmamitra's machine translation, grammatical analysis and **[MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research)** capabilities directly to your browser, enabling seamless translation and analysis of Sanskrit, Pāli, Tibetan, and Buddhist Chinese texts while browsing the web.
+**Dharmamitra Language Tools** browser extensions bring the power of Dharmamitra's machine translation, grammatical analysis and **[MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/deep_research/)** capabilities directly to your browser, enabling seamless translation and analysis of Sanskrit, Pāli, Tibetan, and Buddhist Chinese texts while browsing the web.
 
 #### Features
 

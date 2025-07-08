@@ -27,16 +27,16 @@ This is a hands-on workshop with exercises. Participants will have to bring thei
 
 ---
 
-### **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search)**: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI
+### **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/)**: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI
 **March 2025**
 
 *CEAL (Council on East Asian Libraries) Technology Forum, Columbus, Ohio*
 
-Recent advances in artificial intelligence and natural language processing have revolutionized information retrieval and question-answering systems. This talk introduces **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search)**, a specialized search platform designed for exploring Buddhist literature preserved across Classical Asian languages including Chinese, Tibetan, Sanskrit, and Pāli. The system leverages multilingual approximate search capabilities to enable scholars to identify parallel passages and conduct comparative analyses across different writing systems and translations. We demonstrate how large language models integrated into the Dharmamitra project enhance user interaction with search results, facilitating dynamic exploration of these classical texts. This innovation addresses the long-standing challenge of cross-linguistic textual research in Buddhist studies and offers new possibilities for digital humanities scholarship.
+Recent advances in artificial intelligence and natural language processing have revolutionized information retrieval and question-answering systems. This talk introduces **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/)**, a specialized search platform designed for exploring Buddhist literature preserved across Classical Asian languages including Chinese, Tibetan, Sanskrit, and Pāli. The system leverages multilingual approximate search capabilities to enable scholars to identify parallel passages and conduct comparative analyses across different writing systems and translations. We demonstrate how large language models integrated into the Dharmamitra project enhance user interaction with search results, facilitating dynamic exploration of these classical texts. This innovation addresses the long-standing challenge of cross-linguistic textual research in Buddhist studies and offers new possibilities for digital humanities scholarship.
 
 ---
 
-### **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search)**: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search
+### **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/)**: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search
 **December 2024**
 
 *Ito International Research Center, Thanksgiving Hall, Tokyo, Japan*
@@ -45,7 +45,7 @@ Part of the International Symposium "Buddhist Studies and Digital Humanities: 10
 
 Session: Machine Translation and Buddhist Studies (15:30-16:30)
 
-This talk will present **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search)**, a system for exploring Buddhist literature preserved in classical Asian languages through multilingual approximate search capabilities. The presentation will demonstrate how this technology enables scholars to search across Buddhist texts in different languages and writing systems, facilitating comparative textual research and discovery of parallel passages.
+This talk will present **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/)**, a system for exploring Buddhist literature preserved in classical Asian languages through multilingual approximate search capabilities. The presentation will demonstrate how this technology enables scholars to search across Buddhist texts in different languages and writing systems, facilitating comparative textual research and discovery of parallel passages.
 
 ---
 
