@@ -1,6 +1,6 @@
 # Dharmamitra: Open Tools for Translation and Digital Philology of Ancient Asian Languages
 
-*Accelerating research on Classical Asian source languages with modern machine‑learning workflows.*
+*Accelerating research on Classical Asian source languages with modern deep‑learning methods.*
 
 
 <div align="center">
