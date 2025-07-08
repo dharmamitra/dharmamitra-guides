@@ -20,7 +20,7 @@ By mid-2025, two years after its founding, Dharmamitra had demonstrated signific
 
 ### The Future of Dharmamitra
 
-For the summer of 2025, the addition of the major features **DharmaNexus**, **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search)**, and the **[MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research)** mode is scheduled. These new tools are designed to drastically enhance the philological utility of the platform, empowering scholars and researchers to explore textual connections and historical context alongside machine translation in unprecedented ways.
+For the summer of 2025, the addition of the major features **[DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)**, **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search)**, and the **[MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research)** mode is scheduled. These new tools are designed to drastically enhance the philological utility of the platform, empowering scholars and researchers to explore textual connections and historical context alongside machine translation in unprecedented ways.
 
 Looking forward, Dharmamitra is committed to increasing API transparency and providing more options for other teams to build upon its robust infrastructure, fostering a collaborative ecosystem for digital humanities. 
 

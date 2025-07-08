@@ -72,7 +72,7 @@ We provide comprehensive grammatical analysis capabilities for Sanskrit powered 
 
 > *Advanced translation mode that provides comprehensive research context by integrating deep semantic search across entire data collections.*
 
-**MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language in MITRA Translate to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of MITRA Search and [DharmaNexus](https://dharmanexus.org).
+**MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language in MITRA Translate to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) and [DharmaNexus](https://dharmanexus.org).
 
 ### Features
 - **Comprehensive Translation**: Enhanced translations that incorporate semantic search results from across all language collections
@@ -86,3 +86,44 @@ We provide comprehensive grammatical analysis capabilities for Sanskrit powered 
 This mode provides a significantly superior translation experience by incorporating possibly relevant textual evidence and deeper context, making it ideal for serious translation, research, and academic work.
 
 --- 
+
+# FAQ: MITRA Tools & [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)
+
+## MITRA Tools
+
+**Q: What languages does MITRA Translate support?**  
+A: Sanskrit, Pāli, Tibetan, and Classical Chinese to English. "English (Explained)" mode provides grammatical explanations.
+
+**Q: Can I translate text from images or PDFs?**  
+A: Yes! You can upload images or PDFs (up to 100MB) for OCR and translation. The system supports direct screenshot-to-translation workflows.
+
+**Q: What is "English (Explained)" mode?**  
+A: This mode adds grammatical explanations, including word segmentation, lemmatization, and morpho-syntactic analysis, to the translation.
+
+**Q: How do I access Sanskrit grammatical analysis?**  
+A: Enter Sanskrit text and click the 'grammar' button to see detailed analysis, including Sandhi segmentation and lemmatization.
+
+**Q: Is there a browser extension?**  
+A: Yes, MITRA browser extensions for Chrome and Firefox allow instant translation and grammatical analysis on any webpage.
+
+**Q: Are the tools free to use?**  
+A: Yes, all MITRA tools are free for access at [Dharmamitra](https://dharmamitra.org).
+
+---
+
+## [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)
+
+**Q: What is [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)?**  
+A: [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) is a web platform for exploring intertextuality in Buddhist literature across Pāli, Sanskrit, Chinese, and Tibetan. It powers [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research).
+
+**Q: How does [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) find parallels?**  
+A: It uses advanced semantic search and multilingual matching to highlight similar passages across texts and languages.
+
+**Q: What data sources does [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) use?**  
+A: [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) draws from SuttaCentral, CBETA, DSBC, GRETIL, Muktabodha, ACIP, and more, with ongoing data expansion.
+
+**Q: Can I filter or customize my search?**  
+A: Yes, you can filter by similarity score, match length, collection, and text. Multiple result views (text, table, graph, numbers) are available.
+
+**Q: Is [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) integrated with MITRA tools?**  
+A: Yes, [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research) use [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) for semantic search and parallel discovery. 

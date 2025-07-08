@@ -17,5 +17,6 @@ nav:
   - 'Publications': 'publications.md'
   - 'Presentations': 'presentations.md'
   - 'History': 'history.md'
+  - 'Frequently Asked Questions': 'faq.md'
 extra_css:
   - stylesheets/extra.css 
