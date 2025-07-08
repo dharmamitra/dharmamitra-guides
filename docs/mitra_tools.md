@@ -1,13 +1,14 @@
 ## MITRA Translate
 
-> *Neural machine translation models fine‑tuned for Buddhist domain texts.*  
+> *Neural machine translation models fine‑tuned for Buddhist domain texts available live at [Dharmamitra](https://dharmamitra.org).*  
 
 We offer free-for-access machine translation capabilities live at [Dharmamitra](https://dharmanexus.org). 
+
 - **Languages supported:**
-    - Sanskrit → English
-    - Pāli → English
-    - Tibetan → English  
-    - Classical Chinese → English
+    - Sanskrit → English
+    - Pāli → English
+    - Tibetan → English
+    - Classical Chinese → English
 
 We support translate-from-image, just upload your image to the translator!  
 
