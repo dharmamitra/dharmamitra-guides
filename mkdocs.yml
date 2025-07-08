@@ -15,6 +15,7 @@ nav:
   - 'MITRA Models': 'mitra_models.md'
   - 'Datasets': 'datasets.md'
   - 'Publications': 'publications.md'
+  - 'Presentations': 'presentations.md'
   - 'History': 'history.md'
 extra_css:
   - stylesheets/extra.css 
