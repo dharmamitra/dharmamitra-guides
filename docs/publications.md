@@ -13,6 +13,7 @@
 
 ### 2023
 
+- **Observations on the Intertextuality of Selected Abhidharma Texts Preserved in Chinese Translation.** *Sebastian Nehrdich.* *Religions*, Vol. 14, No. 7, Art. 911. [DOI](https://doi.org/10.3390/rel14070911)
 - **MITRA‑zh: An efficient, open machine translation solution for Buddhist Chinese.** *Sebastian Nehrdich, Marcus Bingenheimer, Justin Brody, Kurt Keutzer.* *Proceedings of the Joint 3rd Intl. Conf. on NLP for Digital Humanities & 8th IWCLUL*, Tokyo, pp. 266–277. [ACL Anthology](https://aclanthology.org/2023.nlp4dh-1.29/)
 
 ### 2022
