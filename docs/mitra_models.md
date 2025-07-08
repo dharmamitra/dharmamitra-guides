@@ -1,10 +1,12 @@
-## MITRA Models & API
+## MITRA Models & API
 
 ### ByT5-Sanskrit
 
 > *A unified byte-level language model for Sanskrit NLP tasks, achieving state-of-the-art performance on word segmentation, lemmatization, morphosyntactic tagging, and dependency parsing.*
 
 **ByT5-Sanskrit** is a specialized pretrained language model designed for processing the morphologically rich Sanskrit language. Built on the byte-level ByT5 architecture, it eliminates the need for complex tokenization schemes and achieves excellent performance across multiple Sanskrit NLP tasks.
+
+**Publication**: *One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks* ([EMNLP 2024](https://aclanthology.org/2024.findings-emnlp.805/))
 
 #### Key Features
 
