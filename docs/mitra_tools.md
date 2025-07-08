@@ -3,11 +3,11 @@
 > *Neural machine translation models fine‑tuned for Buddhist domain texts.*  
 
 We offer free-for-access machine translation capabilities live at [Dharmamitra](https://dharmanexus.org). 
-**Languages supported:**
-  - Sanskrit → English
-  - Pāli → English
-  - Tibetan → English  
-  - Classical Chinese → English
+- **Languages supported:**
+    - Sanskrit → English
+    - Pāli → English
+    - Tibetan → English  
+    - Classical Chinese → English
 
 We support translate-from-image, just upload your image to the translator!  
 
@@ -21,7 +21,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 ## MITRA OCR
 > *Fast OCR powered by the Gemini engine for high-accuracy text extraction from Sanskrit, Tibetan, and Chinese typeset documents available live at [Dharmamitra](https://dharmamitra.org).* 
 
-**Features:**
+- **Features:**
     - Upload PDFs up to 100MB in size
     - Automatic conversion to IAST/Wylie transliteration when needed
     - Direct image upload to translator for screenshot-to-translation workflow
@@ -33,7 +33,7 @@ By setting the target language to `English (Explained)`, additional grammatical 
 ---
 
 ## MITRA Search
-> *Semantic search across document collections in Pāli, Sanskrit, Tibetan, and Chinese available live at [Dharmamitra](https://dharmamitra.org).*
+> *Semantic search across document collections in Pāli, Sanskrit, Tibetan, and Chinese available live at [Dharmamitra](https://dharmanexus.org).*
 
 - **Features:**
     - Powerful semantic search using state-of-the-art multilingual embedding models and sophisticated linguistic preprocessing 
