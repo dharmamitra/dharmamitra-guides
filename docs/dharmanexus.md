@@ -8,9 +8,7 @@ In addition to its role as a database, DharmaNexus offers a web platform for exp
 
 
 ---
-### Technical Background 
-
-DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts from various text collections (See Sanskrit data description), which are then indexed on [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search), which has access to all the data available in DharmaNexus. For Tibetan, a special substitution-based stemmer based on [Paul Hackett's Tibetan Verb Lexicon](https://www.shambhala.com/a-tibetan-verb-lexicon-15252.html?srsltid=AfmBOoqO0LtadFcogdBf_YR8L207hBf8ycgHiyKw259R3TrLebxZJgjt) is used. Pāli uses a slightly adapted version of the ByT5-Sanskrit model for word segmentation. For Chinese, we use the standard analyzers provided by Elasticsearch. In addition to token-based search, DharmaNexus is also searchable in [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) via deep semantic embeddings on sentence and paragraph level.   
+ 
 
 ### Getting Started
 
@@ -32,19 +30,21 @@ DharmaNexus offers a **simple and intuitive way to explore vast collections of B
 
 DharmaNexus helps you find intertextual connections within and between texts in Pāli, Sanskrit, Chinese, and Tibetan.
 
-**1. See the matches:** While reading, you can choose to reveal intertextual connections by toggling the **Show Matches** switch. When enabled, DharmaNexus highlights passages in your text that have similarities in other texts in the database. This is visualized with a colored heatmap indicating the amount of textual reuse at each position. Clicking on a highlighted passage will display overlapping text sections from other texts in a new column, allowing for deeper exploration of parallels and connections.
+**1. See the matches:** While reading, you can choose to reveal intertextual connections by toggling the **Show Matches** switch. When enabled, DharmaNexus highlights passages in your text that have similarities in other texts in the database. 
+   - After clicking on such a highlighted text passage, the matches with other texts are then shown in a new column. Hovering over a parallel will highlight the corresponding segment in the source text.
+   - Clicking on a specific parallel will open that text in a **third column**, allowing you to compare the two texts side-by-side.
 
 **2. Filter your results:** You can narrow down the matches with filters:
 
-*   **Similarity Score:** Control how similar the text passages should be.
-*   **Match Length:** Set a minimum length for matches.
-*   **Limit or Exclude:** Focus your search on specific collections or texts.
+*   **Similarity Score:** This controls how similar a passage must be to be considered a match. A score of 100 indicates a perfect, verbatim match, while a lower score allows for more variation, showing passages that are semantically similar but not identical.
+*   **Match Length:** Sets the minimum number of characters for a parallel. You might use a shorter length when looking for verse parallels and a longer one for prose to ensure the matches are significant.
+*   **Limit or Exclude:** Focus your search by including or excluding specific collections or texts. For example, you could exclude all commentaries to see only parallels within the canonical texts.
 
 **3. Choose your view:** DharmaNexus provides different ways to see the results:
 
 *   **Text View:** The default view, showing your text with highlighted matches.
-*   **Table View:** A sortable table of all matches.
-*   **Graph View:** Charts that visualize where matches are found.
+*   **Table View:** A sortable table of all matches, which can be downloaded as a spreadsheet.
+*   **Graph View:** Visualizes the distribution of matches for your selected text via a histogram. This chart shows which other texts or collections contain the most parallels, helping you quickly identify the most relevant connections at a glance.
 *   **Numbers View:** Uses standard numbering systems to locate matches in Pāli and Chinese texts.
 
 ---
@@ -87,3 +87,6 @@ In close collaboration with the [Tsadra Foundation](https://tsadra.org/), major 
 The complete Tibetan data can be found on [GitHub](https://github.com/dharmamitra/dharmanexus-tibetan). 
 
 
+### Technical Background 
+
+DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts from various text collections (See Sanskrit data description), which are then indexed on [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search), which has access to all the data available in DharmaNexus. For Tibetan, a special substitution-based stemmer based on [Paul Hackett's Tibetan Verb Lexicon](https://www.shambhala.com/a-tibetan-verb-lexicon-15252.html?srsltid=AfmBOoqO0LtadFcogdBf_YR8L207hBf8ycgHiyKw259R3TrLebxZJgjt) is used. Pāli uses a slightly adapted version of the ByT5-Sanskrit model for word segmentation. For Chinese, we use the standard analyzers provided by Elasticsearch. In addition to token-based search, DharmaNexus is also searchable in [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) via deep semantic embeddings on sentence and paragraph level.  
