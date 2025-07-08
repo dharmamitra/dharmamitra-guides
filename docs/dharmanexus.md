@@ -2,7 +2,7 @@
 
 ## DharmaNexus
 
-**[DharmaNexus](https://dharmanexus.org)** is a multilingual text database for Classical Asian languages that serves as the foundation for the Dharmamitra platform. It hosts our ever-growing collection of texts in Pāli, Sanskrit, Chinese, and Tibetan and is tightly integrated with [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-deep-research). This provides advanced fuzzy, semantic, and cross-lingual search capabilities, and is one of the few databases that provide search capabilities over large Sanskrit collections. 
+**[DharmaNexus](https://dharmanexus.org)** is a multilingual text database for Classical Asian languages that serves as the foundation for the Dharmamitra platform. It hosts our ever-growing collection of texts in Pāli, Sanskrit, Chinese, and Tibetan and is tightly integrated with [MITRA Search](mitra_tools/search.md) and [MITRA Deep Research](mitra_tools/deep_research.md). This provides advanced fuzzy, semantic, and cross-lingual search capabilities, and is one of the few databases that provide search capabilities over large Sanskrit collections. 
 
 In addition to its role as a database, DharmaNexus offers a web platform for exploring intertextuality between these texts, in monolingual as well as multilingual settings. This feature, along with its technical foundation, is a continuation of the [BuddhaNexus](https://buddhanexus.net) project. It employs modernized algorithms that combine multilingual matching with deep semantic similarity from [Gemma 2 MITRA-E](https://huggingface.co/buddhist-nlp/gemma-2-mitra-e).
 
@@ -15,7 +15,7 @@ In addition to its role as a database, DharmaNexus offers a web platform for exp
 DharmaNexus offers a **simple and intuitive way to explore vast collections of Buddhist texts** in Pāli, Sanskrit, Chinese, and Tibetan.
 
 1. **Choose your language:** Start by selecting your preferred language from the main interface.
-2. **Select a text:** Browse the available menu to quickly find a text of interest. Whether you know exactly what you're looking for or just want to explore, DharmaNexus makes navigation easy. You can browse the collections with their individual categories to get to a text, or you can type in the name of the text or the catalog number you are looking for to jump in directly. For full text and semantic search, you can of course use [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) to jump directly to a passage that you are interested in. 
+2. **Select a text:** Browse the available menu to quickly find a text of interest. Whether you know exactly what you're looking for or just want to explore, DharmaNexus makes navigation easy. You can browse the collections with their individual categories to get to a text, or you can type in the name of the text or the catalog number you are looking for to jump in directly. For full text and semantic search, you can of course use [MITRA Search](mitra_tools/search.md) to jump directly to a passage that you are interested in. 
 
 3. **Read and navigate:** The platform opens your chosen text in a clean reading view. You can:
    - **Scroll** through the content
@@ -89,7 +89,7 @@ The complete Tibetan data can be found on [GitHub](https://github.com/dharmamitr
 
 ### Technical Background 
 
-DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts from various text collections (See Sanskrit data description), which are then indexed on [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search), which has access to all the data available in DharmaNexus. For Tibetan, a special substitution-based stemmer based on [Paul Hackett's Tibetan Verb Lexicon](https://www.shambhala.com/a-tibetan-verb-lexicon-15252.html?srsltid=AfmBOoqO0LtadFcogdBf_YR8L207hBf8ycgHiyKw259R3TrLebxZJgjt) is used. Pāli uses a slightly adapted version of the ByT5-Sanskrit model for word segmentation. For Chinese, we use the standard analyzers provided by Elasticsearch. In addition to token-based search, DharmaNexus is also searchable in [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/#mitra-search) via deep semantic embeddings on sentence and paragraph level.
+DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts from various text collections (See Sanskrit data description), which are then indexed on [MITRA Search](mitra_tools/search.md), which has access to all the data available in DharmaNexus. For Tibetan, a special substitution-based stemmer based on [Paul Hackett's Tibetan Verb Lexicon](https://www.shambhala.com/a-tibetan-verb-lexicon-15252.html?srsltid=AfmBOoqO0LtadFcogdBf_YR8L207hBf8ycgHiyKw259R3TrLebxZJgjt) is used. Pāli uses a slightly adapted version of the ByT5-Sanskrit model for word segmentation. For Chinese, we use the standard analyzers provided by Elasticsearch. In addition to token-based search, DharmaNexus is also searchable in [MITRA Search](mitra_tools/search.md) via deep semantic embeddings on sentence and paragraph level.
 
 ---
 
