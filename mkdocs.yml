@@ -5,10 +5,12 @@ theme:
   palette:
     primary: 'custom'
 repo_url: https://github.com/dharmamitra/dharmamitra-guides
+# Added a comment to trigger a rebuild
 nav:
   - 'Home': 'index.md'
   - 'DharmaNexus': 'dharmanexus.md'
   - 'MITRA Tools': 'mitra_tools.md'
+  - 'MITRA Browser Extension': 'mitra_browser_extension.md'
   - 'MITRA Dictionaries': 'mitra_dictionaries.md'
   - 'MITRA Models': 'mitra_models.md'
   - 'Datasets': 'datasets.md'
