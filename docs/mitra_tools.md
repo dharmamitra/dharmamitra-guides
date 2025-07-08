@@ -32,7 +32,7 @@ We provide comprehensive grammatical analysis capabilities for Sanskrit powered 
     - **Lexical Candidates**: Multiple possible meanings and interpretations for each word
     - **Interactive Interface**: Click the 'grammar' button after entering Sanskrit text to access detailed annotations
 
-**How to Use:**
+- **How to Use:**
   - Enter a Sanskrit sentence into the translation field at [Dharmamitra](https://dharmamitra.org)
   - Click the 'grammar' button that appears
   - A side menu opens displaying comprehensive grammatical analysis including Sandhi segmentation, lemmatization, and grammatical tags

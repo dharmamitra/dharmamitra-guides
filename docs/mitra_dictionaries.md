@@ -6,7 +6,7 @@
 
 These StarDict format dictionaries are created from parallel sentence alignments to assist in research for Sanskrit<>Tibetan. They can be used with GoldenDict and other compatible viewers.
 
-**Dictionaries Available:**
+- **Dictionaries Available:**
   - **MITRA sa-bo:** Sanskrit to Tibetan dictionary
     - **Download:** [mitra-dictionary-skt-tib.zip](https://dharmamitra.org/pub/dictionaries/mitra-dictionary-skt-tib.zip)
   - **MITRA bo-sa:** Tibetan to Sanskrit dictionary
