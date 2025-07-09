@@ -1,4 +1,6 @@
 site_name: Dharmamitra Documentation
+site_url: https://dharmamitra.org/dharmamitra-guides/
+use_directory_urls: true
 theme:
   name: material
   logo: assets/mitra-logo-header.png
