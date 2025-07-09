@@ -8,6 +8,7 @@ repo_url: https://github.com/dharmamitra/dharmamitra-guides
 # Added a comment to trigger a rebuild
 nav:
   - 'Home': 'index.md'
+  - 'Acknowledgments': 'acknowledgments.md'
   - 'MITRA Tools':
     - 'Overview': 'mitra_tools/index.md'
     - 'Translate': 'mitra_tools/translate.md'
