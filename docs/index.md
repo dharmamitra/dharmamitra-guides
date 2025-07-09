@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="assets/guides-logo-animated.webp" alt="Dharmamitra Logo" width="500">
+  <img src="assets/guides-logo-animated.webp" alt="Dharmamitra Logo" width="500" style="animation-iteration-count: 1;">
 </div>
 
 ## About Dharmamitra
@@ -13,35 +13,26 @@
 
 ---
 
-## Acknowledgments
+## News
 
-We are immensely grateful to the following organizations for their generous support. Their contributions have been instrumental in advancing our research and enabling us to provide our tools and data to the community.
-
-<table>
-  <tr>
-    <td align="center" width="200"><a href="https://tsadra.org"><img src="assets/tsadra.png" alt="Tsadra Foundation Logo" width="150"></a></td>
-    <td><strong><a href="https://tsadra.org">Tsadra Foundation</a></strong><br>For their generous financial and spiritual support. Their funding has been instrumental in supporting the hosting of our models and providing critical infrastructure for our deep learning research and development efforts.</td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><a href="https://foguang.ai"><img src="assets/fgsai.png" alt="Foguangshan AI Logo" width="150"></a></td>
-    <td><strong><a href="https://foguang.ai">Foguang.ai</a></strong><br>For their collaboration, including financial support, on the development of Chinese to English translation for Venerable Master Hsing Yun's Complete Works and other Buddhist texts.</td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><a href="https://monlam.ai"><img src="assets/monlam-ai-logo.png" alt="Monlam AI Logo" width="150"></a></td>
-    <td><strong><a href="https://monlam.ai">Monlam AI</a></strong><br>For their partnership in machine translation data collection, alignment, and model training for Tibetan and English.</td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><a href="https://www.ymfz.org/?lang=en"><img src="assets/kumarajiva.svg" alt="Kumarajiva Project Logo" width="150"></a></td>
-    <td><strong><a href="https://www.ymfz.org/?lang=en">Kumarajiva Project</a></strong><br>For their contributions to the development of Tibetan &lt;> Chinese capabilities and user interface for specific translation purposes.</td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><a href="http://www.iitkgp.ac.in/"><img src="assets/iitkgp.svg" alt="IIT Kharagpur Logo" width="150"></a></td>
-    <td><strong><a href="http://www.iitkgp.ac.in/">Indian Institute of Technology, Kharagpur</a></strong><br>For their work on the development of Sanskrit translation models and Sanskrit &lt;> English dataset compilation.</td>
-  </tr>
-  <tr>
-    <td align="center" width="200"><a href="https://ai4bharat.org/"><img src="assets/ai4bharat.svg" alt="AI4Bharat Logo" width="150"></a></td>
-    <td><strong><a href="https://ai4bharat.org/">AI4Bharat</a></strong><br>For their collaboration on Sanskrit data collection.</td>
-  </tr>
-</table>
+*   **March 2025:** We conducted a hands-on workshop on "[Machine Translation for Asian Studies](https://dharmamitra.github.io/dharmamitra-guides/presentations/#machine-translation-for-asian-studies)" at the [Annual Conference of the Association of Asian Studies](https://www.asianstudies.org/conference/) in Columbus, Ohio.
+*   **March 2025:** We presented "[MITRA Search: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-search-building-information-retrieval-systems-for-classical-asian-languages-in-the-age-of-ai)" at the [CEAL Technology Forum](https://www.eastasianlib.org/) in Columbus, Ohio.
+*   **2025:** Our paper "[MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics](https://aclanthology.org/2025.nlp4dh-1.12/)" has been published in the *Proc. 5th Intl. Conf. on NLP for Digital Humanities* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2025)).
+*   **December 2024:** We presented "[MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-search-exploring-buddhist-literature-preserved-in-classical-asian-languages-with-multilingual-approximate-search)" at the International Symposium "Buddhist Studies and Digital Humanities" in Tokyo, Japan.
+*   **November 2024:** We gave a presentation on "[Dharmamitra](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra)" online for an audience in Heidelberg, Germany ([recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)).
+*   **November 2024:** We presented "[Dharmamitra: Developing a Toolkit for Philological Work on Premodern Asian Low-Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-developing-a-toolkit-for-philological-work-on-premodern-asian-low-resource-languages)" at a workshop at L'Orientale University of Naples, Italy.
+*   **October 2024:** We presented "[MITRA: Beyond Just Machine Translation for Premodern Asian Low Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-beyond-just-machine-translation-for-premodern-asian-low-resource-languages)" at Johns Hopkins University, Baltimore, MD.
+*   **October 2024:** We presented "[Dharmamitra Search: Leveraging Multilingual Language Models for Search and Detection of Textual Reuse across Diverse Text Collections](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-search-leveraging-multilingual-language-models-for-search-and-detection-of-textual-reuse-across-diverse-text-collections)" at the AI and the Future of Buddhist Studies Conference at UC Berkeley.
+*   **October 2024:** Our paper "[One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks](https://aclanthology.org/2024.findings-emnlp.805/)" has been published in the *Findings of the Association for Computational Linguistics: EMNLP 2024* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2024)).
+*   **August 2024:** We presented "[MITRA: Developing Language Models for Machine Translation and Search in Buddhist Source Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-language-models-for-machine-translation-and-search-in-buddhist-source-languages)" at the PNC 2024 Annual Conference in Seoul, Korea.
+*   **2024:** Our paper "[Breakthroughs in Tibetan NLP & Digital Humanities](https://www.asian-studies.org/publications/Revue-Etudes-Tibetaines/)" has been published in the *Revue d’Études Tibétaines* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2024)).
+*   **April 2024:** We presented "[Massive Multilingual Machine Translation and Search for Buddhist Languages: The Mitra Project](https://dharmamitra.github.io/dharmamitra-guides/presentations/#massive-multilingual-machine-translation-and-search-for-buddhist-languages-the-mitra-project)" at National Taiwan University (NTU), Taipei, Taiwan.
+*   **March 2024:** We presented "[Dharmamitra: Enabling Massive Multilingual Machine Translation for Ancient Languages of the Buddhist Tradition](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-enabling-massive-multilingual-machine-translation-for-ancient-languages-of-the-buddhist-tradition)" at the National University of Singapore.
+*   **February 2024:** We gave an online presentation on "[Machine Translation and LLM-Powered Grammatical Explanation for Sanskrit](https://dharmamitra.github.io/dharmamitra-guides/presentations/#machine-translation-and-llm-powered-grammatical-explanation-for-sanskrit)" at the International Sanskrit Computational Linguistics Conference in Auroville, India.
+*   **2023:** Our paper "[Observations on the Intertextuality of Selected Abhidharma Texts Preserved in Chinese Translation](https://doi.org/10.3390/rel14070911)" has been published in the journal *Religions* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2023)).
+*   **2023:** Our paper "[MITRA‑zh: An efficient, open machine translation solution for Buddhist Chinese](https://aclanthology.org/2023.nlp4dh-1.29/)" has been published in the *Proceedings of the Joint 3rd Intl. Conf. on NLP for Digital Humanities & 8th IWCLUL* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2023)).
+*   **June 2023:** We presented "[MITRA: Developing Natural Language Processing Tools for the Languages of Buddhist Literature](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-natural-language-processing-tools-for-the-languages-of-buddhist-literature)" in Hong Kong.
+*   **June 2023:** We presented "[Developing Machine Translation for ancient Buddhist texts in canonical languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#developing-machine-translation-for-ancient-buddhist-texts-in-canonical-languages)" in Seoul, Korea.
+*   **April 2023:** We presented "[Creating a Shared Semantic Vector Space for Buddhist Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#creating-a-shared-semantic-vector-space-for-buddhist-languages)" in Vienna, Austria.
 
 --- 
