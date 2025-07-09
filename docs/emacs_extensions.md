@@ -2,7 +2,7 @@
 
 ### Dharmamitra Emacs Extension
 
-The **[Dharmamitra Emacs Extension](https://github.com/dharmamitra/dharmamitra-emacs)** brings the power of Dharmamitra's translation and analysis tools directly into your Emacs environment.
+The **[Dharmamitra Emacs Extension](https://github.com/dharmamitra/dharmamitra-emacs)** brings the power of Dharmamitra's translation and analysis tools directly into the Emacs environment.
 
 ![Screenshot of Dharmamitra grammar analysis](https://github.com/dharmamitra/dharmamitra-emacs/raw/main/screenshot.png)
 
@@ -81,26 +81,13 @@ The analysis buffer will be named `*Dharmamitra Text Grammar*`.
 
 ### Dharmamitra Search
 
-> **[Dharmamitra Search](https://github.com/dharmamitra/dharmamitra-search-emacs)**: Comfortable semantic search of the entire
-> dharmamitra.org corpus — right from Emacs.
+**[Dharmamitra Search](https://github.com/dharmamitra/dharmamitra-search-emacs)**: Comfortable semantic search of the entire [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) corpus — right from Emacs.
 
 `dharmamitra-search.el` lets you highlight _any_ text in any buffer, hit a single key, and instantly browse cross-lingual search results (Sanskrit · Tibetan · Chinese · Pāli) returned by Dharmamitra's semantic-search API. This brings most of the functionality of [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/) directly into the emacs editor. 
 
 ![Dharmamitra Search Demo](https://github.com/dharmamitra/dharmamitra-search-emacs/raw/main/screenshot.png)
 
 _(screenshot: mark text → `C-c C-d` → clickable results window)_
-
----
-
-#### ✨ Features
-
-| Feature           | Description                                                                                              |
-| ----------------- | -------------------------------------------------------------------------------------------------------- |
-| **Zero setup**    | Pure-Elisp, no external deps, needs only vanilla Emacs 27+.                                              |
-| **Rich results**  | Clickable titles open the source page; reference database is not yet up and running, but will come soon. |
-| **Non-destructive**| Results appear in their own read-only buffer (derived from special-mode).                                |
-| **Customisable**  | Endpoint, faces, key binding - all via Emacs' customization UI.                                          |
-| **MIT-licensed**  | Do whatever you like with it. Contributions welcome!                                                     |
 
 ---
 
