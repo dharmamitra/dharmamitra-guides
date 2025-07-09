@@ -79,11 +79,9 @@ The analysis buffer will be named `*Dharmamitra Text Grammar*`.
 
 ---
 
-### Dharmamitra Search
+### MITRA Search for Emacs
 
-**[Dharmamitra Search](https://github.com/dharmamitra/dharmamitra-search-emacs)**: Comfortable semantic search of the entire [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) corpus — right from Emacs.
-
-`dharmamitra-search.el` lets you highlight _any_ text in any buffer, hit a single key, and instantly browse cross-lingual search results (Sanskrit · Tibetan · Chinese · Pāli) returned by Dharmamitra's semantic-search API. This brings most of the functionality of [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/) directly into the emacs editor. 
+`dharmamitra-search.el` lets you highlight _any_ text in any buffer, hit a single key, and instantly browse cross-lingual search results (Sanskrit · Tibetan · Chinese · Pāli) returned by Dharmamitra's semantic-search API. This brings most of the functionality of [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/) directly into the emacs editor and allows to search the entire [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) corpus comfortably. 
 
 ![Dharmamitra Search Demo](https://github.com/dharmamitra/dharmamitra-search-emacs/raw/main/screenshot.png)
 
