@@ -4,7 +4,7 @@
 ### Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition
 **June 2025**
 
-*[Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts](https://www.oaw.ruhr-uni-bochum.de/forschung/hanmun_lab/worhshops/index.html.en), an online workshop by Hanmun Lab, Ruhr-Universität Bochum*
+*Online workshop "[Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts](https://www.oaw.ruhr-uni-bochum.de/forschung/hanmun_lab/worhshops/index.html.en)" at the Hanmun Lab, Ruhr-Universität Bochum*
 
 This presentation is part of an online workshop on digital approaches to intertextuality in pre-modern East Asian texts. The talk will provide a preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition.
 
