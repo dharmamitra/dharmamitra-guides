@@ -1,5 +1,3 @@
-## Acknowledgments
-
 We are immensely grateful to the following organizations for their generous support. Their contributions have been instrumental in advancing our research and enabling us to provide our tools and data to the community.
 
 <table>
