@@ -1,5 +1,30 @@
 ## Presentations
 
+
+### Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition
+**June 2025**
+
+*[Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts](https://www.oaw.ruhr-uni-bochum.de/forschung/hanmun_lab/worhshops/index.html.en), an online workshop by Hanmun Lab, Ruhr-Universität Bochum*
+
+This presentation is part of an online workshop on digital approaches to intertextuality in pre-modern East Asian texts. The talk will provide a preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition.
+
+---
+
+### From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies
+**June 2025**
+
+*[DH International Workshop](https://sites.google.com/view/dhws2025b) at Keio University, Tokyo, Japan*
+
+This presentation was part of a workshop at Keio University, co-organized by Kakenhi Special Promotion Research "Compilation of the Reiwa Daizokyo as a Digital Research Infrastructure - Presentation of a Research Infrastructure Construction Model for Next-Generation Humanities (JP25H00001)" and the Research Infrastructure Hub, Research and Development Project for the DX of Humanities and Social Sciences.
+
+The workshop featured two lectures and a hands-on session by Sebastian Nehrdich:
+1.  "From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies"
+2.  "Practical Application of the Various MITRA Tools for Philological Research"
+
+The event explored the latest developments in the Dharmamitra project, which applies the extensive computing resources of the UC Berkeley AI Research Lab to the machine translation of Buddhist scriptures. In addition to a technical overview, the workshop also delved into the career path of Sebastian Nehrdich, from his beginnings as a Buddhist studies scholar to his current work in applied research, offering insights for early-career researchers in the humanities.
+
+---
+
 ### Machine Translation for Asian Studies
 **March 2025**
 
