@@ -2,7 +2,7 @@
 
 > *Neural machine translation models fine‑tuned for Buddhist domain texts available live at [Dharmamitra](https://dharmamitra.org).*  
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/jt2-ZDRahOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BbyEeLbYRfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 We offer free-for-access machine translation capabilities live at [Dharmamitra](https://dharmanexus.org). Currently, our main model uses a combination of in-context-learning and the Gemini API. 
