@@ -30,6 +30,27 @@ It's designed to help you **discover connections** and **locate specific ideas**
 
 ---
 
+## MITRA Search Goes Beyond Tools Like GREP
+
+MITRA Search is not aimed at replacing traditional search engines of databases, or local search tools like GREP. It offers a very unique, different experience from these tools, and is best used in combination with them, and not as a replacement. 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uY7L-M79PMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+## MITRA Search is Very Powerful for Multilingual Queries 
+
+Thanks to extensive cross-lingual training data, MITRA Search is very capable at locating parallel passages across language barries. It can be used to locate Tibetan passages based on queries in Chinese, Pāli passages based on queries in Sanskrit or Tibetan, and much more. 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UwKbqLJksYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+One particular use case where MITRA Search is powerful is locating canonical citations within Pāli Suttas and Chinese Āgamas. For example, when a later Abhidharma commentary cites a Sutta/Āgama passage, locating the precise citation can be a tedious, and time-consuming effort. MITRA Search can save a lot of time and effort on such tasks. 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/n7HtTPhDNiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
 ## How to Get the Best Results
 
 MITRA Search excels at **locating relevant passages** based on your input. It does not write essays or synthesize broad topics for you.
@@ -65,3 +86,7 @@ MITRA Search excels at **locating relevant passages** based on your input. It do
 * **Literal vs. Semantic Search:** If you need to find exact wording, turn on the **"exact matches"** switch. This will also be a magnitude faster than the default semantic search. Keep it off for most uses to leverage the power of semantic search.
 * **Diacritics Help:** While the system is tolerant of variations (e.g., `cetana` vs. `cetanā`), using proper diacritics will generally yield more accurate results.
 * **You Are the Expert:** Think of MITRA Search as a powerful assistant that casts a wide conceptual net, sometimes bringing back passages that are related but not a perfect match. It surfaces the *possibilities*; your expertise is what determines the ultimate relevance of a result. This exploratory power is one of its greatest strengths.
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/r4ZO4FhkzsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
