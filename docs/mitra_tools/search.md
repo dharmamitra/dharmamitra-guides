@@ -10,7 +10,7 @@ It's designed to help you **discover connections** and **locate specific ideas**
 
 1.  **Ask a Question or State a Concept.** Start with a clear question or a description of what you're looking for. (e.g., `The definition of cetanā` or `suffering of ordinary people compared to a hair on the palm`).
 2.  **Filter Your Search (Optional, but Recommended!).** Use the "Show options" menu to narrow your search to specific languages, collections (e.g., Pāli Canon, Yogācāra texts), or even individual works. **This is the key to getting the best results.**
-3.  **Explore the Results.** MITRA will show you the original text passages. Click the **"Explanation"** button below any result to get an AI-generated summary of the passage, the specific context, and how it relates to your query.
+3.  **Explore the Results.** MITRA will show you the original text passages. Click the **"Explanation"** button below any result to get an AI-generated summary of the passage, the specific context, and how it relates to your query. You can also press the 'expand context' button at the top right of each result, which shows additional sorrounding context of a result. 
 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gEqrzN8W4E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
