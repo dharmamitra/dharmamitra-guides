@@ -12,6 +12,11 @@ It's designed to help you **discover connections** and **locate specific ideas**
 2.  **Filter Your Search (Optional, but Recommended!).** Use the "Show options" menu to narrow your search to specific languages, collections (e.g., Pāli Canon, Yogācāra texts), or even individual works. **This is the key to getting the best results.**
 3.  **Explore the Results.** MITRA will show you the original text passages. Click the **"Explanation"** button below any result to get an AI-generated summary of the passage, the specific context, and how it relates to your query.
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gEqrzN8W4E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 ---
 
 ## Key Features
@@ -31,11 +36,11 @@ MITRA Search excels at **locating relevant passages** based on your input. It do
 
 #### ✅ What Works Well (Example Queries)
 
-* **Definitions:** `The definition of cetanā`
+* **Definitions:** [`The definition of cetanā`](https://dharmamitra.org/lab?search_input=The+definition+of+cetan%C4%81)
     * *This will pull up passages from various texts and languages that define this key term. Use the filters to limit results to, for example, only Abhidharma texts.*
-* **Specific Concepts:** `What are the 37 wings of awakening?`
+* **Specific Concepts:** [`What are the 37 wings of awakening?`](https://dharmamitra.org/lab?search_input=What+are+the+37+wings+of+awakening%3F)
     * *This will find sections that list or explain the bodhipakṣa-dharmas. To see Vasubandhu's view specifically, filter by texts attributed to Vasubandhu.*
-* **Metaphors and Analogies:** `A verse that compares the world to a dream or illusion`
+* **Metaphors and Analogies:** [`consciousness being compared to a flowing river`](https://dharmamitra.org/lab?search_input=consciousness+being+compared+to+a+flowing+river)
     * *This is where semantic search shines, finding conceptual similarities even when the exact wording differs significantly.*
 * **Finding Parallels:** *(Paste a full sentence or paragraph in Sanskrit, Pāli, etc.)*
     * *MITRA will find other passages that express a similar idea, either in the same language or a different one.*
@@ -44,13 +49,13 @@ MITRA Search excels at **locating relevant passages** based on your input. It do
 
 * **Broad, Analytical Queries:** `Summarize the sākāra/nirākara debate.`
     * **The Problem:** MITRA finds short text passages, not entire philosophical debates.
-    * **The Better Way:** Search for specific concepts within the debate, like `the appearance of an external object` and filter by the schools of thought you're interested in.
+    * **The Better Way:** Search for specific concepts within the debate, like [`the appearance of an external object`](https://dharmamitra.org/lab?search_input=the+appearance+of+an+external+object) and filter by the schools of thought you're interested in.
 * **Queries with Historical Constraints:** `The Early Buddhist view on the benefits of ordination.`
     * **The Problem:** The system cannot currently distinguish historical layers like "Early Buddhism" from the prompt alone.
-    * **The Better Way:** Use the filters! Select the collections that represent early literature, such as the Pāli Suttas or the Chinese Āgamas, and then run your query: `benefits of ordination`.
+    * **The Better Way:** Use the filters! Select the collections that represent early literature, such as the Pāli Suttas or the Chinese Āgamas, and then run your query: [`benefits of ordination`](https://dharmamitra.org/lab?search_input=benefits+of+ordination&filter_source_language=zh&include_categories=T01,T02).
 * **Queries About "Development Over Time":** `The development of "storehouse consciousness" in Yogācāra.`
     * **The Problem:** The system cannot track a term's evolution through time, and not be prompted to focuss on specific literature.
-    * **The Better Way:** Filter by the "Yogācāra" collection in the different languages and run several targeted queries to piece together the picture yourself, such as `the relationship between seeds and the storehouse consciousness` or `defilements and the storehouse consciousness`.
+    * **The Better Way:** Filter by the "Yogācāra" collection in the different languages and run several targeted queries to piece together the picture yourself, such as [`the relationship between seeds and the storehouse consciousness`](https://dharmamitra.org/lab?filter_source_language=zh&include_categories=T31&search_input=the+relationship+between+seeds+and+the+storehouse+consciousness) or [`defilements and the storehouse consciousness`](https://dharmamitra.org/lab?filter_source_language=bo&include_categories=T06&search_input=defilements+and+the+storehouse+consciousness).
 
 ---
 

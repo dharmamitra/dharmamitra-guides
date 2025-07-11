@@ -2,7 +2,7 @@
 
 > *Advanced grammatical analysis for Sanskrit texts with Sandhi segmentation, lemmatization, and detailed morphological annotations available live at [Dharmamitra](https://dharmamitra.org).*
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/IxCGOCdUwCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Vu1Jmu2nPvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 We provide comprehensive grammatical analysis capabilities for Sanskrit powered by [ByT5-Sanskrit](https://dharmamitra.github.io/dharmamitra-guides/mitra_models/#byt5-sanskrit) model. This model represents the current state of the art for Sanskrit NLP, with an error rate roughly 50% lower than previous models and approaching the accuracy of a single human expert annotator.

@@ -2,7 +2,7 @@
 > *Fast OCR powered by the Gemini engine for high-accuracy text extraction from Sanskrit, Tibetan, and Chinese typeset documents available live at [Dharmamitra](https://dharmamitra.org).* 
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/sOkrHmFzTn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hw1Sy5YzdBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
