@@ -13,7 +13,6 @@ theme:
 # Added a comment to trigger a rebuild
 plugins:
   - search
-  - sitemap
 nav:
   - 'Home': 'index.md'
   - 'Acknowledgments': 'acknowledgments.md'
