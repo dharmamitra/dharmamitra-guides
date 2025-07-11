@@ -82,11 +82,13 @@ MITRA Search excels at **locating relevant passages** based on your input. It do
 
 ## Tips & Tricks
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/r4ZO4FhkzsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 * **The Golden Rule: Use Filters!** When you don't use filters, MITRA searches everything at once. This can sometimes hide the gems you're looking for. For the best results, always tell the system where to look by filtering by language, collection, or text.
 * **Literal vs. Semantic Search:** If you need to find exact wording, turn on the **"exact matches"** switch. This will also be a magnitude faster than the default semantic search. Keep it off for most uses to leverage the power of semantic search.
 * **Diacritics Help:** While the system is tolerant of variations (e.g., `cetana` vs. `cetanā`), using proper diacritics will generally yield more accurate results.
 * **You Are the Expert:** Think of MITRA Search as a powerful assistant that casts a wide conceptual net, sometimes bringing back passages that are related but not a perfect match. It surfaces the *possibilities*; your expertise is what determines the ultimate relevance of a result. This exploratory power is one of its greatest strengths.
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/r4ZO4FhkzsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
