@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dharmamitra.github.io/dharmamitra-guides/sitemap.xml 

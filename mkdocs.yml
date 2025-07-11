@@ -1,13 +1,19 @@
 site_name: Dharmamitra Documentation
 site_url: https://dharmamitra.github.io/dharmamitra-guides/
+site_description: >
+  Guides and tutorials for the Dharmamitra meta-platform: open-source NLP,
+  OCR, search and translation tools for Sanskrit, Pāli, Classical Chinese
+  and Tibetan. Detailed documentation of the DharmaNexus platform and datasets.
 use_directory_urls: true
 theme:
   name: material
   logo: assets/mitra-logo-header.png
   palette:
     primary: 'custom'
-repo_url: https://github.com/dharmamitra/dharmamitra-guides
 # Added a comment to trigger a rebuild
+plugins:
+  - search
+  - sitemap
 nav:
   - 'Home': 'index.md'
   - 'Acknowledgments': 'acknowledgments.md'
@@ -29,4 +35,6 @@ nav:
   - 'History': 'history.md'
   - 'Frequently Asked Questions': 'faq.md'
 extra_css:
-  - stylesheets/extra.css 
+  - stylesheets/extra.css
+markdown_extensions:
+  - meta 
