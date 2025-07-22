@@ -1,12 +1,20 @@
 # News
 
-*   **July 21:** With the upcoming launch of a lot of new features, among them the DharmaNexus database, I want to thank the key institutions that made the development of the open source initiative BuddhaNexus, which served as the first prototype of the system, possible. Without SuttaCentral, we would not have gotten off the ground. We inherited a significant part of the front- and backend codebase, and thanks to SuttaCentral's commitment to open source licensing under GPL, this was possible, and in fact even encouraged.
+*   **July 21: A note by CTO Sebastian about Buddhanexus and the future prospects**
+
+    With the upcoming launch of a lot of new features, among them the [DharmaNexus](https://dharmanexus.org) database, I want to thank the key institutions that made the development of the open source initiative [BuddhaNexus](https://buddhanexus.net), which served as the first prototype of the system, possible. Without SuttaCentral, we would not have gotten off the ground. We inherited a significant part of the front- and backend codebase, and thanks to SuttaCentral's commitment to open source licensing under GPL, this was possible, and in fact even encouraged.
+
     Of course, the development of BuddhaNexus was primarily possible because of the people creating it, and it is due to ven. Ayya Vimala's dedicated contributions in the early months, including them bringing in additional developers, that we could iterate so fast. Equally grateful I am to the Khyentse Center for Tibetan Buddhist Textual Scholarship (KC TBTS), which funded parts of the BuddhaNexus development, gave valuable feedback, and a home deployed on Hamburg server infrastructure in this development phase 2019-2022.
+
     When I left Hamburg in early 2023, maintaining two separate code-bases became unfeasible. The good news is that the core team of BuddhaNexus, supported by a new funding infrastructure, is now committed to making the actively maintained successor platform DharmaNexus a reality, which is a deeply-integrated intertextuality engine within the Dharmamitra ecosystem.
+
     We are extremely excited about the future of the project, and we envision open collaboration and the establishment of intertextuality and semantic search infrastructure that will be in use for many years to come.
+
     Of course, none of this would be possible without the people involved. Creating lasting infrastructure in digital humanities is a very challenging task. People who have the right set of qualities -- the intersection of knowledge of the classical primary languages, the necessary programming skills, and a deep interest and joy in working on such systems, are extremely difficult to find. We are more than blessed by the fact that a small but dedicated team has formed over the years that is willing to tackle these challenges again and again. This is absolutely not a given. 🙏
-    The archived BuddhaNexus codebase is here: https://github.com/BuddhaNexus/
-    Development of Dharmamitra, including DharmaNexus, is happening here: https://github.com/dharmamitra
+
+    The archived BuddhaNexus codebase is here: [https://github.com/BuddhaNexus/](https://github.com/BuddhaNexus/)
+
+    Development of Dharmamitra, including DharmaNexus, is happening here: [https://github.com/dharmamitra](https://github.com/dharmamitra)
 
 *   **August 2025:** We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
 *   **June 2025:** We presented "[Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition](presentations.md#is-training-deep-neural-embeddings-worth-the-effort-a-preliminary-investigation-of-different-representation-methods-for-semantic-similarity-tasks-in-buddhist-chinese-and-related-languages-of-the-buddhist-tradition)" at the "Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts" online workshop at the Hanmun Lab, Ruhr-Universität Bochum.
