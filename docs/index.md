@@ -15,18 +15,30 @@
 
 ## News
 
-<!-- Showing only the 10 most recent news items. For full news, see news.md -->
-*   **July 21:** A note by CTO Sebastian about BuddhaNexus and the future prospects [read more](news.md)
-*   **August 2025:** We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
-*   **June 2025:** We presented "[Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition](presentations.md#is-training-deep-neural-embeddings-worth-the-effort-a-preliminary-investigation-of-different-representation-methods-for-semantic-similarity-tasks-in-buddhist-chinese-and-related-languages-of-the-buddhist-tradition)" at the "Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts" online workshop at the Hanmun Lab, Ruhr-Universität Bochum.
-*   **June 2025:** We presented "[From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies](presentations.md#from-sthiramati-to-dharmamitra-developing-digital-tools-for-a-new-age-of-philological-buddhist-studies)" at the DH International Workshop at Keio University, Tokyo.
-*   **March 2025:** We conducted a hands-on workshop on "[Machine Translation for Asian Studies](https://dharmamitra.github.io/dharmamitra-guides/presentations/#machine-translation-for-asian-studies)" at the [Annual Conference of the Association of Asian Studies](https://www.asianstudies.org/conference/) in Columbus, Ohio.
-*   **March 2025:** We presented "[MITRA Search: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-search-building-information-retrieval-systems-for-classical-asian-languages-in-the-age-of-ai)" at the [CEAL Technology Forum](https://www.eastasianlib.org/) in Columbus, Ohio.
-*   **2025:** Our paper "[MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics](https://aclanthology.org/2025.nlp4dh-1.12/)" has been published in the *Proc. 5th Intl. Conf. on NLP for Digital Humanities* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2025)).
-*   **December 2024:** We presented "[MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-search-exploring-buddhist-literature-preserved-in-classical-asian-languages-with-multilingual-approximate-search)" at the International Symposium "Buddhist Studies and Digital Humanities" in Tokyo, Japan.
-*   **November 2024:** We gave a presentation on "[Dharmamitra](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra)" online for an audience in Heidelberg, Germany ([recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)).
-*   **November 2024:** We presented "[Dharmamitra: Developing a Toolkit for Philological Work on Premodern Asian Low-Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-developing-a-toolkit-for-philological-work-on-premodern-asian-low-resource-languages)" at a workshop at L'Orientale University of Naples, Italy.
-*   **October 2024:** We presented "[MITRA: Beyond Just Machine Translation for Premodern Asian Low Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-beyond-just-machine-translation-for-premodern-asian-low-resource-languages)" at Johns Hopkins University, Baltimore, MD.
+<!-- Each news item links to its section in news.md -->
+- [July 21, 2024: A note by CTO Sebastian about BuddhaNexus and the future prospects](news.md#july-21-2024-a-note-by-cto-sebastian-about-buddhanexus-and-the-future-prospects)
+- [August 2025: MITA at IABS Conference, Leipzig](news.md#august-2025-mita-at-iabs-conference-leipzig)
+- [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-2025-deep-neural-embeddings-at-hanmun-lab-workshop)
+- [June 2025: From Sthiramati to Dharmamitra at Keio University](news.md#june-2025-from-sthiramati-to-dharmamitra-at-keio-university)
+- [March 2025: Machine Translation for Asian Studies Workshop](news.md#march-2025-machine-translation-for-asian-studies-workshop)
+- [March 2025: MITRA Search at CEAL Technology Forum](news.md#march-2025-mitra-search-at-ceal-technology-forum)
+- [2025: MITRA-zh-eval Paper Published](news.md#2025-mitra-zh-eval-paper-published)
+- [December 2024: MITRA Search at Tokyo Symposium](news.md#december-2024-mitra-search-at-tokyo-symposium)
+- [November 2024: Dharmamitra Presentation in Heidelberg](news.md#november-2024-dharmamitra-presentation-in-heidelberg)
+- [November 2024: Dharmamitra Toolkit at Naples Workshop](news.md#november-2024-dharmamitra-toolkit-at-naples-workshop)
+- [October 2024: MITRA at Johns Hopkins University](news.md#october-2024-mitra-at-johns-hopkins-university)
+- [October 2024: Dharmamitra Search at UC Berkeley](news.md#october-2024-dharmamitra-search-at-uc-berkeley)
+- [October 2024: ByT5-Sanskrit Paper Published](news.md#october-2024-byt5-sanskrit-paper-published)
+- [August 2024: MITRA at PNC 2024, Seoul](news.md#august-2024-mitra-at-pnc-2024-seoul)
+- [2024: Breakthroughs in Tibetan NLP & Digital Humanities](news.md#2024-breakthroughs-in-tibetan-nlp--digital-humanities)
+- [April 2024: Massive Multilingual MT and Search at NTU, Taipei](news.md#april-2024-massive-multilingual-mt-and-search-at-ntu-taipei)
+- [March 2024: Dharmamitra at National University of Singapore](news.md#march-2024-dharmamitra-at-national-university-of-singapore)
+- [February 2024: Sanskrit MT & LLMs at Auroville](news.md#february-2024-sanskrit-mt--llms-at-auroville)
+- [2023: Intertextuality of Abhidharma Texts Paper](news.md#2023-intertextuality-of-abhidharma-texts-paper)
+- [2023: MITRA-zh Paper Published](news.md#2023-mitra-zh-paper-published)
+- [June 2023: MITRA NLP Tools in Hong Kong](news.md#june-2023-mitra-nlp-tools-in-hong-kong)
+- [June 2023: MT for Buddhist Texts in Seoul](news.md#june-2023-mt-for-buddhist-texts-in-seoul)
+- [April 2023: Shared Semantic Vector Space in Vienna](news.md#april-2023-shared-semantic-vector-space-in-vienna)
 
 [See all news →](news.md)
 
