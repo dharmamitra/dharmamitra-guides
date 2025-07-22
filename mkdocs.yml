@@ -15,6 +15,7 @@ plugins:
   - search
 nav:
   - 'Home': 'index.md'
+  - 'News': 'news.md'
   - 'Acknowledgments': 'acknowledgments.md'
   - 'MITRA Tools':
     - 'Overview': 'mitra_tools/index.md'
