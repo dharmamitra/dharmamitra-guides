@@ -3,7 +3,7 @@
 ## MITRA Translate & Grammar
 
 **Q: What languages does MITRA Translate support?**  
-A: Sanskrit, Pāli, Tibetan, and Classical Chinese to English. "English (Explained)" mode provides grammatical explanations.
+A: Sanskrit, Pāli, Tibetan, and Classical Chinese to a number of modern languages, which is slowly growing.
 
 **Q: Can I translate text directly from images or PDFs?**  
 A: Yes! You can upload images or PDFs for OCR and translation. The system supports direct screenshot-to-translation workflows.
@@ -21,17 +21,10 @@ A: Enter Sanskrit text and click the 'grammar' button to see detailed analysis, 
 **Q: The Grammar Button disappeared. What happened?**  
 The grammar button is only available for Sanskrit input currently. If you don't have any Sanskrit text in the translation window, it won't show. 
 
-**Q: Is there a browser extension?**  
-A: Yes, MITRA browser extensions for Chrome and Firefox allow instant translation and grammatical analysis on any webpage.
-
-**Q: Are the tools free to use?**  
-A: Yes, all MITRA tools are free for access at [Dharmamitra](https://dharmamitra.org).
 
 ---
 ## MITRA Search 
 
-**Q: What is MITRA Search?**  
-A: MITRA Search is a powerful multilingual search engine that provides fuzzy, semantic, and cross-lingual search capabilities across all texts in DharmaNexus. It supports searching in Pāli, Sanskrit, Chinese, and Tibetan.
 
 **Q: I get results from all kinds of texts in all kinds of languages, but it seems chaotic and not what I was expecting. What's wrong?**  
 A: The best way to ensure that MITRA Search is finding what you are really looking for is by using the filter option to limit it to texts and collections that you are interested in.
@@ -46,8 +39,6 @@ A: MITRA Search uses complex and advanced search mechanisms, and due to technica
 
 ## DharmaNexus
 
-**Q: What is [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)?**  
-A: [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) is a web platform for exploring intertextuality in Buddhist literature across Pāli, Sanskrit, Chinese, and Tibetan. It powers [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/deep_research/).
 
 **Q: DharmaNexus, BuddhaNexus, I find this confusing. How do the two projects relate?**  
 A: BuddhaNexus was the first prototype of the system (2019-2022), and DharmaNexus is its actively maintained successor platform that's now deeply integrated within the Dharmamitra ecosystem. See the [note from our CTO Sebastian](news.md#july-21-2024-a-note-by-cto-sebastian-about-buddhanexus-and-the-future-prospects) for more details.
