@@ -31,6 +31,11 @@ DharmaNexus offers a **simple and intuitive way to explore vast collections of B
 DharmaNexus helps you find intertextual connections within and between texts in Pāli, Sanskrit, Chinese, and Tibetan.
 
 **1. See the matches:** While reading, you can choose to reveal intertextual connections by toggling the **Show Matches** switch. When enabled, DharmaNexus highlights passages in your text that have similarities in other texts in the database. 
+
+The highlighting is color-coded to create a "heat map" that shows the density of intertextual connections at any given point in the text. The colors, from cool to hot, indicate the number of matches found for a particular segment, with the number inside the highlight showing the exact count. A "1" means one match is present, a "2" indicates two matches, and so on. This gives you a quick visual guide to the 'thickness' of intertextuality throughout the text.
+
+![Heat map themes in DharmaNexus](assets/nexus-heat-map-themes.jpg)
+
    - After clicking on such a highlighted text passage, the matches with other texts are then shown in a new column. Hovering over a parallel will highlight the corresponding segment in the source text.
    - Clicking on a specific parallel will open that text in a **third column**, allowing you to compare the two texts side-by-side.
 
