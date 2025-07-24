@@ -1,6 +1,6 @@
 # FAQ: MITRA Tools & [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)
 
-## MITRA Tools
+## MITRA Translate & Grammar
 
 **Q: What languages does MITRA Translate support?**  
 A: Sanskrit, Pāli, Tibetan, and Classical Chinese to English. "English (Explained)" mode provides grammatical explanations.
@@ -28,21 +28,40 @@ A: Yes, MITRA browser extensions for Chrome and Firefox allow instant translatio
 A: Yes, all MITRA tools are free for access at [Dharmamitra](https://dharmamitra.org).
 
 ---
+## MITRA Search 
 
-## MITRA Search & [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)
+**Q: What is MITRA Search?**  
+A: MITRA Search is a powerful multilingual search engine that provides fuzzy, semantic, and cross-lingual search capabilities across all texts in DharmaNexus. It supports searching in Pāli, Sanskrit, Chinese, and Tibetan.
 
+**Q: I get results from all kinds of texts in all kinds of languages, but it seems chaotic and not what I was expecting. What's wrong?**  
+A: The best way to ensure that MITRA Search is finding what you are really looking for is by using the filter option to limit it to texts and collections that you are interested in.
+
+**Q: Why are the results from the Pāli Suttas not always the first? Or the Sūtras in Sanskrit, Chinese, or Tibetan?**  
+A: MITRA Search ranks results primarily by their similarity and relevance to a search query. And while some users might find Pāli Suttas as first results most intuitive, this expectation can be very different for other users, and it is therefore difficult to provide a 'one fits all' solution. While we do attempt to rank results in light ways according to chronology as well, this is difficult to achieve consistently, and semantic similarity remains the key factor.
+
+**Q: Why am I not seeing more than 50 results at a time?**  
+A: MITRA Search uses complex and advanced search mechanisms, and due to technical limitations, no more than 50 results can be retrieved at once. If you need more detailed results, we strongly suggest using filters to narrow down the results to specific areas of your interest.
+
+---
+
+## DharmaNexus
 
 **Q: What is [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/)?**  
 A: [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) is a web platform for exploring intertextuality in Buddhist literature across Pāli, Sanskrit, Chinese, and Tibetan. It powers [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/deep_research/).
 
+**Q: DharmaNexus, BuddhaNexus, I find this confusing. How do the two projects relate?**  
+A: BuddhaNexus was the first prototype of the system (2019-2022), and DharmaNexus is its actively maintained successor platform that's now deeply integrated within the Dharmamitra ecosystem. See the [note from our CTO Sebastian](news.md#july-21-2024-a-note-by-cto-sebastian-about-buddhanexus-and-the-future-prospects) for more details.
+
+
 **Q: How does [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) find parallels?**  
 A: It uses advanced semantic search and multilingual matching to highlight similar passages across texts and languages.
 
-**Q: What data sources does [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) use?**  
-A: [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) draws from SuttaCentral, CBETA, DSBC, GRETIL, Muktabodha, ACIP, and more, with ongoing data expansion.
+**Q: When I flip the 'show match highlighting' switch, I see all kinds of colors on the text, this is super confusing. What does it mean and how does it work?**
+A: The colors are a "heat map" that shows you how many similar passages have been found for a given segment of text. You can find a detailed explanation of how this works [here](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/#how-intertextuality-exploration-works).
 
-**Q: Can I filter or customize my search?**  
-A: Yes, you can filter by similarity score, match length, collection, and text. Multiple result views (text, table, graph, numbers) are available.
 
-**Q: Is [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) integrated with MITRA tools?**  
-A: Yes, [MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/) and [MITRA Deep Research](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/deep_research/) use [DharmaNexus](https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/) for semantic search and parallel discovery. 
+**Q: I'm a former BuddhaNexus user. What's different in DharmaNexus?**
+A: DharmaNexus has a few key changes: match highlighting is now off by default (you'll need to enable it), the color scheme is updated for better readability (though the classic BuddhaNexus theme is still available), and search is now powered by the more advanced MITRA Search. Some specific datasets of BuddhaNexus are not available on DharmaNexus, but we are working on offering well-curated improvements in the coming months. 
+
+**Q: Can I use DharmaNexus on my phone?**  
+A: Yes and No. You can use it to browse and read texts on your phone, but it's not suited for viewing intertextual connections. For that, we recommend you to use a desktop PC or laptop to take advantage of the multi-column layout. 

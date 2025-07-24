@@ -24,7 +24,6 @@ DharmaNexus offers a **simple and intuitive way to explore vast collections of B
 4. **Customize your view:**
    - Read in the original script or in transliteration
  
-> _Whether you are a scholar, translator, or simply curious, DharmaNexus makes it easy to navigate and read through large multilingual digital collections of Classical Asian literature in Pāli, Sanskrit, Chinese, and Tibetan._
 
 ### How Intertextuality Exploration Works 
 
@@ -53,6 +52,14 @@ The highlighting is color-coded to create a "heat map" that shows the density of
 *   **Numbers View:** Uses standard numbering systems to locate matches in Pāli and Chinese texts.
 
 ---
+
+### For Buuddhanexus Users
+
+If you are coming from the predecessor application [BuddhaNexus](https://buddhanexus.net), you will notice a few key differences:
+* In its default setting, DharmaNexus has match highlighting turned *off*, and you need to flip the switch to *on* in order to see them.
+* DharmaNexus uses a more reading-friendly default color scheme, which is different from the color scheme of BuddhaNexus. You can restore the color scheme of BuddhaNexus by setting it in the sidebar menu to "vivid". 
+* Unlike BuddhaNexus, DharmaNexus has no own search engine, but relies on MITRA Search, which makes precise and semantic search across the entire DharmaNexus datasets possible. 
+* Currently, DharmaNexus does not feature the X section of the CBETA canon. This will be added in a future release. On the Tibetan side, we will add material of the rin chen gter mdzod, rNying ma rgyud ’bum, rNying ma bka’ ma, and much more over the coming months. 
 
 ### Underlying Data
 
