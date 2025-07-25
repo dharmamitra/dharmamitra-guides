@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="assets/guides-logo-animated.webp" alt="Dharmamitra Logo" width="500" style="animation-iteration-count: 1;">
+  <img src="assets/guides-logo.png" alt="Dharmamitra Logo" width="500" style="animation-iteration-count: 1;">
 </div>
 
 ## About Dharmamitra
