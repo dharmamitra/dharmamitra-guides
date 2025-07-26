@@ -1,5 +1,9 @@
 # News
 
+## July 26, 2024: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
+
+We are thrilled to announce the official launch of a number of new flagship capabilities: [MITRA Search](mitra_tools/search.md), [MITRA Deep Research](mitra_tools/deep_research.md), and [DharmaNexus](dharmanexus.md). These tools represent a new era for DharmaNexus, offering powerful search, in-depth analysis, and intertextuality exploration coupled tightly with the existing capabilities of Dharmamitra. We invite you to explore them and see how they can help your research and study.
+
 ## July 21, 2024: A note by CTO Sebastian about BuddhaNexus and the future prospects
 
 With the upcoming launch of a lot of new features, among them the [DharmaNexus](https://dharmanexus.org) database, I want to thank the key institutions that made the development of the open source initiative [BuddhaNexus](https://buddhanexus.net), which served as the first prototype of the system, possible. Without [SuttaCentral](https://suttacentral.net), we would not have gotten off the ground. We inherited a significant part of the front- and backend codebase, and thanks to SuttaCentral's commitment to open source licensing under GPL, this was possible, and in fact even encouraged.

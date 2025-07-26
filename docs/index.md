@@ -16,6 +16,7 @@
 ## News
 
 <!-- Each news item links to its section in news.md -->
+- [July 26, 2024: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus](news.md#july-26-2024-announcing-the-launch-of-mitra-search-mitra-deep-research-and-dharmanexus)
 - [July 21, 2024: A note by CTO Sebastian about BuddhaNexus and the future prospects](news.md#july-21-2024-a-note-by-cto-sebastian-about-buddhanexus-and-the-future-prospects)
 - [August 2025: MITA at IABS Conference, Leipzig](news.md#august-2025-mita-at-iabs-conference-leipzig)
 - [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-2025-deep-neural-embeddings-at-hanmun-lab-workshop)
