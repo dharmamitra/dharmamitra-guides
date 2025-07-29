@@ -84,6 +84,9 @@ The Sanskrit corpus is extensive and has been gathered from multiple academic pr
 The complete Sanskrit data can be found on [GitHub](https://github.com/dharmamitra/dharmanexus-sanskrit).
 
 We also do our own independent data collection efforts within the Dharmamitra project. The Sanskrit collection is therefore growing constantly. 
+
+We are currently working intensely on a metadata catalog that gives detailes source attribution for each individual text, and this will be added in late summer/early autumn 2025.  
+
 #### Chinese
 
 The Chinese textual corpus was obtained from the [Chinese Buddhist Electronic Text Association (CBETA)](https://cbeta.org/).
