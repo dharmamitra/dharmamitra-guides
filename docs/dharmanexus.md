@@ -53,7 +53,7 @@ The highlighting is color-coded to create a "heat map" that shows the density of
 
 ---
 
-### For Buuddhanexus Users
+### For Buddhanexus Users
 
 If you are coming from the predecessor application [BuddhaNexus](https://buddhanexus.net), you will notice a few key differences:
 * In its default setting, DharmaNexus has match highlighting turned *off*, and you need to flip the switch to *on* in order to see them.

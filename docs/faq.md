@@ -3,7 +3,7 @@
 ## MITRA Translate & Grammar
 
 **Q: What languages does MITRA Translate support?**  
-A: Sanskrit, Pāli, Tibetan, and Classical Chinese to a number of modern languages, which is slowly growing.
+A: Sanskrit, Pāli, Tibetan, and Classical Chinese to a number of modern languages, which is slowly growing.`
 
 **Q: Can I translate text directly from images or PDFs?**  
 A: Yes! You can upload images or PDFs for OCR and translation. The system supports direct screenshot-to-translation workflows.
