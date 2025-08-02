@@ -1,0 +1,1109 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Guides and tutorials for the Dharmamitra meta-platform: open-source NLP, OCR, search and translation tools for Sanskrit, Pāli, Classical Chinese and Tibetan. Detailed documentation of the DharmaNexus platform and datasets.
+">
+      
+      
+      
+        <link rel="canonical" href="https://dharmamitra.github.io/dharmamitra-guides/dharmanexus.html">
+      
+      
+        <link rel="prev" href="mitra_models.html">
+      
+      
+        <link rel="next" href="datasets.html">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.16">
+    
+    
+      
+        <title>DharmaNexus - Dharmamitra Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#dharmanexus" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="index.html" title="Dharmamitra Documentation" class="md-header__button md-logo" aria-label="Dharmamitra Documentation" data-md-component="logo">
+      
+  <img src="assets/mitra-logo-header.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dharmamitra Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              DharmaNexus
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="index.html" title="Dharmamitra Documentation" class="md-nav__button md-logo" aria-label="Dharmamitra Documentation" data-md-component="logo">
+      
+  <img src="assets/mitra-logo-header.png" alt="logo">
+
+    </a>
+    Dharmamitra Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="news.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    News
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="acknowledgments.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Acknowledgments
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    MITRA Tools
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            MITRA Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_tools/index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_tools/translate.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Translate
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_tools/sanskrit_grammar.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sanskrit Grammar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_tools/ocr.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    OCR
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_tools/search.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Search
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_tools/deep_research.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Deep Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_browser_extensions.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Browser Extensions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_dictionaries.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Dictionaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="emacs_extensions.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Emacs Extensions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mitra_models.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Models
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    DharmaNexus
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="dharmanexus.html" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    DharmaNexus
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#dharmanexus" class="md-nav__link">
+    <span class="md-ellipsis">
+      DharmaNexus
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="DharmaNexus">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Started
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-intertextuality-exploration-works" class="md-nav__link">
+    <span class="md-ellipsis">
+      How Intertextuality Exploration Works
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#for-buddhanexus-users" class="md-nav__link">
+    <span class="md-ellipsis">
+      For Buddhanexus Users
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#underlying-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Underlying Data
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Underlying Data">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pali" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pāli
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sanskrit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sanskrit
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chinese" class="md-nav__link">
+    <span class="md-ellipsis">
+      Chinese
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tibetan" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tibetan
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#technical-background" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technical Background
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    <span class="md-ellipsis">
+      FAQ
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="datasets.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Datasets
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="publications.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Publications
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="presentations.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Presentations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="history.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    History
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="faq.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Frequently Asked Questions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#dharmanexus" class="md-nav__link">
+    <span class="md-ellipsis">
+      DharmaNexus
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="DharmaNexus">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Started
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-intertextuality-exploration-works" class="md-nav__link">
+    <span class="md-ellipsis">
+      How Intertextuality Exploration Works
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#for-buddhanexus-users" class="md-nav__link">
+    <span class="md-ellipsis">
+      For Buddhanexus Users
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#underlying-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      Underlying Data
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Underlying Data">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pali" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pāli
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sanskrit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sanskrit
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chinese" class="md-nav__link">
+    <span class="md-ellipsis">
+      Chinese
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tibetan" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tibetan
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#technical-background" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technical Background
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    <span class="md-ellipsis">
+      FAQ
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>DharmaNexus</h1>
+
+<h2 id="dharmanexus">DharmaNexus</h2>
+<p><strong><a href="https://dharmanexus.org">DharmaNexus</a></strong> is a multilingual text database for Classical Asian languages that serves as the foundation for the Dharmamitra platform. It hosts our ever-growing collection of texts in Pāli, Sanskrit, Chinese, and Tibetan and is tightly integrated with <a href="mitra_tools/search.html">MITRA Search</a> and <a href="mitra_tools/deep_research.html">MITRA Deep Research</a>. It provides advanced fuzzy, semantic, and cross-lingual search capabilities, and is one of the few databases that provide search capabilities over large Sanskrit collections. </p>
+<p>In addition to its role as a database, DharmaNexus offers a web platform for exploring intertextuality between these texts, in monolingual as well as multilingual settings. This feature, along with its technical foundation, is a continuation of the <a href="https://buddhanexus.net">BuddhaNexus</a> project. It employs modernized algorithms that combine multilingual matching with deep semantic similarity from <a href="https://huggingface.co/buddhist-nlp/gemma-2-mitra-e">Gemma 2 MITRA-E</a>.</p>
+<hr />
+<h3 id="getting-started">Getting Started</h3>
+<p>DharmaNexus offers a <strong>simple and intuitive way to explore vast collections of Buddhist texts</strong> in Pāli, Sanskrit, Chinese, and Tibetan.</p>
+<ol>
+<li><strong>Choose your language:</strong> Start by selecting your preferred language from the main interface.</li>
+<li>
+<p><strong>Select a text:</strong> Browse the available menu to quickly find a text of interest. Whether you know exactly what you're looking for or just want to explore, DharmaNexus makes navigation easy. You can browse the collections with their individual categories to get to a text, or you can type in the name of the text or the catalog number you are looking for to jump in directly. For full text and semantic search, you can of course use <a href="mitra_tools/search.html">MITRA Search</a> to jump directly to a passage that you are interested in. </p>
+</li>
+<li>
+<p><strong>Read and navigate:</strong> The platform opens your chosen text in a clean reading view. You can:</p>
+</li>
+<li><strong>Scroll</strong> through the content</li>
+<li><strong>Jump to specific sections</strong> using standard numbering systems (e.g., SuttaCentral or Taishō numbers, or Derge folio numbers)</li>
+<li><strong>Switch between texts</strong> via the 'change text' option that opens the main menu again</li>
+<li><strong>Customize your view:</strong></li>
+<li>Read in the original script or in transliteration</li>
+</ol>
+<h3 id="how-intertextuality-exploration-works">How Intertextuality Exploration Works</h3>
+<p>DharmaNexus helps you find intertextual connections within and between texts in Pāli, Sanskrit, Chinese, and Tibetan.</p>
+<p><strong>1. See the matches:</strong> While reading, you can choose to reveal intertextual connections by toggling the <strong>Show Matches</strong> switch. When enabled, DharmaNexus highlights passages in your text that have similarities in other texts in the database. </p>
+<p>The highlighting is color-coded to create a "heat map" that shows the density of intertextual connections at any given point in the text. The colors, from cool to hot, indicate the number of matches found for a particular segment, with the number inside the highlight showing the exact count. A "1" means one match is present, a "2" indicates two matches, and so on. This gives you a quick visual guide to the 'thickness' of intertextuality throughout the text.</p>
+<p><img alt="Heat map themes in DharmaNexus" src="assets/nexus-heat-map-themes.jpg" /></p>
+<ul>
+<li>After clicking on such a highlighted text passage, the matches with other texts are then shown in a new column. Hovering over a parallel will highlight the corresponding segment in the source text.</li>
+<li>Clicking on a specific parallel will open that text in a <strong>third column</strong>, allowing you to compare the two texts side-by-side.</li>
+</ul>
+<p><strong>2. Filter your results:</strong> You can narrow down the matches with filters:</p>
+<ul>
+<li><strong>Similarity Score:</strong> This controls how similar a passage must be to be considered a match. A score of 100 indicates a perfect, verbatim match, while a lower score allows for more variation, showing passages that are semantically similar but not identical.</li>
+<li><strong>Match Length:</strong> Sets the minimum number of characters for a parallel. You might use a shorter length when looking for verse parallels and a longer one for prose to ensure the matches are significant.</li>
+<li><strong>Limit or Exclude:</strong> Focus your search by including or excluding specific collections or texts. For example, you could exclude all commentaries to see only parallels within the canonical texts.</li>
+</ul>
+<p><strong>3. Choose your view:</strong> DharmaNexus provides different ways to see the results:</p>
+<ul>
+<li><strong>Text View:</strong> The default view, showing your text with highlighted matches.</li>
+<li><strong>Table View:</strong> A sortable table of all matches, which can be downloaded as a spreadsheet.</li>
+<li><strong>Graph View:</strong> Visualizes the distribution of matches for your selected text via a histogram. This chart shows which other texts or collections contain the most parallels, helping you quickly identify the most relevant connections at a glance.</li>
+<li><strong>Numbers View:</strong> Uses standard numbering systems to locate matches in Pāli and Chinese texts.</li>
+</ul>
+<hr />
+<h3 id="for-buddhanexus-users">For Buddhanexus Users</h3>
+<p>If you are coming from the predecessor application <a href="https://buddhanexus.net">BuddhaNexus</a>, you will notice a few key differences:
+* In its default setting, DharmaNexus has match highlighting turned <em>off</em>, and you need to flip the switch to <em>on</em> in order to see them.
+* DharmaNexus uses a more reading-friendly default color scheme, which is different from the color scheme of BuddhaNexus. You can restore the color scheme of BuddhaNexus by setting it in the sidebar menu to "vivid". 
+* Unlike BuddhaNexus, DharmaNexus has no own search engine, but relies on MITRA Search, which makes precise and semantic search across the entire DharmaNexus datasets possible. 
+* Currently, DharmaNexus does not feature the X section of the CBETA canon. This will be added in a future release. On the Tibetan side, we will add material of the rin chen gter mdzod, rNying ma rgyud ’bum, rNying ma bka’ ma, and much more over the coming months. </p>
+<h3 id="underlying-data">Underlying Data</h3>
+<h4 id="pali">Pāli</h4>
+<p>The Pāli textual corpus in DharmaNexus is drawn from several high-quality digital editions:</p>
+<ul>
+<li>The core canonical texts (Sutta, Vinaya, and Abhidhamma) are sourced from <a href="https://suttacentral.net/">SuttaCentral</a>'s segmented texts from their <a href="https://github.com/suttacentral/bilara-data">bilara-data</a> repository. This allows for precise linking to SuttaCentral.</li>
+<li>The commentarial literature (Aṭṭhakathā, Ṭīkā, and Anya) is from the Chaṭṭha Saṅgāyana edition published by the <a href="https://tipitaka.org/">Vipassana Research Institute (VRI)</a>.</li>
+</ul>
+<p>The complete Pāli data can be found on <a href="https://github.com/dharmamitra/dharmanexus-pali">GitHub</a>.</p>
+<h4 id="sanskrit">Sanskrit</h4>
+<p>The Sanskrit corpus is extensive and has been gathered from multiple academic projects:</p>
+<ul>
+<li><a href="http://gretil.sub.uni-goettingen.de/gretil.html">Göttingen Register of Electronic Texts in Indian Languages (GRETIL)</a></li>
+<li><a href="https://www.dsbcproject.org/">Digital Sanskrit Buddhist Canon (DSBC)</a></li>
+<li><a href="https://muktabodha.org/">Muktabodha Indological Research Institute</a></li>
+<li><a href="https://suttacentral.net/">SuttaCentral</a></li>
+</ul>
+<p>The complete Sanskrit data can be found on <a href="https://github.com/dharmamitra/dharmanexus-sanskrit">GitHub</a>.</p>
+<p>We also do our own independent data collection efforts within the Dharmamitra project. The Sanskrit collection is therefore growing constantly. </p>
+<p>We are currently working intensely on a metadata catalog that gives detailes source attribution for each individual text, and this will be added in late summer/early autumn 2025.  </p>
+<h4 id="chinese">Chinese</h4>
+<p>The Chinese textual corpus was obtained from the <a href="https://cbeta.org/">Chinese Buddhist Electronic Text Association (CBETA)</a>.</p>
+<p>The complete Chinese data can be found on <a href="https://github.com/dharmamitra/dharmanexus-chinese">GitHub</a>.</p>
+<h4 id="tibetan">Tibetan</h4>
+<p>The Tibetan textual corpora are obtained from various sources, including the Asian Classics Input Projects (ACIP) for the Tibetan Buddhist Canon, and the <a href="https://tsadra.org/">Tsadra Foundation</a>'s <a href="https://dharmacloud.tsadra.org/">Dharma Cloud</a>.</p>
+<p>In close collaboration with the <a href="https://tsadra.org/">Tsadra Foundation</a>, major collections such as the <em>rin chen gter mdzod</em>, <em>rNying ma rgyud ’bum</em>, and <em>rNying ma bka’ ma</em> will be added over time. </p>
+<p>The complete Tibetan data can be found on <a href="https://github.com/dharmamitra/dharmanexus-tibetan">GitHub</a>. </p>
+<h3 id="technical-background">Technical Background</h3>
+<p>DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts from various text collections (See <a href="https://dharmamitra.github.io/dharmamitra-guides/dharmanexus/#sanskrit">Sanskrit data description</a>), which are then indexed on <a href="mitra_tools/search.html">MITRA Search</a>, which has access to all the data available in DharmaNexus. For Tibetan, a special substitution-based stemmer based on the foundational work of <a href="https://www.shambhala.com/a-tibetan-verb-lexicon-15252.html">Paul Hackett's Tibetan Verb Lexicon</a> is used. Pāli uses a slightly adapted version of the ByT5-Sanskrit model for word segmentation. For Chinese, we use the standard analyzers provided by Elasticsearch. In addition to token-based search, DharmaNexus is also searchable in <a href="mitra_tools/search.html">MITRA Search</a> via deep semantic embeddings on sentence and paragraph level.</p>
+<hr />
+<h2 id="faq">FAQ</h2>
+<p>For frequently asked questions about DharmaNexus, see the <a href="https://dharmamitra.github.io/dharmamitra-guides/faq/#mitra-search-dharmanexus">DharmaNexus section</a> in our main FAQ document.  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": ".", "features": [], "search": "assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.50899def.min.js"></script>
+      
+    
+  </body>
+</html>

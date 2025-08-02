@@ -1,0 +1,1075 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Guides and tutorials for the Dharmamitra meta-platform: open-source NLP, OCR, search and translation tools for Sanskrit, Pāli, Classical Chinese and Tibetan. Detailed documentation of the DharmaNexus platform and datasets.
+">
+      
+      
+      
+        <link rel="canonical" href="https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search.html">
+      
+      
+        <link rel="prev" href="ocr.html">
+      
+      
+        <link rel="next" href="deep_research.html">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.16">
+    
+    
+      
+        <title>Search - Dharmamitra Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#what-is-mitra-search" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../index.html" title="Dharmamitra Documentation" class="md-header__button md-logo" aria-label="Dharmamitra Documentation" data-md-component="logo">
+      
+  <img src="../assets/mitra-logo-header.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dharmamitra Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Search
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../index.html" title="Dharmamitra Documentation" class="md-nav__button md-logo" aria-label="Dharmamitra Documentation" data-md-component="logo">
+      
+  <img src="../assets/mitra-logo-header.png" alt="logo">
+
+    </a>
+    Dharmamitra Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../news.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    News
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../acknowledgments.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Acknowledgments
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    MITRA Tools
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            MITRA Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="translate.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Translate
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="sanskrit_grammar.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sanskrit Grammar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="ocr.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    OCR
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Search
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="search.html" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Search
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-mitra-search" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is MITRA Search?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started-your-first-search-in-3-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Started: Your First Search in 3 Steps
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Features
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mitra-search-goes-beyond-tools-like-grep" class="md-nav__link">
+    <span class="md-ellipsis">
+      MITRA Search Goes Beyond Tools Like GREP
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mitra-search-is-very-powerful-for-multilingual-queries" class="md-nav__link">
+    <span class="md-ellipsis">
+      MITRA Search is Very Powerful for Multilingual Queries
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-get-the-best-results" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to Get the Best Results
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to Get the Best Results">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-works-well-example-queries" class="md-nav__link">
+    <span class="md-ellipsis">
+      ✅ What Works Well (Example Queries)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-doesnt-work-well-and-the-better-way-to-do-it" class="md-nav__link">
+    <span class="md-ellipsis">
+      ❌ What Doesn't Work Well (And the Better Way to Do It)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips-tricks" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tips &amp; Tricks
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="deep_research.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Deep Research
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mitra_browser_extensions.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Browser Extensions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mitra_dictionaries.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Dictionaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../emacs_extensions.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Emacs Extensions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mitra_models.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    MITRA Models
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dharmanexus.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    DharmaNexus
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../datasets.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Datasets
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../publications.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Publications
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../presentations.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Presentations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../history.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    History
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Frequently Asked Questions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-mitra-search" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is MITRA Search?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started-your-first-search-in-3-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Started: Your First Search in 3 Steps
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Features
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mitra-search-goes-beyond-tools-like-grep" class="md-nav__link">
+    <span class="md-ellipsis">
+      MITRA Search Goes Beyond Tools Like GREP
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mitra-search-is-very-powerful-for-multilingual-queries" class="md-nav__link">
+    <span class="md-ellipsis">
+      MITRA Search is Very Powerful for Multilingual Queries
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-get-the-best-results" class="md-nav__link">
+    <span class="md-ellipsis">
+      How to Get the Best Results
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How to Get the Best Results">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-works-well-example-queries" class="md-nav__link">
+    <span class="md-ellipsis">
+      ✅ What Works Well (Example Queries)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-doesnt-work-well-and-the-better-way-to-do-it" class="md-nav__link">
+    <span class="md-ellipsis">
+      ❌ What Doesn't Work Well (And the Better Way to Do It)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips-tricks" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tips &amp; Tricks
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Search</h1>
+
+<h2 id="what-is-mitra-search">What is MITRA Search?</h2>
+<p>MITRA Search is a specialized <strong>semantic search engine</strong>. Think of it not as a conversational AI like ChatGPT, but as a highly sophisticated research assistant. Instead of just matching keywords, it understands the <em>meaning and concepts</em> behind your queries to find related passages across a vast library of texts in Pāli, Sanskrit, Tibetan, and Chinese.</p>
+<p>It's designed to help you <strong>discover connections</strong> and <strong>locate specific ideas</strong> that would be nearly impossible to find with traditional search methods.</p>
+<hr />
+<h2 id="getting-started-your-first-search-in-3-steps">Getting Started: Your First Search in 3 Steps</h2>
+<ol>
+<li><strong>Ask a Question or State a Concept.</strong> Start with a clear question or a description of what you're looking for. (e.g., <code>The definition of cetanā</code> or <code>suffering of ordinary people compared to a hair on the palm</code>).</li>
+<li><strong>Filter Your Search (Optional, but Recommended!).</strong> Use the "Show options" menu to narrow your search to specific languages, collections (e.g., Pāli Canon, Yogācāra texts), or even individual works. <strong>This is the key to getting the best results.</strong></li>
+<li><strong>Explore the Results.</strong> MITRA will show you the original text passages. Click the <strong>"Explanation"</strong> button below any result to get an AI-generated summary of the passage, the specific context, and how it relates to your query. You can also press the 'expand context' button at the top right of each result, which shows additional sorrounding context of a result. </li>
+</ol>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gEqrzN8W4E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<hr />
+<h2 id="key-features">Key Features</h2>
+<ul>
+<li><strong>Go Beyond Keywords:</strong> Searches for meaning and concepts, not just words.</li>
+<li><strong>Cross-Lingual Discovery:</strong> Use an English query to find passages in Sanskrit, or use a Tibetan verse to find parallels in Chinese.</li>
+<li><strong>Concept &amp; Idea-Based Search:</strong> Find abstract ideas, metaphors, and definitions.</li>
+<li><strong>On-Demand Explanations:</strong> Get a quick summary of any search result and its relevance to your query.</li>
+<li><strong>Powerful Filtering:</strong> Precisely target the literature you want to investigate.</li>
+<li><strong>Integrated with DharmaNexus:</strong> Results link directly to <a href="https://dharmanexus.org">DharmaNexus</a>, where you can explore the full context, including sophisticated ways to learn about the intertextuality of the result. </li>
+</ul>
+<hr />
+<h2 id="mitra-search-goes-beyond-tools-like-grep">MITRA Search Goes Beyond Tools Like GREP</h2>
+<p>MITRA Search is not aimed at replacing traditional search engines of databases, or local search tools like GREP. It offers a very unique, different experience from these tools, and is best used in combination with them, and not as a replacement. </p>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uY7L-M79PMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<h2 id="mitra-search-is-very-powerful-for-multilingual-queries">MITRA Search is Very Powerful for Multilingual Queries</h2>
+<p>Thanks to extensive cross-lingual training data, MITRA Search is very capable at locating parallel passages across language barries. It can be used to locate Tibetan passages based on queries in Chinese, Pāli passages based on queries in Sanskrit or Tibetan, and much more. </p>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UwKbqLJksYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<p>One particular use case where MITRA Search is powerful is locating canonical citations within Pāli Suttas and Chinese Āgamas. For example, when a later Abhidharma commentary cites a Sutta/Āgama passage, locating the precise citation can be a tedious, and time-consuming effort. MITRA Search can save a lot of time and effort on such tasks. </p>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/n7HtTPhDNiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<h2 id="how-to-get-the-best-results">How to Get the Best Results</h2>
+<p>MITRA Search excels at <strong>locating relevant passages</strong> based on your input. It does not write essays or synthesize broad topics for you.</p>
+<h4 id="what-works-well-example-queries">✅ What Works Well (Example Queries)</h4>
+<ul>
+<li><strong>Definitions:</strong> <a href="https://dharmamitra.org/lab?search_input=The+definition+of+cetan%C4%81"><code>The definition of cetanā</code></a><ul>
+<li><em>This will pull up passages from various texts and languages that define this key term. Use the filters to limit results to, for example, only Abhidharma texts.</em></li>
+</ul>
+</li>
+<li><strong>Specific Concepts:</strong> <a href="https://dharmamitra.org/lab?search_input=What+are+the+37+wings+of+awakening%3F"><code>What are the 37 wings of awakening?</code></a><ul>
+<li><em>This will find sections that list or explain the bodhipakṣa-dharmas. To see Vasubandhu's view specifically, filter by texts attributed to Vasubandhu.</em></li>
+</ul>
+</li>
+<li><strong>Metaphors and Analogies:</strong> <a href="https://dharmamitra.org/lab?search_input=consciousness+being+compared+to+a+flowing+river"><code>consciousness being compared to a flowing river</code></a><ul>
+<li><em>This is where semantic search shines, finding conceptual similarities even when the exact wording differs significantly.</em></li>
+</ul>
+</li>
+<li><strong>Finding Parallels:</strong> <em>(Paste a full sentence or paragraph in Sanskrit, Pāli, etc.)</em><ul>
+<li><em>MITRA will find other passages that express a similar idea, either in the same language or a different one.</em></li>
+</ul>
+</li>
+</ul>
+<h4 id="what-doesnt-work-well-and-the-better-way-to-do-it">❌ What Doesn't Work Well (And the Better Way to Do It)</h4>
+<ul>
+<li><strong>Broad, Analytical Queries:</strong> <code>Summarize the sākāra/nirākara debate.</code><ul>
+<li><strong>The Problem:</strong> MITRA finds short text passages, not entire philosophical debates.</li>
+<li><strong>The Better Way:</strong> Search for specific concepts within the debate, like <a href="https://dharmamitra.org/lab?search_input=the+appearance+of+an+external+object"><code>the appearance of an external object</code></a> and filter by the schools of thought you're interested in.</li>
+</ul>
+</li>
+<li><strong>Queries with Historical Constraints:</strong> <code>The Early Buddhist view on the benefits of ordination.</code><ul>
+<li><strong>The Problem:</strong> The system cannot currently distinguish historical layers like "Early Buddhism" from the prompt alone.</li>
+<li><strong>The Better Way:</strong> Use the filters! Select the collections that represent early literature, such as the Pāli Suttas or the Chinese Āgamas, and then run your query: <a href="https://dharmamitra.org/lab?search_input=benefits+of+ordination&amp;filter_source_language=zh&amp;include_categories=T01,T02"><code>benefits of ordination</code></a>.</li>
+</ul>
+</li>
+<li><strong>Queries About "Development Over Time":</strong> <code>The development of "storehouse consciousness" in Yogācāra.</code><ul>
+<li><strong>The Problem:</strong> The system cannot track a term's evolution through time, and not be prompted to focuss on specific literature.</li>
+<li><strong>The Better Way:</strong> Filter by the "Yogācāra" collection in the different languages and run several targeted queries to piece together the picture yourself, such as <a href="https://dharmamitra.org/lab?filter_source_language=zh&amp;include_categories=T31&amp;search_input=the+relationship+between+seeds+and+the+storehouse+consciousness"><code>the relationship between seeds and the storehouse consciousness</code></a> or <a href="https://dharmamitra.org/lab?filter_source_language=bo&amp;include_categories=T06&amp;search_input=defilements+and+the+storehouse+consciousness"><code>defilements and the storehouse consciousness</code></a>.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2 id="tips-tricks">Tips &amp; Tricks</h2>
+<ul>
+<li><strong>The Golden Rule: Use Filters!</strong> When you don't use filters, MITRA searches everything at once. This can sometimes hide the gems you're looking for. For the best results, always tell the system where to look by filtering by language, collection, or text.</li>
+<li><strong>Literal vs. Semantic Search:</strong> If you need to find exact wording, turn on the <strong>"exact matches"</strong> switch. This will also be a magnitude faster than the default semantic search. Keep it off for most uses to leverage the power of semantic search.</li>
+<li><strong>Diacritics Help:</strong> While the system is tolerant of variations (e.g., <code>cetana</code> vs. <code>cetanā</code>), using proper diacritics will generally yield more accurate results.</li>
+<li><strong>You Are the Expert:</strong> Think of MITRA Search as a powerful assistant that casts a wide conceptual net, sometimes bringing back passages that are related but not a perfect match. It surfaces the <em>possibilities</em>; your expertise is what determines the ultimate relevance of a result. This exploratory power is one of its greatest strengths.</li>
+</ul>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/r4ZO4FhkzsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.50899def.min.js"></script>
+      
+    
+  </body>
+</html>
