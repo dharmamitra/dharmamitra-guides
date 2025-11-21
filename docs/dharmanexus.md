@@ -108,6 +108,16 @@ DharmaNexus uses the ByT5-Sanskrit model for word segmentation of Sanskrit texts
 
 ---
 
+## Terms of Service
+
+**Prohibited Use:** You may not use the Dharmamitra API or DharmaNexus database API to populate third-party applications, presentation layers, or 'staging' environments.
+
+**Academic Integrity:** Any academic output (presentations, papers, grant reports, live websites on institutional urls) that relies on unauthorized access to this API will be considered a violation of these Terms.
+
+We are committed to fostering a collaborative and open research community. If you are interested in using our data for your project, please reach out to us. We welcome collaborations and are happy to discuss ways we can work together. For any inquiries or collaboration proposals, please contact us at [dharmamitra.project@gmail.com](mailto:dharmamitra.project@gmail.com).
+
+---
+
 ## FAQ
 
 For frequently asked questions about DharmaNexus, see the [DharmaNexus section](https://dharmamitra.github.io/dharmamitra-guides/faq/#mitra-search-dharmanexus) in our main FAQ document.  
