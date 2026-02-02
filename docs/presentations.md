@@ -1,6 +1,78 @@
 ## Presentations
 
 
+### Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
+**January 31, 2026**
+
+*Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
+
+The forum brought together practitioners from Japan and abroad to share cutting-edge research at the intersection of data science, culture, and society, discussing methodology (reproducibility, validity), infrastructure (RDM, FAIR, open science), and ethics (governance, bias, copyright). I presented on Dharmamitra as a data-driven platform for researching Buddhist texts across multiple languages using advanced NLP methods.
+
+---
+
+### AI and Indological/Buddhological researches: Dharmamitra/Dharmanexus and its Application
+**January 10, 2026**
+
+*Conference, インド思想史学会 第32回学術大会 (Association for the Study of the History of Indian Thought, The 32nd Annual Conference), Kyoto University, Faculty of Letters Building, Lecture room 7, Kyoto, Japan (Face-to-face & Online)*
+
+Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent advances in AI are transforming many areas of scholarship, and the field of Indology is no exception. We introduced Dharmamitra, an AI-assisted research environment that provides advanced tools for philological work across the Classical Asian languages: Pāli, Sanskrit, Tibetan, and Chinese. Through components such as MITRA Search, Deep Research, and the DharmaNexus textual database, Dharmamitra supports large-scale discovery of parallel passages and intertextual relationships across linguistic boundaries. The first half of the presentation outlined what Dharmamitra is, what kinds of data and models it relies on, and how its core tools work together. The second half presented a concrete case study on two folios of Buddhist palm-leaf manuscripts from the oldest layer of the Nepalese manuscript collection (Gilgit–Bamiyan Type I script). Using Dharmamitra/DharmaNexus to search across Sanskrit, Tibetan, and Chinese materials, we identified highly plausible textual matches: one corresponding to part of the text translated into Chinese as T 1335 大吉義呪經, the other aligning with a section of the Tibetan translation of the Akṣobhyatathāgatavyūha* (Tohoku 50), corresponding to Chinese T 310 大寶積經 book 6 and T 313 阿閦佛國經.
+
+---
+
+### Translation, OCR, and Semantic Retrieval: Current Status and Future Outlook of the Dharmamitra Ecosystem
+**December 21, 2025**
+
+*Symposium, 仏教学とデジタル・ヒューマニティーズ国際シンポジウム (Buddhist Studies and Digital Humanities International Symposium), Tokyo, Japan*
+
+I presented on the current status and future outlook of the Dharmamitra ecosystem, covering translation, OCR, and semantic retrieval capabilities for Buddhist texts. The symposium was held at Tokyo International Forum Hall D5 and focused on "The Significance of Humanities and Research Infrastructure Development in the DX-AI Era."
+
+---
+
+### Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers
+**December 21, 2025**
+
+*Symposium, 11th Symposium of Humanistic Buddhism, Taiwan*
+
+I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA." The panel showcased how emerging AI tools support large-scale Buddhist translation and lexicographical research. I introduced Dharmamitra as a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab, which employs Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval.
+
+---
+
+### Building the Foundations of Buddhist Philology through Digital Humanities: Exploring the Potential of the Tohoku University Digital Archives (ToUDA)
+**December 03, 2025**
+
+*Workshop, Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku University, Sendai, Japan*
+
+I presented as part of the Digital Archive Research Unit at the Center for Integrated Japanese Studies (CIJS) at Tohoku University. The workshop and symposium was co-hosted by CIJS, the Tohoku University Digital Archives Steering Committee, and the Tohoku University Library. I delivered a lecture and participated in a panel discussion on the digitization of academic resources in Tohoku University and new developments in Buddhist textual studies with AI technology.
+
+---
+
+### From OCR via Machine Translation to Semantic Search: The Dharmamitra AI stack for Multilingual Buddhist Philology
+**November 25, 2025**
+
+*Talk, 서울대학교 인공지능 디지털인문학센터 해외연구자 초청포럼 (Seoul National University AI Digital Humanities Center Overseas Researcher Invitation Forum), Seoul, South Korea*
+
+Mentioned in KADH news.
+
+---
+
+### Machine Learning and Large Language Models in Buddhist Studies: The Dharmamitra Project
+**November 12, 2025**
+
+*Talk, Goodman Lecture Series No. 32, Khyentse Foundation, Online*
+
+Recent advances in machine learning, particularly the advent of Large Language Models (LLMs) such as ChatGPT, are rapidly shaping new ways of accessing and interpreting knowledge preserved in textual form. This has far-reaching implications for the study of the Buddhist textual tradition. Applications once considered decades away, such as the fluent machine translation of Classical Tibetan or Chinese into English, are now commonly used by scholars at all levels, from early-career students to senior researchers. This talk will provide an overview of the tools that the Dharmamitra project currently offers the Buddhist Studies community, with a focus on machine translation and cross-lingual search for philological use cases. It will also introduce the underlying technical architecture of these tools and discuss both the capabilities and limitations of the current generation of language models for philological applications.
+
+---
+
+### Dharmamitra & DharmaNexus: A New Set of Digital Tools for the Philological Study of Buddhist Texts
+**August 18, 2025**
+
+*Presentation, ELTE BTK, Kodály terem, Budapest, Hungary*
+
+Traditional philological work on Buddhist sources often consists of laborious keyword searches across disparate corpora in multiple languages, followed by manual collation of parallels, a workflow that favours stamina over insight. Dharmamitra is an open-source platform that collapses those tasks to seconds using advanced computational and deep learning methods.
+
+---
+
 ### Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition
 **June 2025**
 
