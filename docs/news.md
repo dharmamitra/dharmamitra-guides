@@ -1,6 +1,6 @@
 # News
 
-## July 26, 2024: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
+## July 26, 2025: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
 
 We are thrilled to announce the official launch of a number of new flagship capabilities: [MITRA Search](mitra_tools/search.md), [MITRA Deep Research](mitra_tools/deep_research.md), and [DharmaNexus](dharmanexus.md). These tools represent a new era for Dharmamitra, offering powerful search, in-depth analysis, and intertextuality exploration coupled tightly with the existing capabilities of Dharmamitra. We invite you to explore them and see how they can help your research and study.
 
