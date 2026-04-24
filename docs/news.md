@@ -4,18 +4,6 @@
 
 We are thrilled to announce the official launch of a number of new flagship capabilities: [MITRA Search](mitra_tools/search.md), [MITRA Deep Research](mitra_tools/deep_research.md), and [DharmaNexus](dharmanexus.md). These tools represent a new era for Dharmamitra, offering powerful search, in-depth analysis, and intertextuality exploration coupled tightly with the existing capabilities of Dharmamitra. We invite you to explore them and see how they can help your research and study.
 
-## July 21, 2024: A note by CTO Sebastian about BuddhaNexus and the future prospects
-
-With the upcoming launch of a lot of new features, among them the [DharmaNexus](https://dharmanexus.org) database, I want to thank the key institutions that made the development of the open source initiative [BuddhaNexus](https://buddhanexus.net), which served as the first prototype of the system, possible. Without [SuttaCentral](https://suttacentral.net), we would not have gotten off the ground. We inherited a significant part of the front- and backend codebase, and thanks to SuttaCentral's commitment to open source licensing under GPL, this was possible, and in fact even encouraged.
-
-Of course, the development of BuddhaNexus was primarily possible because of the people creating it, and it is due to ven. Ayya Vimala's dedicated contributions in the early months, including them bringing in additional developers, that we could iterate so fast. Equally grateful I am to the [Khyentse Center for Tibetan Buddhist Textual Scholarship (KC TBTS)](https://www.kc-tbts.uni-hamburg.de/), which funded parts of the BuddhaNexus development, gave valuable feedback, and a home deployed on Hamburg server infrastructure in this development phase 2019-2022.
-
-When I left Hamburg in early 2023, maintaining two separate code-bases became unfeasible. The good news is that the core team of BuddhaNexus, supported by a new funding infrastructure, is now committed to making the actively maintained successor platform DharmaNexus a reality, which is a deeply-integrated intertextuality engine within the Dharmamitra ecosystem.
-
-We are extremely excited about the future of the project, and we envision open collaboration and the establishment of intertextuality and semantic search infrastructure that will be in use for many years to come.
-
-Of course, none of this would be possible without the people involved. Creating lasting infrastructure in digital humanities is a very challenging task. People who have the right set of qualities -- the intersection of knowledge of the classical primary languages, the necessary programming skills, and a deep interest and joy in working on such systems, are extremely difficult to find. We are more than blessed by the fact that a small but dedicated team has formed over the years that is willing to tackle these challenges again and again. This is absolutely not a given. 🙏
-
 The archived BuddhaNexus codebase is here: [https://github.com/BuddhaNexus/](https://github.com/BuddhaNexus/)
 
 Development of Dharmamitra, including DharmaNexus, is happening here: [https://github.com/dharmamitra](https://github.com/dharmamitra)
