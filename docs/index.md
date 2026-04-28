@@ -16,6 +16,7 @@
 ## News
 
 <!-- Each news item links to its section in news.md -->
+- [April, 2026: Dharmamitra Platform Update](news.md#April-2026-Dharmamitra-Platform-Update)
 - [March 2026: OCR and Beyond Workshop at Tohoku University](news.md#OCR-and-Beyond-Workshop-at-Tohoku-University)
 - [August 2025: MITA at IABS Conference, Leipzig](news.md#august-2025-mita-at-iabs-conference-leipzig)
 - [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-2025-deep-neural-embeddings-at-hanmun-lab-workshop)
