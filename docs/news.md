@@ -30,7 +30,7 @@ For Chinese (In collaboration with Kanripo / 漢籍リポジトリ):
 
 We hope that these updates make the daily work with our platform more productive and pleasant!
 
-![Explore screenshot](assets/explore screenshot.jpg)
+![Explore screenshot](docs/assets/explore screenshot.jpg)
 
 ## March 28–29, 2026: OCR and Beyond Workshop at Tohoku University
  On March 28 (Sat) and 29 (Sun), Center for Integrated Japanese Studies (CIJS) at Tohoku University hosted the international workshop “OCR AND BEYOND” focusing on philology and digital archives in the age of AI. The workshop featured discussions on cutting-edge computer-aided annotation workflows, including Sanskrit studies utilizing Generative AI, the digitization of Tibetan, Nepalese, and Japanese Esoteric Buddhist texts, and the construction of structured corpora. 
