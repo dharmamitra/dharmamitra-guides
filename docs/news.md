@@ -44,7 +44,7 @@ sessions were held, fostering vibrant academic exchange and a lively sharing of 
 ![OCR and Beyond Flyer](assets/Dharmamitra_OCR%20Workshop_online.jpg) 
 
 
-![OCR and beyond-group photo](docs/assets/OCR-and-beyond-group-photo.jpg)
+![OCR and beyond-group photo](assets/OCR-and-beyond-group-photo.jpg)
 
 ## July 26, 2025: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
 
