@@ -1,6 +1,6 @@
 # News
 
-## Dharmamitra Platform Update
+## April, 2026: Dharmamitra Platform Update
 
 We’ve been very busy over the last months, and we are thrilled to announce a massive update to the Dharmamitra platform! 
 
