@@ -9,9 +9,7 @@ of Digital Humanities and the academic application of AI, particularly OCR (Opti
 host, and Associate Professor Ryuta Kikutani delivered presentations. They introduced &quot;Dharmamitra,&quot; a machine translation model developed for classical Asian languages, and discussed the latest trends in the application of OCR within Tibetan Buddhist philology. Over the two-day event, a total of 12 research presentations and four themed discussion
 sessions were held, fostering vibrant academic exchange and a lively sharing of ideas among participants from Japan and abroad.
 
-<div align="center">
-  <img src="assets/Dharmamitra_OCR Workshop_online.jpg" alt="Workshop Flyer" width="500" style="animation-iteration-count: 1;">
-</div>
+![OCR and Beyond Flyer](https://github.com/dharmamitra/dharmamitra-guides/blob/main/docs/assets/Dharmamitra_OCR%20Workshop_online.jpg) 
 
 
 ## July 26, 2025: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
