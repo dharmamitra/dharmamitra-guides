@@ -18,7 +18,7 @@ Speaker: Professor Sebastian Nehrdich, Tohoku University
 ### Is this the end of (Buddhist) philology as we know It? If so, what’s next?
 **March 13, 2026**
 
-**[Hybrid lecture](https://www.iias.asia/events/end-buddhist-philology-we-know-it-if-so-whats-next), International Institute for Asian Studies, Leiden University, Netherlands*
+*[Hybrid lecture](https://www.iias.asia/events/end-buddhist-philology-we-know-it-if-so-whats-next), International Institute for Asian Studies, Leiden University, Netherlands*
 
 With rapidly growing digital collections and increasingly powerful AI and information-retrieval tools, textual Buddhist Studies is undergoing a paradigm shift. How are these new tools already influencing research practice, and what new questions and methods might they enable in the near future?
 
