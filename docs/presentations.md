@@ -1,9 +1,24 @@
 ## Presentations
 
+### DharmaNexus as a Multilingual Graph of Buddhist Intertextuality: Design Choices, Research Uses, and Future Applications
+**March 17, 2026**
+
+*Lecture, The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, Ghent University, Belgium*
+
+Locating textual parallels, translations, citations, and topically related passages across vast collections of texts in multiple languages is a basic requirement of philological work in Buddhist Studies. Recent advances in digitization, OCR, and cross-lingual information retrieval have fundamentally changed access to this kind of evidence, with far-reaching implications for how philological research can be conducted. A central component in this context is DharmaNexus: a database that stores intertextual relationships between passages across languages and sources, and that supports the retrieval and comparison functions used in the Dharmamitra tool ecosystem.
+
+In this presentation, I will discuss DharmaNexus as a verifiable “evidence layer” for AI-assisted multilingual research. I will highlight key design choices and show how intertextual relationships are determined and represented. I will also demonstrate how this data is already used in research-facing tools for discovering and inspecting parallels and reuse patterns in Buddhist literature. Finally, I will address limitations and risks that can arise from over-reliance on these systems, and outline further possible research applications enabled by this architecture.
+
+Speaker: Professor Sebastian Nehrdich, Tohoku University
+
+
+
+---
+
 ### Is this the end of (Buddhist) philology as we know It? If so, what’s next?
 **March 13, 2026**
 
-*Hybrid lecture, International Institute for Asian Studies, Leiden University*
+*Hybrid lecture, International Institute for Asian Studies, Leiden University, Netherlands*
 
 With rapidly growing digital collections and increasingly powerful AI and information-retrieval tools, textual Buddhist Studies is undergoing a paradigm shift. How are these new tools already influencing research practice, and what new questions and methods might they enable in the near future?
 
@@ -13,6 +28,8 @@ As Buddhist textual corpora rapidly expand across multiple languages through dig
 This talk will discuss what tools are currently available, how they are already being used in philological research, and what directions these technological developments might take in the immediate future. It will also reflect on what shape philology might take in an age where evidence discovery becomes increasingly automated.
 
 Speaker: Sebastian Nehrdich (Tohoku University, Japan)
+
+![Ghent_talk_poster](assets/Ghent_talk_Poster.jpg)
 
 ---
 
