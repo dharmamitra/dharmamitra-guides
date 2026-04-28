@@ -3,7 +3,7 @@
 ### DharmaNexus as a Multilingual Graph of Buddhist Intertextuality: Design Choices, Research Uses, and Future Applications
 **March 17, 2026**
 
-*Lecture, The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, Ghent University, Belgium*
+*[Lecture](https://www.cbs.ugent.be/uncategorized/guest-lecture-dharmanexus-as-a-multilingual-graph-of-buddhist-intertextuality-design-choices-research-uses-and-future-applications-by-sebastian-nehrdich-march-17-2026/), The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, Ghent University, Belgium*
 
 Locating textual parallels, translations, citations, and topically related passages across vast collections of texts in multiple languages is a basic requirement of philological work in Buddhist Studies. Recent advances in digitization, OCR, and cross-lingual information retrieval have fundamentally changed access to this kind of evidence, with far-reaching implications for how philological research can be conducted. A central component in this context is DharmaNexus: a database that stores intertextual relationships between passages across languages and sources, and that supports the retrieval and comparison functions used in the Dharmamitra tool ecosystem.
 
@@ -18,7 +18,7 @@ Speaker: Professor Sebastian Nehrdich, Tohoku University
 ### Is this the end of (Buddhist) philology as we know It? If so, what’s next?
 **March 13, 2026**
 
-*Hybrid lecture, International Institute for Asian Studies, Leiden University, Netherlands*
+**[Hybrid lecture](https://www.iias.asia/events/end-buddhist-philology-we-know-it-if-so-whats-next), International Institute for Asian Studies, Leiden University, Netherlands*
 
 With rapidly growing digital collections and increasingly powerful AI and information-retrieval tools, textual Buddhist Studies is undergoing a paradigm shift. How are these new tools already influencing research practice, and what new questions and methods might they enable in the near future?
 
