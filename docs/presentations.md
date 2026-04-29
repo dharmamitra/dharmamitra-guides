@@ -11,7 +11,7 @@ In this presentation, I will discuss DharmaNexus as a verifiable “evidence lay
 
 Speaker: Professor Sebastian Nehrdich, Tohoku University
 
-
+![Ghent_talk_poster](assets/Ghent_talk_Poster.jpg)
 
 ---
 
@@ -28,8 +28,6 @@ As Buddhist textual corpora rapidly expand across multiple languages through dig
 This talk will discuss what tools are currently available, how they are already being used in philological research, and what directions these technological developments might take in the immediate future. It will also reflect on what shape philology might take in an age where evidence discovery becomes increasingly automated.
 
 Speaker: Sebastian Nehrdich (Tohoku University, Japan)
-
-![Ghent_talk_poster](assets/Ghent_talk_Poster.jpg)
 
 ---
 
