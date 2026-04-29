@@ -1,5 +1,33 @@
 ## Presentations
 
+### Dharmamitra and Buddha Nexus Ecosystems in the age of AI with Dr. Sebastien Nehrdich
+**April 11, 2026**
+
+*[Workshop,](https://ryi.org/news/workshop-dr-sebastien-nehrdich) Kathmandu University Centre for Buddhist Studies at Rangjung Yeshe Institute, Kathmandu, Nepal*
+
+We are delighted to welcome Dr. Sebastien Nehrdich, Distinguished Assistant Professor at Tohoku University and Director of the Dharmamitra project, for a full-day workshop introducing the Dharmamitra ecosystem and its successor BuddhaNexus. As the lead developer of the BuddhaNexus platform from 2018–2023, and a central figure in advancing multilingual digital tools for Buddhist textual research, Dr. Nehrdich will guide participants through the latest innovations in intertextual search, semantic modeling, and AI-supported exploration of Buddhist sources across Sanskrit, Tibetan, Chinese, and Pāli. This workshop offfers a unique opportunity to explore cutting-edge methods shaping the future of Buddhist Studies.
+
+![RYI workshop flyer](assets/RYI_workshop_flyer.jpg)
+
+---
+
+### Dharmamitra: A Platform to Support Research across Language Boundaries on Buddhist Textual Material
+**March 20, 2026**
+
+*[Workshop,](https://cijs.oii.tohoku.ac.jp/en/news/detail---id-129.html) Japanese Studies in Japan and Belgium, organised b The Center for Integrated Japanese Studies (CIJS), Tohoku University and the Ghent University Institute for Japanese Studies Ghent University, Belgium*
+
+The Center for Integrated Japanese Studies (CIJS) at Tohoku University will host a two-day workshop titled "Japanese Studies in Japan and Belgium" on March 19 and 20, 2026. The event will be held at Ghent University, Belgium, and is co-organized with the Ghent University Institute for Japanese Studies. Ghent University is renowned as one of Europe's leading hubs for Japanese Studies and has maintained a strong academic partnership with Tohoku University through the Hasekura League.
+
+The program will feature an introduction to CIJS activities by Director Hiroaki Adachi, followed by annual reports from all 11 ongoing CIJS collaborative research projects. Additionally, six faculty members from CIJS will deliver research presentations. From Ghent University, Prof. Dr. Andreas Niehaus, who serves as the President of the EAJS (European Association for Japanese Studies), will also be a featured speaker.
+
+The workshop will be streamed online to EAJS members across various countries, providing a significant opportunity to promote CIJS activities throughout Europe. A detailed report on the results of the workshop will be published on our website at a later date.
+
+[Program](https://cijs.oii.tohoku.ac.jp/media/files/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%EF%BC%9AMarch_Japanese%20Studies%20in%20Japan%20and%20Belgium.pdf)
+
+![Ghent CIJS](assets/Ghent_CIJS.png)
+
+---
+
 ### DharmaNexus as a Multilingual Graph of Buddhist Intertextuality: Design Choices, Research Uses, and Future Applications
 **March 17, 2026**
 
