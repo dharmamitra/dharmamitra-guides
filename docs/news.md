@@ -65,7 +65,7 @@ Sebastian Nehrdich (Distinguished Assistant Professor, Center for Integrated Jap
 
 [Read th full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)
 
-![Sebastian_Zoom with_PPT](../assets/Sebastian_Zoom_with_PPT.png)
+![Sebastian Zoom with PPT](../assets/Sebastian_Zoom_with_PPT.png)
 
 ---
 
