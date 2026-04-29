@@ -1,4 +1,4 @@
-## Presentations
+## Invited Talks
 
 ### Dharmamitra and Buddha Nexus Ecosystems in the age of AI with Dr. Sebastien Nehrdich
 **April 11, 2026**
