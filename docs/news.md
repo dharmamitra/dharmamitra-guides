@@ -37,16 +37,7 @@ We hope that these updates make the daily work with our platform more productive
 ## March 28–29, 2026: OCR and Beyond Workshop at Tohoku University
  On March 28 (Sat) and 29 (Sun), Center for Integrated Japanese Studies (CIJS) at Tohoku University hosted the international workshop “OCR AND BEYOND” focusing on philology and digital archives in the age of AI. The workshop featured discussions on cutting-edge computer-aided annotation workflows, including Sanskrit studies utilizing Generative AI, the digitization of Tibetan, Nepalese, and Japanese Esoteric Buddhist texts, and the construction of structured corpora. 
 
-
-Approximately 100 participants attended both in person and online, with registrations spanning 28 countries and regions. This highlighted the growing global interest in the field
-of Digital Humanities and the academic application of AI, particularly OCR (Optical Character Recognition) technology. From CIJS, Assistant Professor Sebastian Nehrdich, who also served as the workshop
-host, and Associate Professor Ryuta Kikutani delivered presentations. They introduced &quot;Dharmamitra,&quot; a machine translation model developed for classical Asian languages, and discussed the latest trends in the application of OCR within Tibetan Buddhist philology. Over the two-day event, a total of 12 research presentations and four themed discussion
-sessions were held, fostering vibrant academic exchange and a lively sharing of ideas among participants from Japan and abroad.
-
-![OCR and Beyond Flyer](assets/Dharmamitra_OCR%20Workshop_online.jpg) 
-
-
-![OCR and beyond-group photo](assets/OCR-and-beyond-group-photo.jpg)
+[Read more.](events/organized_events.md)
 
 ---
 
