@@ -7,7 +7,7 @@
 
 We are delighted to welcome Dr. Sebastien Nehrdich, Distinguished Assistant Professor at Tohoku University and Director of the Dharmamitra project, for a full-day workshop introducing the Dharmamitra ecosystem and its successor BuddhaNexus. As the lead developer of the BuddhaNexus platform from 2018–2023, and a central figure in advancing multilingual digital tools for Buddhist textual research, Dr. Nehrdich will guide participants through the latest innovations in intertextual search, semantic modeling, and AI-supported exploration of Buddhist sources across Sanskrit, Tibetan, Chinese, and Pāli. This workshop offfers a unique opportunity to explore cutting-edge methods shaping the future of Buddhist Studies.
 
-![RYI workshop flyer](docs/assets/RYI_workshop_flyer.jpg)
+![RYI workshop flyer](../assets/RYI_workshop_flyer.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ The workshop will be streamed online to EAJS members across various countries, p
 
 [Program](https://cijs.oii.tohoku.ac.jp/media/files/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%EF%BC%9AMarch_Japanese%20Studies%20in%20Japan%20and%20Belgium.pdf)
 
-![Ghent CIJS](assets/Ghent_CIJS.png)
+![Ghent CIJS](../assets/Ghent_CIJS.png)
 
 ---
 
@@ -39,7 +39,7 @@ In this presentation, I will discuss DharmaNexus as a verifiable “evidence lay
 
 Speaker: Professor Sebastian Nehrdich, Tohoku University
 
-![Ghent_talk_poster](assets/Ghent_talk_Poster.jpg)
+![Ghent_talk_poster](../assets/Ghent_talk_Poster.jpg)
 
 ---
 
