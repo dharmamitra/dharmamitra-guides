@@ -50,6 +50,24 @@ sessions were held, fostering vibrant academic exchange and a lively sharing of 
 
 ---
 
+## February, 2026: Dharmamitra Board of Advisors
+
+We are happy to announce that Dharmamitra now features a [Board of Advisors](https://rnd.dharmamitra.org/people). They will advise on the kind of data that Dharmamitra includes, on the functionality and design of our various applications, and on making sure that we keep providing tools and utility that really matter for our core audience. We are more than grateful for their support and expertise!
+
+![Members of the Board of Advisors](../assets/Board_of_advisors.png)
+
+---
+
+### Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
+**January 31, 2026**
+
+*Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
+
+The forum brought together practitioners from Japan and abroad to share cutting-edge research at the intersection of data science, culture, and society, discussing methodology (reproducibility, validity), infrastructure (RDM, FAIR, open science), and ethics (governance, bias, copyright). I presented on Dharmamitra as a data-driven platform for researching Buddhist texts across multiple languages using advanced NLP methods.
+
+
+---
+
 ## July 26, 2025: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
 
 We are thrilled to announce the official launch of a number of new flagship capabilities: [MITRA Search](mitra_tools/search.md), [MITRA Deep Research](mitra_tools/deep_research.md), and [DharmaNexus](dharmanexus.md). These tools represent a new era for Dharmamitra, offering powerful search, in-depth analysis, and intertextuality exploration coupled tightly with the existing capabilities of Dharmamitra. We invite you to explore them and see how they can help your research and study.
