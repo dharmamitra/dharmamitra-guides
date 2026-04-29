@@ -49,8 +49,8 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 ---
 
-### Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
-**December 21, 2026**
+### December 21, 2025: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
+
 
 *Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
 
