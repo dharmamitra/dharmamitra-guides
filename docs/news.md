@@ -54,8 +54,7 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 *Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
 
-The forum brought together practitioners from Japan and abroad to share cutting-edge research at the intersection of data science, culture, and society, discussing methodology (reproducibility, validity), infrastructure (RDM, FAIR, open science), and ethics (governance, bias, copyright). I presented on Dharmamitra as a data-driven platform for researching Buddhist texts across multiple languages using advanced NLP methods.
-
+[Read more.](events/invited_talks.md)
 
 ---
 
@@ -67,9 +66,13 @@ The archived BuddhaNexus codebase is here: [https://github.com/BuddhaNexus/](htt
 
 Development of Dharmamitra, including DharmaNexus, is happening here: [https://github.com/dharmamitra](https://github.com/dharmamitra)
 
+---
+
 ## August 2025: MITA at IABS Conference, Leipzig
 
 We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
+
+[Read more.](events/invited_talks.md)
 
 ---
 
