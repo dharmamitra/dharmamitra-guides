@@ -58,6 +58,17 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 ---
 
+### December 21, 2025: Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers
+
+On December 21, we where part of the panel “AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA” at the 11th Symposium of Humanistic Buddhism
+Sebastian Nehrdich (Distinguished Assistant Professor, Center for Integrated Japanese Studies, Tohoku University) introduced 'Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers,' a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab. Employing Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval, the platform allows researchers to instantly locate and understand passages across multilingual corpora, offering a powerful framework for Buddhist textual scholarship while reaffirming human expertise in interpretation.
+
+[Read th full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)
+
+![Sebastian_Zoom with_PPT](../assets/Sebastian_Zoom_with_PPT.webp)
+
+---
+
 ## July 26, 2025: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
 
 We are thrilled to announce the official launch of a number of new flagship capabilities: [MITRA Search](mitra_tools/search.md), [MITRA Deep Research](mitra_tools/deep_research.md), and [DharmaNexus](dharmanexus.md). These tools represent a new era for Dharmamitra, offering powerful search, in-depth analysis, and intertextuality exploration coupled tightly with the existing capabilities of Dharmamitra. We invite you to explore them and see how they can help your research and study.
