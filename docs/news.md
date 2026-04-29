@@ -54,7 +54,7 @@ sessions were held, fostering vibrant academic exchange and a lively sharing of 
 
 We are happy to announce that Dharmamitra now features a [Board of Advisors](https://rnd.dharmamitra.org/people). They will advise on the kind of data that Dharmamitra includes, on the functionality and design of our various applications, and on making sure that we keep providing tools and utility that really matter for our core audience. We are more than grateful for their support and expertise!
 
-![Members of the Board of Advisors](../assets/Board_of_advisors.png)
+![Members of the Board of Advisors](assets/Board_of_advisors.png)
 
 ---
 
