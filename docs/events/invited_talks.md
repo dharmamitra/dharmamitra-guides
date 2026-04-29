@@ -59,24 +59,6 @@ Speaker: Sebastian Nehrdich (Tohoku University, Japan)
 
 ---
 
-### Dharmamitra Board of Advisors
-**February, 2026**
-
-We are happy to announce that Dharmamitra now features a [Board of Advisors](https://rnd.dharmamitra.org/people). They will advise on the kind of data that Dharmamitra includes, on the functionality and design of our various applications, and on making sure that we keep providing tools and utility that really matter for our core audience. We are more than grateful for their support and expertise!
-
-![Members of the Board of Advisors](../assets/Board_of_advisors.png)
-
----
-
-### Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
-**January 31, 2026**
-
-*Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
-
-The forum brought together practitioners from Japan and abroad to share cutting-edge research at the intersection of data science, culture, and society, discussing methodology (reproducibility, validity), infrastructure (RDM, FAIR, open science), and ethics (governance, bias, copyright). I presented on Dharmamitra as a data-driven platform for researching Buddhist texts across multiple languages using advanced NLP methods.
-
----
-
 ### AI and Indological/Buddhological researches: Dharmamitra/Dharmanexus and its Application
 **January 10, 2026**
 
