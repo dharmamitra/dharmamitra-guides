@@ -32,8 +32,8 @@ nav:
   - 'Datasets': 'datasets.md'
   - 'Publications': 'publications.md'
   - 'Events':
-    - 'Invited Talks': 'events/invited_talks.md'
-    - 'Organized Events': 'events/organized_events.md'
+      - 'Invited Talks': 'events/invited_talks.md'
+      - 'Organized Events': 'events/organized_events.md'
   - 'History': 'history.md'
   - 'Frequently Asked Questions': 'faq.md'
 extra_css:
