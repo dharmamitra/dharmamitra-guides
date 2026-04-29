@@ -19,6 +19,7 @@
 - [April, 2026: Dharmamitra Platform Update – Introducing Explore](news.md#April-2026-Dharmamitra-Platform-Update–Introducing-Explore)
 - [March 2026: OCR and Beyond Workshop at Tohoku University](news.md#OCR-and-Beyond-Workshop-at-Tohoku-University)
 - [February 2026: Dharmamitra Board of Advisors](news.md#Dharmamitra-Board-of-Advisors)
+- [December 21, 2025: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods](news.md#Dharmamitra:-A-data-driven-platform)
 - [August 2025: MITA at IABS Conference, Leipzig](news.md#august-2025-mita-at-iabs-conference-leipzig)
 - [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-2025-deep-neural-embeddings-at-hanmun-lab-workshop)
 - [June 2025: From Sthiramati to Dharmamitra at Keio University](news.md#june-2025-from-sthiramati-to-dharmamitra-at-keio-university)
