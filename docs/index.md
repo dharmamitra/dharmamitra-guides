@@ -17,6 +17,7 @@
 
 <!-- Each news item links to its section in news.md -->
 - [April, 2026: Dharmamitra Platform Update – Introducing Explore](news.md#April-2026-Dharmamitra-Platform-Update–Introducing-Explore)
+- [April, 2026: Dharmamitra and Buddha Nexus Ecosystems in the age of AI (Workshop)](news.md#April-2026-Dharmamitra-and-Buddha-Nexus-Ecosystems-in-the-age-of-AI)
 - [March 2026: OCR and Beyond Workshop at Tohoku University](news.md#OCR-and-Beyond-Workshop-at-Tohoku-University)
 - [February 2026: Dharmamitra Board of Advisors](news.md#Dharmamitra-Board-of-Advisors)
 - [December 2025: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods](news.md#Dharmamitra-A-data-driven-platform-for-the-research-of-Buddhist-texts-in-multiple-languages-using-advanced-NLP-methods)
