@@ -63,9 +63,17 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 On December 21, we where part of the panel “AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA” at the 11th Symposium of Humanistic Buddhism
 Sebastian Nehrdich (Distinguished Assistant Professor, Center for Integrated Japanese Studies, Tohoku University) introduced 'Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers,' a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab. Employing Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval, the platform allows researchers to instantly locate and understand passages across multilingual corpora, offering a powerful framework for Buddhist textual scholarship while reaffirming human expertise in interpretation.
 
-[Read th full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)
+[Read the full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)
 
 ![Sebastian Zoom with PPT](assets/Sebastian_Zoom_with_PPT.png)
+
+---
+
+## August 2025: MITA at IABS Conference, Leipzig
+
+We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
+
+[Read more.](events/invited_talks.md)
 
 ---
 
@@ -76,14 +84,6 @@ We are thrilled to announce the official launch of a number of new flagship capa
 The archived BuddhaNexus codebase is here: [https://github.com/BuddhaNexus/](https://github.com/BuddhaNexus/)
 
 Development of Dharmamitra, including DharmaNexus, is happening here: [https://github.com/dharmamitra](https://github.com/dharmamitra)
-
----
-
-## August 2025: MITA at IABS Conference, Leipzig
-
-We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
-
-[Read more.](events/invited_talks.md)
 
 ---
 
