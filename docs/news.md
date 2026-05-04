@@ -86,7 +86,7 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 ---
 
-### December 21, 2025: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
+### January 31, 2026: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
 
 
 *Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
@@ -95,14 +95,33 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 ---
 
+### January 10, 2026: AI and Indological/Buddhological researches: Dharmamitra/Dharmanexus and its Application
+
+*Conference, インド思想史学会 第32回学術大会 (Association for the Study of the History of Indian Thought, The 32nd Annual Conference), Kyoto University, Faculty of Letters Building, Lecture room 7, Kyoto, Japan (Face-to-face & Online)*
+
+Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent advances in AI are transforming many areas of scholarship, and the field of Indology is no exception. We introduced Dharmamitra, an AI-assisted research environment that provides advanced tools for philological work across the Classical Asian languages: Pāli, Sanskrit, Tibetan, and Chinese.
+
+[Read more.](events/invited_talks.md)
+
+---
+
+### December 21, 2025: Translation, OCR, and Semantic Retrieval: Current Status and Future Outlook of the Dharmamitra Ecosystem
+
+Symposium, 仏教学とデジタル・ヒューマニティーズ国際シンポジウム (Buddhist Studies and Digital Humanities International Symposium), Tokyo, Japan
+
+I presented on the current status and future outlook of the Dharmamitra ecosystem, covering translation, OCR, and semantic retrieval capabilities for Buddhist texts. The symposium was held at Tokyo International Forum Hall D5 and focused on "The Significance of Humanities and Research Infrastructure Development in the DX-AI Era."
+
+[Read more.](events/invited_talks.md)
+
+---
+
 ### December 21, 2025: Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers
 
-On December 21, we where part of the panel “AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA” at the 11th Symposium of Humanistic Buddhism
-Sebastian Nehrdich (Distinguished Assistant Professor, Center for Integrated Japanese Studies, Tohoku University) introduced 'Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers,' a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab. Employing Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval, the platform allows researchers to instantly locate and understand passages across multilingual corpora, offering a powerful framework for Buddhist textual scholarship while reaffirming human expertise in interpretation.
+On December 21, we where part of the panel “AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA” at the 11th Symposium of Humanistic Buddhism 
 
-[Read the full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)
+I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA." The panel showcased how emerging AI tools support large-scale Buddhist translation and lexicographical research. I introduced Dharmamitra as a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab, which employs Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval.
 
-![Sebastian Zoom with PPT](assets/Sebastian_Zoom_with_PPT.png)
+[Read more.](events/invited_talks.md)
 
 ---
 
