@@ -125,6 +125,14 @@ I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang
 
 ---
 
+### December 3, 2025: Building the Foundations of Buddhist Philology through Digital Humanities: Exploring the Potential of the Tohoku University Digital Archives (ToUDA)
+
+Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku University, Sendai, Japan
+
+[Read more.](events/invited_talks.md)
+
+---
+
 ## August 2025: MITA at IABS Conference, Leipzig
 
 We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
