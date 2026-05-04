@@ -62,9 +62,9 @@ Speaker: Sebastian Nehrdich (Tohoku University, Japan)
 ### Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
 **January 31, 2026**
 
-*[Forum](https://buddhist-dh-sympo2025.dhii.jp/digibuddh_studies#h.z4dm6ysyltu2), 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
+*Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
 
-This presentation gives an overview of the current status and future outlook of Dharmamitra, a collaborative research ecosystem between Tohoku University, the Tsadra Foundation, and the Berkeley AI Research Lab. I will examine how recent advances in Large Language Models facilitate a new paradigm for Buddhist philology and how Dharmamitra explores these through three main technological vectors: First, optical character recognition to digitize classical texts with high accuracy. Second, machine translation systems based on LLM and semantic search technology with high precision for Sanskrit, Pāli, Tibetan, and Chinese. Third, vector-based semantic retrieval to allow seamless search and retrieval across multilingual corpora. I will demonstrate how Dharmamitra can be used to dramatically shorten the time needed for finding relevant passages in large, multilingual corpora, and in what way this might affect textual studies of Buddhist material in the future. 
+The forum brought together practitioners from Japan and abroad to share cutting-edge research at the intersection of data science, culture, and society, discussing methodology (reproducibility, validity), infrastructure (RDM, FAIR, open science), and ethics (governance, bias, copyright). I presented on Dharmamitra as a data-driven platform for researching Buddhist texts across multiple languages using advanced NLP methods. 
 
 ---
 
@@ -80,9 +80,11 @@ Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent ad
 ### Translation, OCR, and Semantic Retrieval: Current Status and Future Outlook of the Dharmamitra Ecosystem
 **December 21, 2025**
 
-*Symposium, 仏教学とデジタル・ヒューマニティーズ国際シンポジウム (Buddhist Studies and Digital Humanities International Symposium), Tokyo, Japan*
+*[Symposium](https://buddhist-dh-sympo2025.dhii.jp/digibuddh_studies#h.z4dm6ysyltu2), 仏教学とデジタル・ヒューマニティーズ国際シンポジウム (Buddhist Studies and Digital Humanities International Symposium), Tokyo, Japan*
 
 I presented on the current status and future outlook of the Dharmamitra ecosystem, covering translation, OCR, and semantic retrieval capabilities for Buddhist texts. The symposium was held at Tokyo International Forum Hall D5 and focused on "The Significance of Humanities and Research Infrastructure Development in the DX-AI Era."
+
+This presentation gives an overview of the current status and future outlook of Dharmamitra, a collaborative research ecosystem between Tohoku University, the Tsadra Foundation, and the Berkeley AI Research Lab. I will examine how recent advances in Large Language Models facilitate a new paradigm for Buddhist philology and how Dharmamitra explores these through three main technological vectors: First, optical character recognition to digitize classical texts with high accuracy. Second, machine translation systems based on LLM and semantic search technology with high precision for Sanskrit, Pāli, Tibetan, and Chinese. Third, vector-based semantic retrieval to allow seamless search and retrieval across multilingual corpora. I will demonstrate how Dharmamitra can be used to dramatically shorten the time needed for finding relevant passages in large, multilingual corpora, and in what way this might affect textual studies of Buddhist material in the future. 
 
 ---
 
