@@ -93,7 +93,14 @@ This presentation gives an overview of the current status and future outlook of 
 
 *Symposium, 11th Symposium of Humanistic Buddhism, Taiwan*
 
-I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA." The panel showcased how emerging AI tools support large-scale Buddhist translation and lexicographical research. I introduced Dharmamitra as a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab, which employs Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval.
+On December 21, we where part of the panel “AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA” at the 11th Symposium of Humanistic Buddhism 
+
+Sebastian Nehrdich (Distinguished Assistant Professor, Center for Integrated Japanese Studies, Tohoku University) introduced 'Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers,' a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab. Employing Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval, the platform allows researchers to instantly locate and understand passages across multilingual corpora, offering a powerful framework for Buddhist textual scholarship while reaffirming human expertise in interpretation.
+
+[Read the full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)
+
+![Sebastian Zoom with PPT](assets/Sebastian_Zoom_with_PPT.png)
+
 
 ---
 
