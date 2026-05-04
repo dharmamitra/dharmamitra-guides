@@ -43,9 +43,38 @@ An online workshop held by the Centre for Buddhist Studies, Kathmandu University
 ---
 
 ## March 28–29, 2026: OCR and Beyond Workshop at Tohoku University
- On March 28 (Sat) and 29 (Sun), Center for Integrated Japanese Studies (CIJS) at Tohoku University hosted the international workshop “OCR AND BEYOND” focusing on philology and digital archives in the age of AI. The workshop featured discussions on cutting-edge computer-aided annotation workflows, including Sanskrit studies utilizing Generative AI, the digitization of Tibetan, Nepalese, and Japanese Esoteric Buddhist texts, and the construction of structured corpora. 
+ 
+On March 28 (Sat) and 29 (Sun), Center for Integrated Japanese Studies (CIJS) at Tohoku University hosted the international workshop “OCR AND BEYOND” focusing on philology and digital archives in the age of AI. The workshop featured discussions on cutting-edge computer-aided annotation workflows, including Sanskrit studies utilizing Generative AI, the digitization of Tibetan, Nepalese, and Japanese Esoteric Buddhist texts, and the construction of structured corpora. 
 
 [Read more.](events/organized_events.md)
+
+---
+
+## March 20, 2026: Dharmamitra: A Platform to Support Research across Language Boundaries on Buddhist Textual Material
+
+Lecture, The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, Ghent University, Belgium.
+
+The Center for Integrated Japanese Studies (CIJS) at Tohoku University will host a two-day workshop titled "Japanese Studies in Japan and Belgium" on March 19 and 20, 2026. The event will be held at Ghent University, Belgium, and is co-organized with the Ghent University Institute for Japanese Studies.
+
+[Read more.](events/invited_talks.md)
+
+---
+
+## March 17, 2026: DharmaNexus as a Multilingual Graph of Buddhist Intertextuality: Design Choices, Research Uses, and Future Applications
+
+Locating textual parallels, translations, citations, and topically related passages across vast collections of texts in multiple languages is a basic requirement of philological work in Buddhist Studies.
+
+[Read more.](events/invited_talks.md)
+
+---
+
+## March 13, 2026: Is this the end of (Buddhist) philology as we know It? If so, what’s next?
+
+Hybrid lecture, International Institute for Asian Studies, Leiden University, Netherlands
+
+With rapidly growing digital collections and increasingly powerful AI and information-retrieval tools, textual Buddhist Studies is undergoing a paradigm shift. How are these new tools already influencing research practice, and what new questions and methods might they enable in the near future?
+
+[Read more.](events/invited_talks.md)
 
 ---
 
