@@ -135,9 +135,7 @@ In this talk, I will introduce how the various tools provided by the Dharmamitra
 
 Recent advances in machine learning, particularly the advent of Large Language Models (LLMs) such as ChatGPT, are rapidly shaping new ways of accessing and interpreting knowledge preserved in textual form. This has far-reaching implications for the study of the Buddhist textual tradition. Applications once considered decades away, such as the fluent machine translation of Classical Tibetan or Chinese into English, are now commonly used by scholars at all levels, from early-career students to senior researchers. This talk will provide an overview of the tools that the Dharmamitra project currently offers the Buddhist Studies community, with a focus on machine translation and cross-lingual search for philological use cases. It will also introduce the underlying technical architecture of these tools and discuss both the capabilities and limitations of the current generation of language models for philological applications.
 
-[Watch the recording of the talk](https://vimeo.com/1129171769?fl=pl&fe=sh)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ezxg9TwRf5g?si=C-yxvwlagbTFK_Pu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Watch the recording of the lecture](https://vimeo.com/1129171769?fl=pl&fe=sh)
 
 ---
 
