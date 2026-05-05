@@ -176,7 +176,7 @@ This talk will provide an overview of the tools that the Dharmamitra project cur
 
 ---
 
-## September 2025: Dharmamitra and DharmaNexus presentation at the National Taiwan University
+## September 15, 2025: Dharmamitra and DharmaNexus presentation at the National Taiwan University
 
 [Read more.](events/invited_talks.md)
 
@@ -190,7 +190,7 @@ Presentation, ELTE BTK, Kodály terem, Budapest, Hungary
 
 ---
 
-## August 2025: MITA at IABS Conference, Leipzig
+## August 2025: MITRA at IABS Conference, Leipzig
 
 We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
 
