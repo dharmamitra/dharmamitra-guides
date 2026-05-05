@@ -151,6 +151,22 @@ This talk will provide an overview of the tools that the Dharmamitra project cur
 
 ---
 
+## November 4, 2025: Integration of Digital Dictionary of Buddhism
+
+We now also feature integration of the fantastic Digital Dictionary of Buddhism (DDB,  電子佛教辭典) by Charles Muller for the English-Explained translation mode on Chinese Input!
+
+![DDB_dictionary](../assets/DDB_dictionary.jpg)
+
+---
+
+## October 31, 2025: Integration of Christian Steinert's Tibetan-English-Sanskrit Dictionary
+
+A small but mighty Dharmamitra update: The English (explained) translation mode now features links into Christian Steinert's fantastic Tibetan dictionary! We are also working actively on offering similar functionality for Sanskrit and Chinese as well.
+
+![Steinert dictionary](../assets/Steinert_dictionary.jpg)
+
+---
+
 ## August 2025: MITA at IABS Conference, Leipzig
 
 We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
