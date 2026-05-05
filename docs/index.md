@@ -30,6 +30,7 @@
 - [December 2025: Building the Foundations of Buddhist Philology through Digital Humanities: Exploring the Potential of the Tohoku University Digital Archives (ToUDA)](news.md#Building-the-Foundations-of-Buddhist-Philology-through-Digital-Humanities)
 - [November 2025: From OCR via Machine Translation to Semantic Search: The Dharmamitra AI stack for Multilingual Buddhist Philology](news.md#From-OCR-via-Machine-Translation-to-Semantic-Search)
 - [November 2025: Machine Learning and Large Language Models in Buddhist Studies: The Dharmamitra Project](news.md#Machine-Learning-and-Large-Language-Models-in-Buddhist-Studies-The-Dharmamitra-Project)
+- [November 2025: Integration of Digital Dictionary of Buddhism](news.md#Integration-of-Digital-Dictionary-of-Buddhism)
 - [August 2025: MITA at IABS Conference, Leipzig](news.md#august-2025-mita-at-iabs-conference-leipzig)
 - [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-2025-deep-neural-embeddings-at-hanmun-lab-workshop)
 - [June 2025: From Sthiramati to Dharmamitra at Keio University](news.md#june-2025-from-sthiramati-to-dharmamitra-at-keio-university)
