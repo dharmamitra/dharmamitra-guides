@@ -172,6 +172,8 @@ Speaker: Sebastian Nehrdich
 
 [Full program](https://conference.uni-leipzig.de/iabs2025/academic-program/)
 
+![IABS panel](../assets/IABS_panel.jpg)
+
 ---
 
 ### Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition
