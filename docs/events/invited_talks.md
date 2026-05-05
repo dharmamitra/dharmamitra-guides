@@ -157,9 +157,11 @@ This was a great invitation and a wonderful opportunity to introduce our work to
 
 Traditional philological work on Buddhist sources often consists of laborious keyword searches across disparate corpora in multiple languages, followed by manual collation of parallels, a workflow that favours stamina over insight. Dharmamitra is an open-source platform that collapses those tasks to seconds using advanced computational and deep learning methods.
 
+![ELTE presentation](../assets/ELTE_presentation.jpg)
+
 ---
 
-## MITRA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology 
+### MITRA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology 
 **August 12, 2025** 
 
 *Conference, XXth IABS Congress, Leipzig, Germany*
