@@ -141,16 +141,6 @@ Talk, at 서울대학교 인공지능 디지털인문학센터 해외연구자 �
 
 ---
 
-## November 12, 2025: Machine Learning and Large Language Models in Buddhist Studies: The Dharmamitra Project
-
-Talk, Goodman Lecture Series No. 32, Khyentse Foundation, Online
-
-This talk will provide an overview of the tools that the Dharmamitra project currently offers the Buddhist Studies community, with a focus on machine translation and cross-lingual search for philological use cases. 
-
-[Read more.](events/invited_talks.md)
-
----
-
 ## November 4, 2025: Integration of Digital Dictionary of Buddhism
 
 We now also feature integration of the fantastic Digital Dictionary of Buddhism (DDB,  電子佛教辭典) by Charles Muller for the English-Explained translation mode on Chinese Input!
@@ -164,6 +154,25 @@ We now also feature integration of the fantastic Digital Dictionary of Buddhism 
 A small but mighty Dharmamitra update: The English (explained) translation mode now features links into Christian Steinert's fantastic Tibetan dictionary! We are also working actively on offering similar functionality for Sanskrit and Chinese as well.
 
 ![Steinert dictionary](assets/Steinert_dictionary.jpg)
+
+---
+
+## October 27, 2025: Dharmamitra Team Update
+
+The Dharmamitra team has seen some changes recently! Most notably, with the move to Tohoku as the new academic anchor, Sebastian steps in as Director and Principal Investigator, while Kurt takes on the role as Strategic Advisor.
+We are also more than happy to welcome back Hubert Dworczyński to the team, who has been working already on the BuddhaNexus platform in 2019!
+
+![Meet our team](assets/Meet_our_team.jpg)
+
+---
+
+## October 4, 2025: Buddhist Philology and AI
+
+Talk, Goodman Lecture Series No. 32, Khyentse Foundation, Online
+
+This talk will provide an overview of the tools that the Dharmamitra project currently offers the Buddhist Studies community, with a focus on machine translation and cross-lingual search for philological use cases. 
+
+[Read more.](events/invited_talks.md)
 
 ---
 
