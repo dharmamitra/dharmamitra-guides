@@ -137,6 +137,8 @@ Recent advances in machine learning, particularly the advent of Large Language M
 
 [Watch the recording of the lecture](https://vimeo.com/1129171769?fl=pl&fe=sh)
 
+![Goodman_lecture_32](../assets/Goodman_lecture_32.jpg)
+
 ---
 
 ### Dharmamitra & DharmaNexus: A New Set of Digital Tools for the Philological Study of Buddhist Texts
