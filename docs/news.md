@@ -141,6 +141,16 @@ Talk, at 서울대학교 인공지능 디지털인문학센터 해외연구자 �
 
 ---
 
+## November 12, 2025: Machine Learning and Large Language Models in Buddhist Studies: The Dharmamitra Project
+
+Talk, Goodman Lecture Series No. 32, Khyentse Foundation, Online
+
+This talk will provide an overview of the tools that the Dharmamitra project currently offers the Buddhist Studies community, with a focus on machine translation and cross-lingual search for philological use cases. 
+
+[Read more.](events/invited_talks.md)
+
+---
+
 ## August 2025: MITA at IABS Conference, Leipzig
 
 We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
