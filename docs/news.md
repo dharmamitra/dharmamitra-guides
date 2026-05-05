@@ -155,7 +155,7 @@ This talk will provide an overview of the tools that the Dharmamitra project cur
 
 We now also feature integration of the fantastic Digital Dictionary of Buddhism (DDB,  電子佛教辭典) by Charles Muller for the English-Explained translation mode on Chinese Input!
 
-![DDB_dictionary](../assets/DDB_dictionary.jpg)
+![DDB_dictionary](assets/DDB_dictionary.jpg)
 
 ---
 
@@ -163,7 +163,7 @@ We now also feature integration of the fantastic Digital Dictionary of Buddhism 
 
 A small but mighty Dharmamitra update: The English (explained) translation mode now features links into Christian Steinert's fantastic Tibetan dictionary! We are also working actively on offering similar functionality for Sanskrit and Chinese as well.
 
-![Steinert dictionary](../assets/Steinert_dictionary.jpg)
+![Steinert dictionary](assets/Steinert_dictionary.jpg)
 
 ---
 
