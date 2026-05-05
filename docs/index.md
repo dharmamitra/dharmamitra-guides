@@ -33,6 +33,7 @@
 - [October 2025: Integration of Christian Steinert's Tibetan-English-Sanskrit Dictionary](news.md#Integration-of-Christian-Steinerts-Tibetan-English-Sanskrit-Dictionary)
 - [October 2025:Buddhist Philology and AI](news.md#Machine-Learning-and-Large-Language-Models-in-Buddhist-Studies-The-Dharmamitra-Project)
 - [September 2025: Dharmamitra and DharmaNexus presentation at the National Taiwan University](news.md#Dharmamitra-and-DharmaNexus-presentation-at-the-National-Taiwan-University)
+- [August 2025: Dharmamitra & DharmaNexus: A New Set of Digital Tools for the Philological Study of Buddhist Texts](news.md#Dharmamitra-DharmaNexus-A-New-Set-of-Digital-Tools-for-the-Philological-Study-of-Buddhist-Texts)
 - [August 2025: MITA at IABS Conference, Leipzig](news.md#august-2025-mita-at-iabs-conference-leipzig)
 - [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-2025-deep-neural-embeddings-at-hanmun-lab-workshop)
 - [June 2025: From Sthiramati to Dharmamitra at Keio University](news.md#june-2025-from-sthiramati-to-dharmamitra-at-keio-university)
