@@ -86,7 +86,7 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 ---
 
-### January 31, 2026: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
+## January 31, 2026: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods
 
 
 *Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
@@ -95,7 +95,7 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 ---
 
-### January 10, 2026: AI and Indological/Buddhological researches: Dharmamitra/Dharmanexus and its Application
+## January 10, 2026: AI and Indological/Buddhological researches: Dharmamitra/Dharmanexus and its Application
 
 *Conference, インド思想史学会 第32回学術大会 (Association for the Study of the History of Indian Thought, The 32nd Annual Conference), Kyoto University, Faculty of Letters Building, Lecture room 7, Kyoto, Japan (Face-to-face & Online)*
 
@@ -105,7 +105,7 @@ Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent ad
 
 ---
 
-### December 21, 2025: Translation, OCR, and Semantic Retrieval: Current Status and Future Outlook of the Dharmamitra Ecosystem
+## December 21, 2025: Translation, OCR, and Semantic Retrieval: Current Status and Future Outlook of the Dharmamitra Ecosystem
 
 Symposium, 仏教学とデジタル・ヒューマニティーズ国際シンポジウム (Buddhist Studies and Digital Humanities International Symposium), Tokyo, Japan
 
@@ -115,7 +115,7 @@ I presented on the current status and future outlook of the Dharmamitra ecosyste
 
 ---
 
-### December 21, 2025: Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers
+## December 21, 2025: Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers
 
 On December 21, we where part of the panel “AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA” at the 11th Symposium of Humanistic Buddhism 
 
@@ -125,7 +125,7 @@ I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang
 
 ---
 
-### December 3, 2025: Building the Foundations of Buddhist Philology through Digital Humanities: Exploring the Potential of the Tohoku University Digital Archives (ToUDA)
+## December 3, 2025: Building the Foundations of Buddhist Philology through Digital Humanities: Exploring the Potential of the Tohoku University Digital Archives (ToUDA)
 
 Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku University, Sendai, Japan
 
