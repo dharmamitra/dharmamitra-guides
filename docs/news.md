@@ -133,6 +133,14 @@ Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku Un
 
 ---
 
+## November 25, 2025: From OCR via Machine Translation to Semantic Search: The Dharmamitra AI stack for Multilingual Buddhist Philology
+
+Talk, at 서울대학교 인공지능 디지털인문학센터 해외연구자 초청포럼 (Seoul National University AI Digital Humanities Center Overseas Researcher Invitation Forum), Seoul, South Korea
+
+[Read more.](events/invited_talks.md)
+
+---
+
 ## August 2025: MITA at IABS Conference, Leipzig
 
 We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
