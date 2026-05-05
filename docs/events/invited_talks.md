@@ -141,6 +141,15 @@ Recent advances in machine learning, particularly the advent of Large Language M
 
 ---
 
+### Dharmamitra and DharmaNexus presentation at the National Taiwan University
+**September 15, 2025**
+
+This was a great invitation and a wonderful opportunity to introduce our work to a Chinese Studies audience.
+
+![Taiwan University talk](../assets/Taiwan_University_presentation.jpg)
+
+---
+
 ### Dharmamitra & DharmaNexus: A New Set of Digital Tools for the Philological Study of Buddhist Texts
 **August 18, 2025**
 
