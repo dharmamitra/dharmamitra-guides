@@ -206,6 +206,8 @@ The archived BuddhaNexus codebase is here: [https://github.com/BuddhaNexus/](htt
 
 Development of Dharmamitra, including DharmaNexus, is happening here: [https://github.com/dharmamitra](https://github.com/dharmamitra)
 
+[Listen "Chat About Dharmamitra Updates in 2025 and DharmaNexus"](https://www.youtube.com/watch?v=cgF9NvnGXG8)
+
 ---
 
 ## June 17, 2025: Deep Neural Embeddings at Hanmun Lab Workshop – Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition
