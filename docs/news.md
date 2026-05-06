@@ -208,9 +208,11 @@ Development of Dharmamitra, including DharmaNexus, is happening here: [https://g
 
 ---
 
-## June 2025: Deep Neural Embeddings at Hanmun Lab Workshop
+## June 17, 2025: Deep Neural Embeddings at Hanmun Lab Workshop – Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition
 
-We presented "[Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition](presentations.md#is-training-deep-neural-embeddings-worth-the-effort-a-preliminary-investigation-of-different-representation-methods-for-semantic-similarity-tasks-in-buddhist-chinese-and-related-languages-of-the-buddhist-tradition)" at the "Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts" online workshop at the Hanmun Lab, Ruhr-Universität Bochum.
+We presented "Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition" at the "Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts" online workshop at the Hanmun Lab, Ruhr-Universität Bochum.
+
+[Read more.](events/invited_talks.md)
 
 ---
 
