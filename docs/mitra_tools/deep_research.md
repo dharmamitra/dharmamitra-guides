@@ -2,6 +2,8 @@
 
 > *Advanced translation mode that provides comprehensive research context by integrating deep semantic search across entire data collections.*
 
+<span style="color: #990000; font-weight: bold;">The user guides currently available on this website do not yet reflect the updated Dharmamitra user interface. We appreciate your patience while our team is actively working on revising them.</span>
+
 **MITRA Deep Research** is an enhanced translation experience that goes beyond simple text translation. By setting the target language in MITRA Translate to `Deep Research`, users receive not just a translation, but also comprehensive semantic analysis that leverages the full power of [MITRA Search](search.md) and [DharmaNexus](../../dharmanexus.md).
 
 MITRA Deep Research is especially powerful on shorter queries, and we suggest to keep the input limited to a few lines of text: 3-4 verses at once or a coherent paragraph of prose is the upper limit of what MITRA Deep Research can progress at once. Shorter requests might lead to better results. 
