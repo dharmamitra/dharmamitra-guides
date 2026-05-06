@@ -14,7 +14,7 @@ We are delighted to welcome Dr. Sebastien Nehrdich, Distinguished Assistant Prof
 ### Dharmamitra: A Platform to Support Research across Language Boundaries on Buddhist Textual Material
 **March 20, 2026**
 
-*[Workshop,](https://cijs.oii.tohoku.ac.jp/en/news/detail---id-129.html) Japanese Studies in Japan and Belgium, organised b The Center for Integrated Japanese Studies (CIJS), Tohoku University and the Ghent University Institute for Japanese Studies Ghent University, Belgium*
+***[Workshop,](https://cijs.oii.tohoku.ac.jp/en/news/detail---id-129.html)** Japanese Studies in Japan and Belgium, organised b The Center for Integrated Japanese Studies (CIJS), Tohoku University and the Ghent University Institute for Japanese Studies Ghent University, Belgium*
 
 The Center for Integrated Japanese Studies (CIJS) at Tohoku University will host a two-day workshop titled "Japanese Studies in Japan and Belgium" on March 19 and 20, 2026. The event will be held at Ghent University, Belgium, and is co-organized with the Ghent University Institute for Japanese Studies. Ghent University is renowned as one of Europe's leading hubs for Japanese Studies and has maintained a strong academic partnership with Tohoku University through the Hasekura League.
 
@@ -22,7 +22,7 @@ The program will feature an introduction to CIJS activities by Director Hiroaki 
 
 The workshop will be streamed online to EAJS members across various countries, providing a significant opportunity to promote CIJS activities throughout Europe. A detailed report on the results of the workshop will be published on our website at a later date.
 
-[Program](https://cijs.oii.tohoku.ac.jp/media/files/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%EF%BC%9AMarch_Japanese%20Studies%20in%20Japan%20and%20Belgium.pdf)
+**[Program](https://cijs.oii.tohoku.ac.jp/media/files/%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%EF%BC%9AMarch_Japanese%20Studies%20in%20Japan%20and%20Belgium.pdf)**
 
 ![Ghent CIJS](../assets/Ghent_CIJS.png)
 
@@ -31,7 +31,7 @@ The workshop will be streamed online to EAJS members across various countries, p
 ### DharmaNexus as a Multilingual Graph of Buddhist Intertextuality: Design Choices, Research Uses, and Future Applications
 **March 17, 2026**
 
-*[Lecture](https://www.cbs.ugent.be/uncategorized/guest-lecture-dharmanexus-as-a-multilingual-graph-of-buddhist-intertextuality-design-choices-research-uses-and-future-applications-by-sebastian-nehrdich-march-17-2026/), The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, Ghent University, Belgium*
+***[Lecture](https://www.cbs.ugent.be/uncategorized/guest-lecture-dharmanexus-as-a-multilingual-graph-of-buddhist-intertextuality-design-choices-research-uses-and-future-applications-by-sebastian-nehrdich-march-17-2026/)**, The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, Ghent University, Belgium*
 
 Locating textual parallels, translations, citations, and topically related passages across vast collections of texts in multiple languages is a basic requirement of philological work in Buddhist Studies. Recent advances in digitization, OCR, and cross-lingual information retrieval have fundamentally changed access to this kind of evidence, with far-reaching implications for how philological research can be conducted. A central component in this context is DharmaNexus: a database that stores intertextual relationships between passages across languages and sources, and that supports the retrieval and comparison functions used in the Dharmamitra tool ecosystem.
 
@@ -46,7 +46,7 @@ Speaker: Professor Sebastian Nehrdich, Tohoku University
 ### Is this the end of (Buddhist) philology as we know It? If so, what’s next?
 **March 13, 2026**
 
-*[Hybrid lecture](https://www.iias.asia/events/end-buddhist-philology-we-know-it-if-so-whats-next), International Institute for Asian Studies, Leiden University, Netherlands*
+***[Hybrid lecture](https://www.iias.asia/events/end-buddhist-philology-we-know-it-if-so-whats-next)**, International Institute for Asian Studies, Leiden University, Netherlands*
 
 With rapidly growing digital collections and increasingly powerful AI and information-retrieval tools, textual Buddhist Studies is undergoing a paradigm shift. How are these new tools already influencing research practice, and what new questions and methods might they enable in the near future?
 
@@ -80,7 +80,7 @@ Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent ad
 ### Translation, OCR, and Semantic Retrieval: Current Status and Future Outlook of the Dharmamitra Ecosystem
 **December 21, 2025**
 
-*[Symposium](https://buddhist-dh-sympo2025.dhii.jp/digibuddh_studies#h.z4dm6ysyltu2), 仏教学とデジタル・ヒューマニティーズ国際シンポジウム (Buddhist Studies and Digital Humanities International Symposium), Tokyo, Japan*
+***[Symposium](https://buddhist-dh-sympo2025.dhii.jp/digibuddh_studies#h.z4dm6ysyltu2)**, 仏教学とデジタル・ヒューマニティーズ国際シンポジウム (Buddhist Studies and Digital Humanities International Symposium), Tokyo, Japan*
 
 I presented on the current status and future outlook of the Dharmamitra ecosystem, covering translation, OCR, and semantic retrieval capabilities for Buddhist texts. The symposium was held at Tokyo International Forum Hall D5 and focused on "The Significance of Humanities and Research Infrastructure Development in the DX-AI Era."
 
@@ -97,7 +97,7 @@ On December 21, we where part of the panel “AI in the Fo Guang Dictionary of B
 
 Sebastian Nehrdich (Distinguished Assistant Professor, Center for Integrated Japanese Studies, Tohoku University) introduced 'Dharmamitra: A Platform that Makes Translation and Discovery of Buddhist Texts Possible Across Language Barriers,' a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab. Employing Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval, the platform allows researchers to instantly locate and understand passages across multilingual corpora, offering a powerful framework for Buddhist textual scholarship while reaffirming human expertise in interpretation.
 
-[Read the full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)
+**[Read the full article](https://www.merit-times.com/news/493872?fbclid=IwY2xjawRfBkVleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjaq0wuGwuG-uLciS-1lsEDDK49gBqypD0zRyx3bEp_ue5xv2KMbAXlKEfov_aem_BeHDoEIfLVQMVMR5xrKvFg)**
 
 ![Sebastian Zoom with PPT](../assets/Sebastian_Zoom_with_PPT.png)
 
@@ -107,7 +107,7 @@ Sebastian Nehrdich (Distinguished Assistant Professor, Center for Integrated Jap
 ### Building the Foundations of Buddhist Philology through Digital Humanities: Exploring the Potential of the Tohoku University Digital Archives (ToUDA)
 **December 03, 2025**
 
-*[Workshop](https://cijs.oii.tohoku.ac.jp/en/news/detail---id-95.html), Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku University, Sendai, Japan*
+***[Workshop](https://cijs.oii.tohoku.ac.jp/en/news/detail---id-95.html)**, Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku University, Sendai, Japan*
 
 I presented as part of the Digital Archive Research Unit at the Center for Integrated Japanese Studies (CIJS) at Tohoku University. The workshop and symposium was co-hosted by CIJS, the Tohoku University Digital Archives Steering Committee, and the Tohoku University Library. I delivered a lecture and participated in a panel discussion on the digitization of academic resources in Tohoku University and new developments in Buddhist textual studies with AI technology.
 
@@ -120,7 +120,7 @@ I presented as part of the Digital Archive Research Unit at the Center for Integ
 ### From OCR via Machine Translation to Semantic Search: The Dharmamitra AI stack for Multilingual Buddhist Philology
 **November 25, 2025**
 
-*[Talk](https://www.kadh.org/talk-from-ocr-via-machine-translation-to-semantic-search/), 서울대학교 인공지능 디지털인문학센터 해외연구자 초청포럼 (Seoul National University AI Digital Humanities Center Overseas Researcher Invitation Forum), Seoul, South Korea*
+***[Talk](https://www.kadh.org/talk-from-ocr-via-machine-translation-to-semantic-search/)**, 서울대학교 인공지능 디지털인문학센터 해외연구자 초청포럼 (Seoul National University AI Digital Humanities Center Overseas Researcher Invitation Forum), Seoul, South Korea*
 
 In this talk, I will introduce how the various tools provided by the Dharmamitra project form a comprehensive Al stack for researchers working with Buddhist textual materials in Pali, Sanskrit, Chinese, and Tibetan. We begin with MITRA OCR, a Gemini-based OCR application that provides high-fidelity character recognition to turn images and PDFs into searchable text quickly. Building on that text layer, MITRA Translate offers machine translation that also provides grammatical explanation using an advanced grammatical analysis system, as well as context-aware deep-research translation with references across all four source languages. On top of this, MITRA Search is a powerful semantic search engine that can find results based on abstract queries in multiple languages. I will also introduce DharmaNexus, which functions as the main textual reference database of the various MITRA tools and provides advanced capabilities for exploring intertextuality in both monolingual and multilingual settings. Lastly, I will introduce the MITRA Sanskrit-Tibetan dictionary and give a concise roadmap of developments planned for the near future.
 
@@ -135,7 +135,7 @@ In this talk, I will introduce how the various tools provided by the Dharmamitra
 
 Recent advances in machine learning, particularly the advent of Large Language Models (LLMs) such as ChatGPT, are rapidly shaping new ways of accessing and interpreting knowledge preserved in textual form. This has far-reaching implications for the study of the Buddhist textual tradition. Applications once considered decades away, such as the fluent machine translation of Classical Tibetan or Chinese into English, are now commonly used by scholars at all levels, from early-career students to senior researchers. This talk will provide an overview of the tools that the Dharmamitra project currently offers the Buddhist Studies community, with a focus on machine translation and cross-lingual search for philological use cases. It will also introduce the underlying technical architecture of these tools and discuss both the capabilities and limitations of the current generation of language models for philological applications.
 
-[Watch the recording of the lecture](https://vimeo.com/1129171769?fl=pl&fe=sh)
+**[Watch the recording of the lecture](https://vimeo.com/1129171769?fl=pl&fe=sh)**
 
 ![Goodman_lecture_32](../assets/Goodman_lecture_32.jpg)
 
@@ -170,7 +170,7 @@ With the advent of increasingly powerful language models, MITRA makes a set of n
 
 Speaker: Sebastian Nehrdich
 
-[Full program](https://conference.uni-leipzig.de/iabs2025/academic-program/)
+**[Full program](https://conference.uni-leipzig.de/iabs2025/academic-program/)**
 
 ![IABS panel](../assets/IABS_panel.jpg)
 
@@ -179,7 +179,7 @@ Speaker: Sebastian Nehrdich
 ### Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition
 **June 2025**
 
-*Online workshop "[Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts](https://www.oaw.ruhr-uni-bochum.de/forschung/hanmun_lab/worhshops/index.html.en)" at the Hanmun Lab, Ruhr-Universität Bochum*
+***Online workshop "[Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts](https://www.oaw.ruhr-uni-bochum.de/forschung/hanmun_lab/worhshops/index.html.en)"** at the Hanmun Lab, Ruhr-Universität Bochum*
 
 This presentation is part of an online workshop on digital approaches to intertextuality in pre-modern East Asian texts. The talk will provide a preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition.
 
