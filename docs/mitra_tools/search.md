@@ -12,11 +12,6 @@ It's designed to help you **discover connections** and **locate specific ideas**
 2.  **Filter Your Search (Optional, but Recommended!).** Use the "Show options" menu to narrow your search to specific languages, collections (e.g., Pāli Canon, Yogācāra texts), or even individual works. **This is the key to getting the best results.**
 3.  **Explore the Results.** MITRA will show you the original text passages. Click the **"Explanation"** button below any result to get an AI-generated summary of the passage, the specific context, and how it relates to your query. You can also press the 'expand context' button at the top right of each result, which shows additional sorrounding context of a result. 
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gEqrzN8W4E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-
 ---
 
 ## Key Features
@@ -33,23 +28,12 @@ It's designed to help you **discover connections** and **locate specific ideas**
 ## MITRA Search Goes Beyond Tools Like GREP
 
 MITRA Search is not aimed at replacing traditional search engines of databases, or local search tools like GREP. It offers a very unique, different experience from these tools, and is best used in combination with them, and not as a replacement. 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uY7L-M79PMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
 ## MITRA Search is Very Powerful for Multilingual Queries 
 
 Thanks to extensive cross-lingual training data, MITRA Search is very capable at locating parallel passages across language barries. It can be used to locate Tibetan passages based on queries in Chinese, Pāli passages based on queries in Sanskrit or Tibetan, and much more. 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UwKbqLJksYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
 One particular use case where MITRA Search is powerful is locating canonical citations within Pāli Suttas and Chinese Āgamas. For example, when a later Abhidharma commentary cites a Sutta/Āgama passage, locating the precise citation can be a tedious, and time-consuming effort. MITRA Search can save a lot of time and effort on such tasks. 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n7HtTPhDNiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-
 
 ## How to Get the Best Results
 
@@ -87,6 +71,3 @@ MITRA Search excels at **locating relevant passages** based on your input. It do
 * **Diacritics Help:** While the system is tolerant of variations (e.g., `cetana` vs. `cetanā`), using proper diacritics will generally yield more accurate results.
 * **You Are the Expert:** Think of MITRA Search as a powerful assistant that casts a wide conceptual net, sometimes bringing back passages that are related but not a perfect match. It surfaces the *possibilities*; your expertise is what determines the ultimate relevance of a result. This exploratory power is one of its greatest strengths.
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/r4ZO4FhkzsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
