@@ -206,7 +206,7 @@ The archived BuddhaNexus codebase is here: [https://github.com/BuddhaNexus/](htt
 
 Development of Dharmamitra, including DharmaNexus, is happening here: [https://github.com/dharmamitra](https://github.com/dharmamitra)
 
-[Listen "Chat About Dharmamitra Updates in 2025 and DharmaNexus"](https://www.youtube.com/watch?v=cgF9NvnGXG8)
+[Watch: "Chat About Dharmamitra Updates in 2025 and DharmaNexus"](https://www.youtube.com/watch?v=cgF9NvnGXG8)
 
 ---
 
