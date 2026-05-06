@@ -11,6 +11,8 @@
 
 **[Dharmamitra](https://dharmamitra.org)** is a meta‑platform that bundles state‑of‑the‑art NLP, OCR, information‑retrieval, and intertextuality exploration components for anybody working with the Ancient Asian languages Sanskrit, Pāli, Classical Chinese, and Tibetan. All code in this organisation is released under permissive licenses, and we provide large datasets in either public‑domain or under Creative Commons licensing.
 
+<span style="color: #700000; font-weight: bold;">The user guides currently available on this website do not yet reflect the updated Dharmamitra user interface. We appreciate your patience while our team is actively working on revising them.</span>
+
 ---
 
 ## News
