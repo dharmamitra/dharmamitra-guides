@@ -1,3 +1,5 @@
+<span style="color: #990000; font-weight: bold;">The user guides currently available on this website do not yet reflect the updated Dharmamitra user interface. We appreciate your patience while our team is actively working on revising them.</span>
+
 ## What is MITRA Search?
 
 MITRA Search is a specialized **semantic search engine**. Think of it not as a conversational AI like ChatGPT, but as a highly sophisticated research assistant. Instead of just matching keywords, it understands the *meaning and concepts* behind your queries to find related passages across a vast library of texts in Pāli, Sanskrit, Tibetan, and Chinese.
