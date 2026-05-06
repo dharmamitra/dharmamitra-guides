@@ -4,6 +4,8 @@ The MITRA platform offers a suite of powerful, free-to-use tools designed for re
 
 Each tool is designed to be intuitive and powerful, catering to both new users and seasoned academics. Explore the individual tool sections to learn more about their features and how to use them.
 
+<span style="color: #990000; font-weight: bold;">The user guides currently available on this website do not yet reflect the updated Dharmamitra user interface. We appreciate your patience while our team is actively working on revising them.</span>
+
 ## Available Tools
 
 - [**MITRA Translate**](translate.md): Neural machine translation for Sanskrit, Pāli, Tibetan, and Classical Chinese.
