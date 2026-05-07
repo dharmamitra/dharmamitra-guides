@@ -220,7 +220,9 @@ We presented "Is training deep neural embeddings worth the effort? A preliminary
 
 ## June 2025: From Sthiramati to Dharmamitra at Keio University
 
-We presented "[From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies](presentations.md#from-sthiramati-to-dharmamitra-developing-digital-tools-for-a-new-age-of-philological-buddhist-studies)" at the DH International Workshop at Keio University, Tokyo.
+We presented "From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies" at the DH International Workshop at Keio University, Tokyo.
+
+[Read more.](events/invited_talks.md)
 
 ---
 
