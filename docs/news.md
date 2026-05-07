@@ -38,7 +38,7 @@ We hope that these updates make the daily work with our platform more productive
 
 An online workshop held by the Centre for Buddhist Studies, Kathmandu University at Rangjung Yeshe Institute.
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-and-buddha-nexus-ecosystems-in-the-age-of-ai-with-dr-sebastien-nehrdich)**
 
 ---
 
@@ -46,7 +46,7 @@ An online workshop held by the Centre for Buddhist Studies, Kathmandu University
  
 On March 28 (Sat) and 29 (Sun), Center for Integrated Japanese Studies (CIJS) at Tohoku University hosted the international workshop “OCR AND BEYOND” focusing on philology and digital archives in the age of AI. The workshop featured discussions on cutting-edge computer-aided annotation workflows, including Sanskrit studies utilizing Generative AI, the digitization of Tibetan, Nepalese, and Japanese Esoteric Buddhist texts, and the construction of structured corpora. 
 
-**[Read more.](events/organized_events.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/organized_events/#ocr-and-beyond-workshop-at-tohoku-university)**
 
 ---
 
@@ -56,7 +56,7 @@ Lecture, The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, G
 
 The Center for Integrated Japanese Studies (CIJS) at Tohoku University will host a two-day workshop titled "Japanese Studies in Japan and Belgium" on March 19 and 20, 2026. The event will be held at Ghent University, Belgium, and is co-organized with the Ghent University Institute for Japanese Studies.
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-a-platform-to-support-research-across-language-boundaries-on-buddhist-textual-material)**
 
 ---
 
@@ -64,7 +64,8 @@ The Center for Integrated Japanese Studies (CIJS) at Tohoku University will host
 
 Locating textual parallels, translations, citations, and topically related passages across vast collections of texts in multiple languages is a basic requirement of philological work in Buddhist Studies.
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmanexus-as-a-multilingual-graph-of-buddhist-intertextuality-design-choices-research-uses-and-future-applications
+)**
 
 ---
 
@@ -74,7 +75,7 @@ Hybrid lecture, International Institute for Asian Studies, Leiden University, Ne
 
 With rapidly growing digital collections and increasingly powerful AI and information-retrieval tools, textual Buddhist Studies is undergoing a paradigm shift. How are these new tools already influencing research practice, and what new questions and methods might they enable in the near future?
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#is-this-the-end-of-buddhist-philology-as-we-know-it-if-so-whats-next)**
 
 ---
 
@@ -91,7 +92,8 @@ We are happy to announce that Dharmamitra now features a [**Board of Advisors](h
 
 *Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-a-data-driven-platform-for-the-research-of-buddhist-texts-in-multiple-languages-using-advanced-nlp-methods
+)**
 
 ---
 
@@ -101,7 +103,7 @@ We are happy to announce that Dharmamitra now features a [**Board of Advisors](h
 
 Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent advances in AI are transforming many areas of scholarship, and the field of Indology is no exception. We introduced Dharmamitra, an AI-assisted research environment that provides advanced tools for philological work across the Classical Asian languages: Pāli, Sanskrit, Tibetan, and Chinese.
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#ai-and-indological-buddhological-researches-dharmamitra-dharmanexus-and-its-application)**
 
 ---
 
@@ -111,7 +113,7 @@ Symposium, 仏教学とデジタル・ヒューマニティーズ国際シンポ
 
 I presented on the current status and future outlook of the Dharmamitra ecosystem, covering translation, OCR, and semantic retrieval capabilities for Buddhist texts. The symposium was held at Tokyo International Forum Hall D5 and focused on "The Significance of Humanities and Research Infrastructure Development in the DX-AI Era."
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#translation-ocr-and-semantic-retrieval-current-status-and-future-outlook-of-the-dharmamitra-ecosystem)**
 
 ---
 
@@ -121,7 +123,8 @@ On December 21, we where part of the panel “AI in the Fo Guang Dictionary of B
 
 I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA." The panel showcased how emerging AI tools support large-scale Buddhist translation and lexicographical research. I introduced Dharmamitra as a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab, which employs Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval.
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-a-platform-that-makes-translation-and-discovery-of-buddhist-texts-possible-across-language-barriers
+)**
 
 ---
 
@@ -129,7 +132,7 @@ I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang
 
 Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku University, Sendai, Japan
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#building-the-foundations-of-buddhist-philology-through-digital-humanities-exploring-the-potential-of-the-tohoku-university-digital-archives-touda)**
 
 ---
 
