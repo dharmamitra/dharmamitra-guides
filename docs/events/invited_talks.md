@@ -205,7 +205,7 @@ The event explored the latest developments in the Dharmamitra project, which app
 ### Machine Translation for Asian Studies
 **March 2025**
 
-*Annual Conference of the Association of Asian Studies, Columbus, Ohio*
+***[Annual Conference of the Association of Asian Studies](https://www.asianstudies.org/conference/)**, Columbus, Ohio*
 
 With the advent of large language models, machine translation (MT) has become a widely used, but little understood, tool for research, language learning, and communication. GPT, Claude, and many other model series allow researchers now to access literature in different languages, and even translate primary texts composed in classical languages with few resources available. But how to evaluate the translation output of such machines? How to decide which model is the best for my own research purposes and how to tweak it? How will MT impact language learning, which is fundamental for Asian Studies?
 
@@ -232,7 +232,7 @@ This is a hands-on workshop with exercises. Participants will have to bring thei
 ### **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/)**: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI
 **March 2025**
 
-*CEAL (Council on East Asian Libraries) Technology Forum, Columbus, Ohio*
+***[CEAL (Council on East Asian Libraries) Technology Forum](https://www.eastasianlib.org/)**, Columbus, Ohio*
 
 Recent advances in artificial intelligence and natural language processing have revolutionized information retrieval and question-answering systems. This talk introduces **[MITRA Search](https://dharmamitra.github.io/dharmamitra-guides/mitra_tools/search/)**, a specialized search platform designed for exploring Buddhist literature preserved across Classical Asian languages including Chinese, Tibetan, Sanskrit, and Pāli. The system leverages multilingual approximate search capabilities to enable scholars to identify parallel passages and conduct comparative analyses across different writing systems and translations. We demonstrate how large language models integrated into the Dharmamitra project enhance user interaction with search results, facilitating dynamic exploration of these classical texts. This innovation addresses the long-standing challenge of cross-linguistic textual research in Buddhist studies and offers new possibilities for digital humanities scholarship.
 
