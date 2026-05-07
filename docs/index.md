@@ -19,9 +19,9 @@
 
 <!-- Each news item links to its section in news.md -->
 - [April, 2026: Dharmamitra Platform Update – Introducing Explore](news.md#april-2026-dharmamitra-platform-update–introducing-explore)
-- [April, 2026: Dharmamitra and Buddha Nexus Ecosystems in the age of AI (Workshop)](news.md#dharmamitra-and-buddha-nexus-ecosystems-in-the-age-of-ai-with-dr-sebastien-nehrdich)
-- [March 2026: OCR and Beyond Workshop at Tohoku University](news.md#ocr-and-beyond-workshop-at-tohoku-university)
-- [March 2026: Dharmamitra: A Platform to Support Research across Language Boundaries on Buddhist Textual Material](news.md#dharmamitra-a-platform-to-support-research-across-language-boundaries-on-buddhist-textual-material)
+- [April, 2026: Dharmamitra and Buddha Nexus Ecosystems in the age of AI (Workshop)](news.md#april-11-2026-dharmamitra-and-buddha-nexus-ecosystems-in-the-age-of-ai-with-dr-sebastien-nehrdich)
+- [March 2026: OCR and Beyond Workshop at Tohoku University](news.md#march-28-29-2026-ocr-and-beyond-workshop-at-tohoku-university)
+- [March 2026: Dharmamitra: A Platform to Support Research across Language Boundaries on Buddhist Textual Material](news.md#march-20-2026-dharmamitra-a-platform-to-support-research-across-language-boundaries-on-buddhist-textual-material)
 - [March 2026: DharmaNexus as a Multilingual Graph of Buddhist Intertextuality: Design Choices, Research Uses, and Future Applications](news.md#dharmanexus-as-a-multilingual-graph-of-buddhist-intertextuality-design-choices-research-uses-and-future-applications)
 - [March 13, 2026: Is this the end of (Buddhist) philology as we know It? If so, what’s next?](news.md##is-this-the-end-of-buddhist-philology-as-we-know-it-if-so-whats-next)
 - [February 2026: Dharmamitra Board of Advisors](news.md#dharmamitra-board-of-advisors)
