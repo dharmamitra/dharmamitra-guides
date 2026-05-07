@@ -281,7 +281,9 @@ We presented "Dharmamitra: Developing a Toolkit for Philological Work on Premode
 
 ## October 2024: MITRA at Johns Hopkins University
 
-We presented "[MITRA: Beyond Just Machine Translation for Premodern Asian Low Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-beyond-just-machine-translation-for-premodern-asian-low-resource-languages)" at Johns Hopkins University, Baltimore, MD.
+We presented "MITRA: Beyond Just Machine Translation for Premodern Asian Low Resource Languages" at Johns Hopkins University, Baltimore, MD.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#mitra-beyond-just-machine-translation-for-premodern-asian-low-resource-languages)**
 
 ---
 
