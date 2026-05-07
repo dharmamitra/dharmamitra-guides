@@ -250,21 +250,25 @@ Our paper **"[MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Da
 
 ## December 2024: MITRA Search at Tokyo Symposium
 
-We presented "[MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search]" at the International Symposium "Buddhist Studies and Digital Humanities" in Tokyo, Japan.
+We presented "MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search" at the International Symposium "Buddhist Studies and Digital Humanities" in Tokyo, Japan.
 
-**[Read more.](events/invited_talks.md)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#MITRA-Search-at-Tokyo-Symposium)**
 
 ---
 
 ## November 2024: Dharmamitra Presentation in Heidelberg
 
-We gave a presentation on "[Dharmamitra](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra)" online for an audience in Heidelberg, Germany ([recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)).
+We gave a presentation on "Dharmamitra" online for an audience in Heidelberg, Germany ([recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)).
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra)**
 
 ---
 
 ## November 2024: Dharmamitra Toolkit at Naples Workshop
 
-We presented "[Dharmamitra: Developing a Toolkit for Philological Work on Premodern Asian Low-Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-developing-a-toolkit-for-philological-work-on-premodern-asian-low-resource-languages)" at a workshop at L'Orientale University of Naples, Italy.
+We presented "Dharmamitra: Developing a Toolkit for Philological Work on Premodern Asian Low-Resource Languages" at a workshop at L'Orientale University of Naples, Italy.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-developing-a-toolkit-for-philological-work-on-premodern-asian-low-resource-languages)**
 
 ---
 
