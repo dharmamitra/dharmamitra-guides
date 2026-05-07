@@ -38,7 +38,7 @@ We hope that these updates make the daily work with our platform more productive
 
 An online workshop held by the Centre for Buddhist Studies, Kathmandu University at Rangjung Yeshe Institute.
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -46,7 +46,7 @@ An online workshop held by the Centre for Buddhist Studies, Kathmandu University
  
 On March 28 (Sat) and 29 (Sun), Center for Integrated Japanese Studies (CIJS) at Tohoku University hosted the international workshop “OCR AND BEYOND” focusing on philology and digital archives in the age of AI. The workshop featured discussions on cutting-edge computer-aided annotation workflows, including Sanskrit studies utilizing Generative AI, the digitization of Tibetan, Nepalese, and Japanese Esoteric Buddhist texts, and the construction of structured corpora. 
 
-[Read more.](events/organized_events.md)
+**[Read more.](events/organized_events.md)**
 
 ---
 
@@ -56,7 +56,7 @@ Lecture, The Gandhāra Corpora Lecture Series, Faculty of arts and Philosophy, G
 
 The Center for Integrated Japanese Studies (CIJS) at Tohoku University will host a two-day workshop titled "Japanese Studies in Japan and Belgium" on March 19 and 20, 2026. The event will be held at Ghent University, Belgium, and is co-organized with the Ghent University Institute for Japanese Studies.
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -64,7 +64,7 @@ The Center for Integrated Japanese Studies (CIJS) at Tohoku University will host
 
 Locating textual parallels, translations, citations, and topically related passages across vast collections of texts in multiple languages is a basic requirement of philological work in Buddhist Studies.
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -74,13 +74,13 @@ Hybrid lecture, International Institute for Asian Studies, Leiden University, Ne
 
 With rapidly growing digital collections and increasingly powerful AI and information-retrieval tools, textual Buddhist Studies is undergoing a paradigm shift. How are these new tools already influencing research practice, and what new questions and methods might they enable in the near future?
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
 ## February, 2026: Dharmamitra Board of Advisors
 
-We are happy to announce that Dharmamitra now features a [Board of Advisors](https://rnd.dharmamitra.org/people). They will advise on the kind of data that Dharmamitra includes, on the functionality and design of our various applications, and on making sure that we keep providing tools and utility that really matter for our core audience. We are more than grateful for their support and expertise!
+We are happy to announce that Dharmamitra now features a [**Board of Advisors](https://rnd.dharmamitra.org/people)**. They will advise on the kind of data that Dharmamitra includes, on the functionality and design of our various applications, and on making sure that we keep providing tools and utility that really matter for our core audience. We are more than grateful for their support and expertise!
 
 ![Members of the Board of Advisors](assets/Board_of_advisors.png)
 
@@ -91,7 +91,7 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 *Forum, 第30回情報知識学フォーラム「文化と社会をとらえるデータサイエンスの最前線」 (The 30th Information and Knowledge Science Forum: Data Science at the Forefront of Capturing Culture and Society), Japan Society for Information and Knowledge (情報知識学会), Doshisha University Osaka Satellite Campus, Osaka, Japan*
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -101,7 +101,7 @@ We are happy to announce that Dharmamitra now features a [Board of Advisors](htt
 
 Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent advances in AI are transforming many areas of scholarship, and the field of Indology is no exception. We introduced Dharmamitra, an AI-assisted research environment that provides advanced tools for philological work across the Classical Asian languages: Pāli, Sanskrit, Tibetan, and Chinese.
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -111,7 +111,7 @@ Symposium, 仏教学とデジタル・ヒューマニティーズ国際シンポ
 
 I presented on the current status and future outlook of the Dharmamitra ecosystem, covering translation, OCR, and semantic retrieval capabilities for Buddhist texts. The symposium was held at Tokyo International Forum Hall D5 and focused on "The Significance of Humanities and Research Infrastructure Development in the DX-AI Era."
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -121,7 +121,7 @@ On December 21, we where part of the panel “AI in the Fo Guang Dictionary of B
 
 I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang Dictionary of Buddhism English Translation Project and MITRA." The panel showcased how emerging AI tools support large-scale Buddhist translation and lexicographical research. I introduced Dharmamitra as a collaborative AI-driven platform developed by Tohoku University with the Tsadra Foundation and Berkeley AI Research Lab, which employs Large Language Models for high-quality machine translation of Sanskrit, Pali, Tibetan, and Chinese alongside vector-based semantic retrieval.
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -129,7 +129,7 @@ I presented on the Dharmamitra platform as part of the panel "AI in the Fo Guang
 
 Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku University, Sendai, Japan
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -137,7 +137,7 @@ Workshop and Symposium, Center for Integrated Japanese Studies (CIJS), Tohoku Un
 
 Talk, at 서울대학교 인공지능 디지털인문학센터 해외연구자 초청포럼 (Seoul National University AI Digital Humanities Center Overseas Researcher Invitation Forum), Seoul, South Korea
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -172,13 +172,13 @@ Talk, Goodman Lecture Series No. 32, Khyentse Foundation, Online
 
 This talk will provide an overview of the tools that the Dharmamitra project currently offers the Buddhist Studies community, with a focus on machine translation and cross-lingual search for philological use cases. 
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
 ## September 15, 2025: Dharmamitra and DharmaNexus presentation at the National Taiwan University
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -186,27 +186,27 @@ This talk will provide an overview of the tools that the Dharmamitra project cur
 
 Presentation, ELTE BTK, Kodály terem, Budapest, Hungary
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
 ## August 2025: MITRA at IABS Conference, Leipzig
 
-We will present "[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)" at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
+We will present **"[MITA: New Research Tools for a Paradigm Shift in the Philological Study of Buddhist Texts Based on Machine Translation Technology](https://conference.uni-leipzig.de/iabs2025/academic-program/)"** at the IABS conference in Leipzig. Please join our panel with Marcus Bingenheimer on Tuesday, August 12!
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
 ## July 26, 2025: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus
 
-We are thrilled to announce the official launch of a number of new flagship capabilities: [MITRA Search](mitra_tools/search.md), [MITRA Deep Research](mitra_tools/deep_research.md), and [DharmaNexus](dharmanexus.md). These tools represent a new era for Dharmamitra, offering powerful search, in-depth analysis, and intertextuality exploration coupled tightly with the existing capabilities of Dharmamitra. We invite you to explore them and see how they can help your research and study.
+We are thrilled to announce the official launch of a number of new flagship capabilities: **[MITRA Search](mitra_tools/search.md)**, **[MITRA Deep Research](mitra_tools/deep_research.md)**, and **[DharmaNexus](dharmanexus.md)**. These tools represent a new era for Dharmamitra, offering powerful search, in-depth analysis, and intertextuality exploration coupled tightly with the existing capabilities of Dharmamitra. We invite you to explore them and see how they can help your research and study.
 
-The archived BuddhaNexus codebase is here: [https://github.com/BuddhaNexus/](https://github.com/BuddhaNexus/)
+The archived BuddhaNexus codebase is here: **[https://github.com/BuddhaNexus/](https://github.com/BuddhaNexus/)**
 
-Development of Dharmamitra, including DharmaNexus, is happening here: [https://github.com/dharmamitra](https://github.com/dharmamitra)
+Development of Dharmamitra, including DharmaNexus, is happening here: **[https://github.com/dharmamitra](https://github.com/dharmamitra)**
 
-[Watch: "Chat About Dharmamitra Updates in 2025 and DharmaNexus"](https://www.youtube.com/watch?v=cgF9NvnGXG8)
+**[Watch: "Chat About Dharmamitra Updates in 2025 and DharmaNexus"](https://www.youtube.com/watch?v=cgF9NvnGXG8)**
 
 ---
 
@@ -214,7 +214,7 @@ Development of Dharmamitra, including DharmaNexus, is happening here: [https://g
 
 We presented "Is training deep neural embeddings worth the effort? A preliminary investigation of different representation methods for semantic similarity tasks in Buddhist Chinese and related languages of the Buddhist tradition" at the "Navigating Indra’s Net: Digital Approaches to Text Reuse-based Inter-textuality in Pre-Modern East Asian Texts" online workshop at the Hanmun Lab, Ruhr-Universität Bochum.
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
@@ -222,19 +222,23 @@ We presented "Is training deep neural embeddings worth the effort? A preliminary
 
 We presented "From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies" at the DH International Workshop at Keio University, Tokyo.
 
-[Read more.](events/invited_talks.md)
+**[Read more.](events/invited_talks.md)**
 
 ---
 
 ## March 2025: Machine Translation for Asian Studies Workshop
 
-We conducted a hands-on workshop on "[Machine Translation for Asian Studies](https://dharmamitra.github.io/dharmamitra-guides/presentations/#machine-translation-for-asian-studies)" at the [Annual Conference of the Association of Asian Studies](https://www.asianstudies.org/conference/) in Columbus, Ohio.
+We conducted a hands-on workshop on "Machine Translation for Asian Studies" at the [Annual Conference of the Association of Asian Studies](https://www.asianstudies.org/conference/) in Columbus, Ohio.
+
+**[Read more.](events/invited_talks.md)**
 
 ---
 
 ## March 2025: MITRA Search at CEAL Technology Forum
 
-We presented "[MITRA Search: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-search-building-information-retrieval-systems-for-classical-asian-languages-in-the-age-of-ai)" at the [CEAL Technology Forum](https://www.eastasianlib.org/) in Columbus, Ohio.
+We presented "MITRA Search: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI" at the [CEAL Technology Forum](https://www.eastasianlib.org/) in Columbus, Ohio.
+
+**[Read more.](events/invited_talks.md)**
 
 ---
 
