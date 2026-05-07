@@ -254,7 +254,9 @@ Our paper **"[MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Da
 
 We presented "MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search" at the International Symposium "Buddhist Studies and Digital Humanities" in Tokyo, Japan.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#MITRA-Search-at-Tokyo-Symposium)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#MITRA-Search-Exploring-Buddhist-Literature-Preserved-in-Classical-Asian-Languages-with-Multilingual-Approximate-Search)**
+
+m
 
 ---
 
