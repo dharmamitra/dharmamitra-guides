@@ -190,7 +190,7 @@ This presentation is part of an online workshop on digital approaches to interte
 ### From Sthiramati to Dharmamitra: Developing Digital Tools for a New Age of Philological Buddhist Studies
 **June 2025**
 
-*[DH International Workshop](https://sites.google.com/view/dhws2025b) at Keio University, Tokyo, Japan*
+***[DH International Workshop](https://sites.google.com/view/dhws2025b)** at Keio University, Tokyo, Japan*
 
 This presentation was part of a workshop at Keio University, co-organized by Kakenhi Special Promotion Research "Compilation of the Reiwa Daizokyo as a Digital Research Infrastructure - Presentation of a Research Infrastructure Construction Model for Next-Generation Humanities (JP25H00001)" and the Research Infrastructure Hub, Research and Development Project for the DX of Humanities and Social Sciences.
 
