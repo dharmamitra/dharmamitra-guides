@@ -244,25 +244,27 @@ We presented "MITRA Search: Building Information Retrieval Systems for Classical
 
 ## 2025: MITRA-zh-eval Paper Published
 
-Our paper "[MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics](https://aclanthology.org/2025.nlp4dh-1.12/)" has been published in the *Proc. 5th Intl. Conf. on NLP for Digital Humanities* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2025)).
+Our paper **"[MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics](https://aclanthology.org/2025.nlp4dh-1.12/)"** has been published in the *Proc. 5th Intl. Conf. on NLP for Digital Humanities* (**[details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2025)**).
 
 ---
 
 ## December 2024: MITRA Search at Tokyo Symposium
 
-We presented "[MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-search-exploring-buddhist-literature-preserved-in-classical-asian-languages-with-multilingual-approximate-search)" at the International Symposium "Buddhist Studies and Digital Humanities" in Tokyo, Japan.
+We presented "[MITRA Search: Exploring Buddhist Literature Preserved in Classical Asian Languages with Multilingual Approximate Search]" at the International Symposium "Buddhist Studies and Digital Humanities" in Tokyo, Japan.
+
+**[Read more.](events/invited_talks.md)**
 
 ---
 
 ## November 2024: Dharmamitra Presentation in Heidelberg
 
-We gave a presentation on "[Dharmamitra](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra)" online for an audience in Heidelberg, Germany ([recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)).
+We gave a presentation on "[Dharmamitra](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra)" online for an audience in Heidelberg, Germany ([recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)).
 
 ---
 
 ## November 2024: Dharmamitra Toolkit at Naples Workshop
 
-We presented "[Dharmamitra: Developing a Toolkit for Philological Work on Premodern Asian Low-Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-developing-a-toolkit-for-philological-work-on-premodern-asian-low-resource-languages)" at a workshop at L'Orientale University of Naples, Italy.
+We presented "[Dharmamitra: Developing a Toolkit for Philological Work on Premodern Asian Low-Resource Languages](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-developing-a-toolkit-for-philological-work-on-premodern-asian-low-resource-languages)" at a workshop at L'Orientale University of Naples, Italy.
 
 ---
 
