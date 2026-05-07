@@ -238,7 +238,7 @@ We conducted a hands-on workshop on "Machine Translation for Asian Studies" at t
 
 We presented "MITRA Search: Building Information Retrieval Systems for Classical Asian Languages in the Age of AI" at the [CEAL Technology Forum](https://www.eastasianlib.org/) in Columbus, Ohio.
 
-**[Read more.]([events/invited_talks.md](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#MITRA-Search-at-CEAL-Technology-Forum)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#MITRA-Search-at-CEAL-Technology-Forum)**
 
 ---
 
@@ -260,7 +260,7 @@ We presented "MITRA Search: Exploring Buddhist Literature Preserved in Classical
 
 We gave a presentation on "Dharmamitra" online for an audience in Heidelberg, Germany.
 
-[Listen recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)**
+**[Listen recording](https://www.youtube.com/watch?v=SMD6RGr-w9Q)**
 
 **[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra)**
 
