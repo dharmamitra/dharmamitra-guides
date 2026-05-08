@@ -289,70 +289,86 @@ We presented "MITRA: Beyond Just Machine Translation for Premodern Asian Low Res
 
 ## October 2024: Dharmamitra Search at UC Berkeley
 
-We presented "[Dharmamitra Search: Leveraging Multilingual Language Models for Search and Detection of Textual Reuse across Diverse Text Collections](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-search-leveraging-multilingual-language-models-for-search-and-detection-of-textual-reuse-across-diverse-text-collections)" at the AI and the Future of Buddhist Studies Conference at UC Berkeley.
+We presented "Dharmamitra Search: Leveraging Multilingual Language Models for Search and Detection of Textual Reuse across Diverse Text Collections" at the AI and the Future of Buddhist Studies Conference at UC Berkeley.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-search-leveraging-multilingual-language-models-for-search-and-detection-of-textual-reuse-across-diverse-text-collections)**
 
 ---
 
 ## October 2024: ByT5-Sanskrit Paper Published
 
-Our paper "[One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks](https://aclanthology.org/2024.findings-emnlp.805/)" has been published in the *Findings of the Association for Computational Linguistics: EMNLP 2024* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2024)).
+Our paper **"[One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks](https://aclanthology.org/2024.findings-emnlp.805/)"** has been published in the *Findings of the Association for Computational Linguistics: EMNLP 2024* **([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2024))**.
 
 ---
 
 ## August 2024: MITRA at PNC 2024, Seoul
 
-We presented "[MITRA: Developing Language Models for Machine Translation and Search in Buddhist Source Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-language-models-for-machine-translation-and-search-in-buddhist-source-languages)" at the PNC 2024 Annual Conference in Seoul, Korea.
+We presented "MITRA: Developing Language Models for Machine Translation and Search in Buddhist Source Languages" at the PNC 2024 Annual Conference in Seoul, Korea.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-language-models-for-machine-translation-and-search-in-buddhist-source-languages)**
 
 ---
 
 ## 2024: Breakthroughs in Tibetan NLP & Digital Humanities
 
-Our paper "[Breakthroughs in Tibetan NLP & Digital Humanities](https://www.asian-studies.org/publications/Revue-Etudes-Tibetaines/)" has been published in the *Revue d’Études Tibétaines* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2024)).
+Our paper **"[Breakthroughs in Tibetan NLP & Digital Humanities](https://www.asian-studies.org/publications/Revue-Etudes-Tibetaines/)"** has been published in the *Revue d’Études Tibétaines* **([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2024))**.
 
 ---
 
 ## April 2024: Massive Multilingual MT and Search at NTU, Taipei
 
-We presented "[Massive Multilingual Machine Translation and Search for Buddhist Languages: The Mitra Project](https://dharmamitra.github.io/dharmamitra-guides/presentations/#massive-multilingual-machine-translation-and-search-for-buddhist-languages-the-mitra-project)" at National Taiwan University (NTU), Taipei, Taiwan.
+We presented "Massive Multilingual Machine Translation and Search for Buddhist Languages: The Mitra Project" at National Taiwan University (NTU), Taipei, Taiwan.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#massive-multilingual-machine-translation-and-search-for-buddhist-languages-the-mitra-project)
 
 ---
 
 ## March 2024: Dharmamitra at National University of Singapore
 
-We presented "[Dharmamitra: Enabling Massive Multilingual Machine Translation for Ancient Languages of the Buddhist Tradition](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-enabling-massive-multilingual-machine-translation-for-ancient-languages-of-the-buddhist-tradition)" at the National University of Singapore.
+We presented "Dharmamitra: Enabling Massive Multilingual Machine Translation for Ancient Languages of the Buddhist Tradition" at the National University of Singapore.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-enabling-massive-multilingual-machine-translation-for-ancient-languages-of-the-buddhist-tradition)**
 
 ---
 
 ## February 2024: Sanskrit MT & LLMs at Auroville
 
-We gave an online presentation on "[Machine Translation and LLM-Powered Grammatical Explanation for Sanskrit](https://dharmamitra.github.io/dharmamitra-guides/presentations/#machine-translation-and-llm-powered-grammatical-explanation-for-sanskrit)" at the International Sanskrit Computational Linguistics Conference in Auroville, India.
+We gave an online presentation on "Machine Translation and LLM-Powered Grammatical Explanation for Sanskrit" at the International Sanskrit Computational Linguistics Conference in Auroville, India.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#machine-translation-and-llm-powered-grammatical-explanation-for-sanskrit)**
 
 ---
 
 ## 2023: Intertextuality of Abhidharma Texts Paper
 
-Our paper "[Observations on the Intertextuality of Selected Abhidharma Texts Preserved in Chinese Translation](https://doi.org/10.3390/rel14070911)" has been published in the journal *Religions* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2023)).
+Our paper **"[Observations on the Intertextuality of Selected Abhidharma Texts Preserved in Chinese Translation](https://doi.org/10.3390/rel14070911)"** has been published in the journal *Religions* **([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2023))**.
 
 ---
 
 ## 2023: MITRA-zh Paper Published
 
-Our paper "[MITRA‑zh: An efficient, open machine translation solution for Buddhist Chinese](https://aclanthology.org/2023.nlp4dh-1.29/)" has been published in the *Proceedings of the Joint 3rd Intl. Conf. on NLP for Digital Humanities & 8th IWCLUL* ([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2023)).
+Our paper **"[MITRA‑zh: An efficient, open machine translation solution for Buddhist Chinese](https://aclanthology.org/2023.nlp4dh-1.29/)"** has been published in the *Proceedings of the Joint 3rd Intl. Conf. on NLP for Digital Humanities & 8th IWCLUL* **([details](https://dharmamitra.github.io/dharmamitra-guides/publications/#2023))**.
 
 ---
 
 ## June 2023: MITRA NLP Tools in Hong Kong
 
-We presented "[MITRA: Developing Natural Language Processing Tools for the Languages of Buddhist Literature](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-natural-language-processing-tools-for-the-languages-of-buddhist-literature)" in Hong Kong.
+We presented "MITRA: Developing Natural Language Processing Tools for the Languages of Buddhist Literature" in Hong Kong.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-natural-language-processing-tools-for-the-languages-of-buddhist-literature)**
 
 ---
 
 ## June 2023: MT for Buddhist Texts in Seoul
 
-We presented "[Developing Machine Translation for ancient Buddhist texts in canonical languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#developing-machine-translation-for-ancient-buddhist-texts-in-canonical-languages)" in Seoul, Korea.
+We presented "Developing Machine Translation for ancient Buddhist texts in canonical languages" in Seoul, Korea.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#developing-machine-translation-for-ancient-buddhist-texts-in-canonical-languages)**
 
 ---
 
 ## April 2023: Shared Semantic Vector Space in Vienna
 
-We presented "[Creating a Shared Semantic Vector Space for Buddhist Languages](https://dharmamitra.github.io/dharmamitra-guides/presentations/#creating-a-shared-semantic-vector-space-for-buddhist-languages)" in Vienna, Austria. 
+We presented "Creating a Shared Semantic Vector Space for Buddhist Languages" in Vienna, Austria. 
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#creating-a-shared-semantic-vector-space-for-buddhist-languages)**
