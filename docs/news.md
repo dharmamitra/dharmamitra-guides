@@ -8,6 +8,7 @@
 Here is what’s new:
 
 🔍 Introducing ‘Segment View’
+
 We’ve launched a dedicated ‘segment view’ page to deepen your research! You can now access this feature by clicking the ‘view segment’ button—found on the Translate page (when using ‘Research’ mode) and on the Explore page. Once clicked, you will be taken to a detailed page featuring in-depth metadata and intertextual links. 
 
 Even better: where available, you can now access folio-level links directly into external databases, including the  **[ToUDA Derge Database](https://touda.tohoku.ac.jp/collection/en/database/tibet/collection/derge)** and **[rKTs](http://www.rkts.org/)**.
