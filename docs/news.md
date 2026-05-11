@@ -1,5 +1,41 @@
 # News
 
+## May 11, 2026: Introducing ‘Segment View’, Expanded Datasets, and More!
+
+🚀 We’re excited to share that Mitra Explore and Mitra Research are getting major upgrades to improve your research experience. 📚
+
+
+Here is what’s new:
+
+🔍 Introducing ‘Segment View’
+
+We’ve launched a dedicated ‘segment view’ page! Now, when you click the ‘view segment’ button, you will be taken to a detailed page featuring in-depth metadata and intertextual links. Even better: where available, you can now access folio-level links directly into external databases, including the ToUDA Derge Database and rKTs.
+
+![segment view](assets/segment_view.png)
+
+
+📖 Upgraded Kangyur & Tengyur Datasets
+
+We have upgraded our etext basis for The Kangyur and Tengyur from LHASA (ACIP) to Derge (Esukhia). These new texts offer higher input quality, allowing for seamless linking to other projects and providing a much smoother research experience.
+
+
+🇯🇵 Taishō Canon & 国訳一切経 Integration
+
+We have digitized the majority of volumes of the Japanese translation of the Taishō canon in form of the 国訳一切経. You can now access extracts of these translations directly within Mitra Explore and Research, complete with links to the original preserved pages on archive.org.
+
+![taisho internet archive](assets/taisho_internet_archive.png)
+
+
+📈 Expanded Tibetan Datasets
+
+Our commitment to comprehensive data continues! We have added significant new datasets for Tibetan, bringing our total coverage to over 14 million segments across the Mitra Explore and Research search indices.
+
+
+We hope these updates provide valuable support for your work. Explore these new features today and let us know what you think! 🌐
+
+
+---
+
 ## April, 2026: Dharmamitra Platform Update – Introducing Explore
 
 We’ve been very busy over the last months, and we are thrilled to announce a massive update to the Dharmamitra platform! 
