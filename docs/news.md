@@ -21,7 +21,7 @@ We have upgraded our etext basis for The Kangyur and Tengyur from LHASA (ACIP) t
 
 🇯🇵 Taishō Canon & 国訳一切経 Integration
 
-We have digitized the majority of volumes of the Japanese translation of the Taishō canon in form of the 国訳一切経. You can now access extracts of these translations directly within Mitra Explore and Research, complete with links to the original preserved pages on **[archive.org]**(http://archive.org).
+We have digitized the majority of volumes of the Japanese translation of the Taishō canon in form of the 国訳一切経. You can now access extracts of these translations directly within Mitra Explore and Research, complete with links to the original preserved pages on **[archive.org](http://archive.org)**.
 
 ![taisho internet archive](assets/taisho_internet_archive.png)
 
