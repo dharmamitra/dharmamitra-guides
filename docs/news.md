@@ -9,7 +9,7 @@ Here is what’s new:
 
 🔍 Introducing ‘Segment View’
 
-We’ve launched a dedicated ‘segment view’ page! Now, when you click the ‘view segment’ button, you will be taken to a detailed page featuring in-depth metadata and intertextual links. Even better: where available, you can now access folio-level links directly into external databases, including the ToUDA Derge Database and rKTs.
+We’ve launched a dedicated ‘segment view’ page! Now, when you click the ‘view segment’ button, you will be taken to a detailed page featuring in-depth metadata and intertextual links. Even better: where available, you can now access folio-level links directly into external databases, including the **[ToUDA Derge Database](https://touda.tohoku.ac.jp/collection/en/database/tibet/collection/derge)** and **[rKTs](http://www.rkts.org/)**.
 
 ![segment view](assets/segment_view.png)
 
@@ -21,7 +21,7 @@ We have upgraded our etext basis for The Kangyur and Tengyur from LHASA (ACIP) t
 
 🇯🇵 Taishō Canon & 国訳一切経 Integration
 
-We have digitized the majority of volumes of the Japanese translation of the Taishō canon in form of the 国訳一切経. You can now access extracts of these translations directly within Mitra Explore and Research, complete with links to the original preserved pages on archive.org.
+We have digitized the majority of volumes of the Japanese translation of the Taishō canon in form of the 国訳一切経. You can now access extracts of these translations directly within Mitra Explore and Research, complete with links to the original preserved pages on **[archive.org]**(http://archive.org).
 
 ![taisho internet archive](assets/taisho_internet_archive.png)
 
