@@ -1,5 +1,24 @@
 # News
 
+## May 16, 2026: Artificial Intelligence in Buddhist Studies
+
+**[Workshop in Leipzig University](https://www.uni-leipzig.de/veranstaltungsdetail/termin/artificial-intelligence-in-buddhist-studies)**
+
+This workshop focuses on the use of artificial intelligence in Buddhist Studies, with particular emphasis on the research tool Dharmamitra. Together with Prof. Nehrdich, participants will discuss current applications, challenges, and future perspectives of AI-assisted research in the field.
+
+The event is designed as an interactive format: participants are invited to contribute their own examples from working with Dharmamitra, including encountered problems, suggestions for improvement, and broader methodological questions. These materials will serve as the basis for the joint discussions during the workshop.
+
+In addition, a Q&A session is planned, addressing key questions concerning the use of AI in Buddhist Studies.
+
+Speaker: Prof. Dr Sebastian Nehrdich, Tohoku University
+
+
+![ai workshop poster](assets/ai-workshop-poster_cleanup.png)
+
+AI meets tradition. Photo: AI-generated
+
+---
+
 ## May 11, 2026: Introducing ‘Segment View’, Expanded Datasets, and More!
 
 🚀 We’re excited to share that Mitra Explore and Mitra Research are getting major upgrades to improve your research experience. 📚
@@ -35,7 +54,6 @@ Our commitment to comprehensive data continues! We have added significant new da
 
 
 We hope these updates provide valuable support for your work. Explore these new features today and let us know what you think! 🌐
-
 
 ---
 
