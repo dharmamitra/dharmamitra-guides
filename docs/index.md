@@ -18,6 +18,7 @@
 ## News
 
 <!-- Each news item links to its section in news.md -->
+- [May 16, 2026: Artificial Intelligence in Buddhist Studies](news.md#may-16-2026-artificial-intelligence-in-buddhist-studies)
 - [May 11, 2026: Introducing ‘Segment View’, Expanded Datasets, and More!](news.md#may-11-2026-introducing-segment-view-expanded-datasets-and-more)
 - [April, 2026: Dharmamitra Platform Update – Introducing Explore](news.md#april-2026-dharmamitra-platform-update–introducing-explore)
 - [April, 2026: Dharmamitra and Buddha Nexus Ecosystems in the age of AI (Workshop)](news.md#april-11-2026-dharmamitra-and-buddha-nexus-ecosystems-in-the-age-of-ai-with-dr-sebastien-nehrdich)
