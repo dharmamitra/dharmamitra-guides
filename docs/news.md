@@ -15,7 +15,7 @@ Speaker: Prof. Dr Sebastian Nehrdich, Tohoku University
 
 ![ai workshop poster](assets/ai-workshop-poster_cleanup.png)
 
-AI meets tradition. Photo: AI-generated
+AI meets tradition. Photo: AI-generated. Source: uni-leipzig.de
 
 ---
 
