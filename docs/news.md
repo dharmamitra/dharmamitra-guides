@@ -2,7 +2,7 @@
 
 ## May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI
 
-[Lecture and workshop at Ludwig-Maximilians-Universität München](IwY2xjawRxcdNleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvyA2TAjomo96_onlfAA4Yj56Qe4ZHDQNERIDhVcHNaGYxkfhggQ1ISYPDNW_aem__gvuE6VgfNsMd9eoRqlhNg)
+[Lecture and workshop at Ludwig-Maximilians-Universität München](https://www.kw.lmu.de/indotib/de/aktuelles/veranstaltungsuebersicht/veranstaltung/vortragsreihe-und-kolloquium-faebb01f.html?fbclid=IwY2xjawRxcm5leHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnzxhpRJd0tMzWmaqmu_Yk8vqpuMDc1LrHBnOpWCc_JvlMBmocAHVrWiYYkD_aem_MH6fRJEOrJxkcNOJY7ziQw)
 
 *Presentation*: Dharmamitra in 2026: Current Capabilities and Future Developments
 
@@ -28,9 +28,13 @@ Speakers: Assist. Prof. Sebastian Nehrdich (Tohoku University)
 Prof. Kengo Harimoto (L’Orientale, Naples)
 
 **Please join us in person or on Zoom:**
+
 Dharmamitra: Buddhist Philology in the Age of AI
+
 **[https://lmu-munich.zoom-x.de/j/61115180548...](https://lmu-munich.zoom-x.de/j/61115180548...)**
+
 ID: 611 1518 0548
+
 Password: 579977
 
 **[Details](assets/Invitation_Guest_Lecture_On_Dharmamitra.png)**
