@@ -2,7 +2,7 @@
 
 ## May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI
 
-Lecture and workshop at Ludwig-Maximilians-Universität München
+[Lecture and workshop at Ludwig-Maximilians-Universität München](IwY2xjawRxcdNleHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvyA2TAjomo96_onlfAA4Yj56Qe4ZHDQNERIDhVcHNaGYxkfhggQ1ISYPDNW_aem__gvuE6VgfNsMd9eoRqlhNg)
 
 *Presentation*: Dharmamitra in 2026: Current Capabilities and Future Developments
 
