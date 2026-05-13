@@ -18,6 +18,7 @@
 ## News
 
 <!-- Each news item links to its section in news.md -->
+- [May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI](news.md#may-18-2026-dharmamitra-buddhist-philology-in-the-age-of-ai)
 - [May 16, 2026: Artificial Intelligence in Buddhist Studies](news.md#may-16-2026-artificial-intelligence-in-buddhist-studies)
 - [May 11, 2026: Introducing ‘Segment View’, Expanded Datasets, and More!](news.md#may-11-2026-introducing-segment-view-expanded-datasets-and-more)
 - [April, 2026: Dharmamitra Platform Update – Introducing Explore](news.md#april-2026-dharmamitra-platform-update–introducing-explore)
