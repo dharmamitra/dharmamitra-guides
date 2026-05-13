@@ -27,7 +27,7 @@ Speakers: Assist. Prof. Sebastian Nehrdich (Tohoku University)
 
 Prof. Kengo Harimoto (L’Orientale, Naples)
 
-**[Details](docs/assets/Invitation_Guest_Lecture_On_Dharmamitra.png)**
+**[Details](assets/Invitation_Guest_Lecture_On_Dharmamitra.png)**
 
 ---
 
