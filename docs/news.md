@@ -2,7 +2,7 @@
 
 ## May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI
 
-**[Lecture and workshop at Ludwig-Maximilians-Universität München](docs/assets/Invitation_Guest_Lecture_On_Dharmamitra.pdf)**
+Lecture and workshop at Ludwig-Maximilians-Universität München
 
 *Presentation*: Dharmamitra in 2026: Current Capabilities and Future Developments
 
@@ -26,6 +26,8 @@ limitations, and the implications of working with technologies that are advancin
 Speakers: Assist. Prof. Sebastian Nehrdich (Tohoku University)
 
 Prof. Kengo Harimoto (L’Orientale, Naples)
+
+**[Details](docs/assets/Invitation_Guest_Lecture_On_Dharmamitra.png)**
 
 ---
 
