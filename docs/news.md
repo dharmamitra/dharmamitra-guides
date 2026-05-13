@@ -27,6 +27,12 @@ Speakers: Assist. Prof. Sebastian Nehrdich (Tohoku University)
 
 Prof. Kengo Harimoto (L’Orientale, Naples)
 
+**Please join us in person or on Zoom:**
+Dharmamitra: Buddhist Philology in the Age of AI
+**[https://lmu-munich.zoom-x.de/j/61115180548...](https://lmu-munich.zoom-x.de/j/61115180548...)**
+ID: 611 1518 0548
+Password: 579977
+
 **[Details](assets/Invitation_Guest_Lecture_On_Dharmamitra.png)**
 
 ---
