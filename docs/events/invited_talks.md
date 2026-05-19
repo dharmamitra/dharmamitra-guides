@@ -1,5 +1,61 @@
 ## Invited Talks
 
+### Dharmamitra: Buddhist Philology in the Age of AI
+**May 18, 2026**
+
+***[Lecture and workshop at Ludwig-Maximilians-Universität München](https://www.kw.lmu.de/indotib/de/aktuelles/veranstaltungsuebersicht/veranstaltung/vortragsreihe-und-kolloquium-faebb01f.html?fbclid=IwY2xjawRxcm5leHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnzxhpRJd0tMzWmaqmu_Yk8vqpuMDc1LrHBnOpWCc_JvlMBmocAHVrWiYYkD_aem_MH6fRJEOrJxkcNOJY7ziQw)***
+
+
+*Presentation*: Dharmamitra in 2026: Current Capabilities and Future Developments
+
+Dharmamitra is a rapidly evolving platform that brings advanced AI capabilities to the world of Buddhist textual scholarship. Since its inception in 2024, it has seen a significant increase in capabilities, covering
+not just machine translation, but by now advanced search, intertextuality research, OCR, and dictionary capabilities as well. In this talk, I will discuss the current state of the platform, its main features and design philosophy, and what future developments we are planning.
+
+
+*Workshop*: Accelerated Sanskrit Textual Schlarship in the Age of Agentic AI
+
+This hands-on workshop explores how agentic AI systems, particularly large language model agents
+such as Claude Code, can significantly accelerate the workflow of classical Sanskrit philology. Through live
+demonstrations drawn from ongoing research, participants will see how contemporary AI tools assist in tasks
+central to the discipline: identifying quotations and textual parallels across large corpora, performing metrical
+analysis, reconstructing the relative chronology of texts through corpus seriation, building and cleaning large
+segmented corpora, computational authorship attribution, and the close analysis of literary topoi. The
+workshop illustrates how agentic AI accelerates the traditional philological workflow by orders of magnitude,
+opening up research possibilities that were previously out of reach. We will discuss further directions,
+limitations, and the implications of working with technologies that are advancing at a breakneck speed.
+
+
+Speakers: Assist. Prof. Sebastian Nehrdich (Tohoku University)
+
+Prof. Kengo Harimoto (L’Orientale, Naples)
+
+**[Details](assets/Invitation_Guest_Lecture_On_Dharmamitra.png)**
+
+---
+
+### Artificial Intelligence in Buddhist Studies
+**May 16, 2026**
+
+***[Workshop in Leipzig University](https://www.uni-leipzig.de/veranstaltungsdetail/termin/artificial-intelligence-in-buddhist-studies)***
+
+This workshop focuses on the use of artificial intelligence in Buddhist Studies, with particular emphasis on the research tool Dharmamitra. Together with Prof. Nehrdich, participants will discuss current applications, challenges, and future perspectives of AI-assisted research in the field.
+
+The event is designed as an interactive format: participants are invited to contribute their own examples from working with Dharmamitra, including encountered problems, suggestions for improvement, and broader methodological questions. These materials will serve as the basis for the joint discussions during the workshop.
+
+In addition, a Q&A session is planned, addressing key questions concerning the use of AI in Buddhist Studies.
+
+Speaker: Prof. Dr Sebastian Nehrdich, Tohoku University
+
+
+![ai workshop poster](../assets/ai-workshop-poster_cleanup.png)
+
+AI meets tradition. Photo: AI-generated. Source: uni-leipzig.de
+
+![Leipzig group photo](../assets/Leipzig_group_photo.jpg)
+![Leipzig talk](../assets/Leipzig_talk.jpg)
+
+---
+
 ### Dharmamitra and Buddha Nexus Ecosystems in the age of AI with Dr. Sebastien Nehrdich
 **April 11, 2026**
 
