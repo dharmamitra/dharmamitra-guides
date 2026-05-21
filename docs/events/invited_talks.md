@@ -31,6 +31,8 @@ Prof. Kengo Harimoto (L’Orientale, Naples)
 
 **[Details](assets/Invitation_Guest_Lecture_On_Dharmamitra.png)**
 
+![Munich Sebastian Kengo](../assets/Munich_Sebastian_Kengo.jpg)
+
 ---
 
 ### Artificial Intelligence in Buddhist Studies
