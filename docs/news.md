@@ -1,5 +1,32 @@
 # News
 
+## June 24, 2026: Translation in the Age of AI: Dharmamitra for Translator Workflows
+
+Dive into Dharmamitra and see how AI’s shaking up translator workflows!
+
+Welcome to Translation in the Age of AI, a global interactive workshop designed to bridge translation and philology in the Buddhist textual world with cutting-edge digital humanities infrastructure. This event explores how modern AI tools can be integrated to support, enhance, and optimize translation and philological research workflows.
+
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/organized_events/#translation-in-the-age-of-ai-dharmamitra-for-translator-workflows)**
+
+**[Go to Eventbrite to register!](https://www.eventbrite.de/e/translation-in-the-age-of-ai-dharmamitra-for-translator-workflows-tickets-1992334867220)**
+
+![Mitra workshop pic](assets/Mitra-workshop-pic.jpg)
+
+---
+
+## June 22, 2026: MEXT AI for Science (SPReAD) Grant
+
+We are pleased to share that the Dharmamitra Project has been awarded a grant of 5 million yen through the Japanese government's MEXT AI for Science (SPReAD) programme. This award supports our ongoing work on the Japanese rendering of the Chinese Buddhist canon in the form of the 国訳一切経, as part of a broader initiative to build a reliable knowledge graph of Buddhist literature that can serve a wide range of research applications.
+The Dharmamitra Project is sustained by a remarkably diverse community of supporters — from the Tsadra Foundation and Schmidt Sciences in the United States, FoGuang AI in Taiwan, to the Center for Integrated Japanese Studies (CIJS) here in Japan. We are deeply grateful for each of these partnerships, and this new grant from MEXT is a welcome addition that reflects the growing recognition of computational approaches to Buddhist studies within Japan.
+The award also includes priority access to the SQUID high-performance computing cluster at Osaka University, which will meaningfully strengthen our capacity to develop and train NLP models tailored to the unique challenges of classical Buddhist literature.
+We look forward to sharing more about this work as it develops.
+
+**[Result announcement](https://mext.ent.box.com/s/l5ppajodlcyc0q18vegqt2g6wnazdzc1)**
+
+![MEXT AI](assets/MEXT_AI.jpg)
+
+---
+
 ## May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI
 
 **[Lecture and workshop at Ludwig-Maximilians-Universität München](https://www.kw.lmu.de/indotib/de/aktuelles/veranstaltungsuebersicht/veranstaltung/vortragsreihe-und-kolloquium-faebb01f.html?fbclid=IwY2xjawRxcm5leHRuA2FlbQIxMABicmlkETE2ZnNPbk1VaGhJczM2Y2lWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnzxhpRJd0tMzWmaqmu_Yk8vqpuMDc1LrHBnOpWCc_JvlMBmocAHVrWiYYkD_aem_MH6fRJEOrJxkcNOJY7ziQw)**
