@@ -18,6 +18,8 @@
 ## News
 
 <!-- Each news item links to its section in news.md -->
+- [June 24, 2026: Translation in the Age of AI: Dharmamitra for Translator Workflows](news.md#june-24-2026-translation-in-the-age-of-ai-dharmamitra-for-translator-workflows)
+- [June 22, 2026: MEXT AI for Science (SPReAD) Grant](news.md#june-22-2026-mext-ai-for-science-spread-grant)
 - [May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI](news.md#may-18-2026-dharmamitra-buddhist-philology-in-the-age-of-ai)
 - [May 16, 2026: Artificial Intelligence in Buddhist Studies](news.md#may-16-2026-artificial-intelligence-in-buddhist-studies)
 - [May 11, 2026: Introducing ‘Segment View’, Expanded Datasets, and More!](news.md#may-11-2026-introducing-segment-view-expanded-datasets-and-more)
