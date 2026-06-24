@@ -17,11 +17,12 @@ Platform: Live Zoom Broadcast (Access link will be sent to registered attendees)
 
 **Workshop Agenda & Run-of-Show**
 
-11:00 AM EDT / 17:00 CET — Session 1: Introduction to MITRA & Ecosystem Vision (45 min)
+*11:00 AM EDT / 17:00 CET — Session 1*: Introduction to MITRA & Ecosystem Vision (45 min)
 
 Lead Speaker: Sebastian Nehrdich, Assistant Professor, Center for Integrated Japanese Studies, Tohoku University.
 Focus: A comprehensive overview of the MITRA architecture, the datasets, and its current capabilities
-12:00 PM EDT / 18:00 CET — Session 2: Collaborative Case Studies & Participant-Material Review (90 min)
+
+*12:00 PM EDT / 18:00 CET — Session 2*: Collaborative Case Studies & Participant-Material Review (90 min)
 
 Moderators: Sára Csáki-Bertók and Sebastian Nehrdich
 Focus: An interactive, hands-on workshop session where we discuss usecase examples and experiences with AI tools in an open conversation.
