@@ -1,6 +1,6 @@
 # News
 
-## June 24, 2026: Translation in the Age of AI: Dharmamitra for Translator Workflows
+## July 11, 2026: Translation in the Age of AI: Dharmamitra for Translator Workflows
 
 Dive into Dharmamitra and see how AI’s shaking up translator workflows!
 
