@@ -1,6 +1,6 @@
 # News
 
-## July 11, 2026: Aming Tu Prize for Outstanding Creative Contribution to Digital Buddhist Studies
+## August 31, 2026: Aming Tu Prize for Outstanding Creative Contribution to Digital Buddhist Studies
 
 We are deeply honored to announce that DharmaMitra has been named the 2026 laureate of the Aming Tu Prize for Outstanding Creative Contribution to Digital Buddhist Studies, awarded by the Dharma Drum Institute of Liberal Arts (DILA).
 
