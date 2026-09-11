@@ -18,7 +18,8 @@
 ## News
 
 <!-- Each news item links to its section in news.md -->
-– [August 31, 2026: Aming Tu Prize for Outstanding Creative Contribution to Digital Buddhist Studies](news.md#august-31-2026-aming-tu-prize-for-outstanding-creative-contribution-to-digital-buddhist-studies)
+
+- [August 31, 2026: Aming Tu Prize for Outstanding Creative Contribution to Digital Buddhist Studies](news.md#august-31-2026-aming-tu-prize-for-outstanding-creative-contribution-to-digital-buddhist-studies)
 - [July 11, 2026: Translation in the Age of AI: Dharmamitra for Translator Workflows](news.md#july-11-2026-translation-in-the-age-of-ai-dharmamitra-for-translator-workflows)
 - [June 22, 2026: MEXT AI for Science (SPReAD) Grant](news.md#june-22-2026-mext-ai-for-science-spread-grant)
 - [May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI](news.md#may-18-2026-dharmamitra-buddhist-philology-in-the-age-of-ai)
