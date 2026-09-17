@@ -68,6 +68,7 @@ Our [leaderboard](https://dharmamitra.github.io/dharmamitra-leaderboard/) demons
 ### Open and Available to Everyone
 
 We believe in sharing this work with the community:
+
    •	The translation model is **publicly available** for anyone who wants to run it on their own machine: [huggingface.co/buddhist-nlp/mitra-qwen35-translate](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) 
 
    •	We're also introducing a **new generation of MITRA pretrained foundation models**, including state-of-the-art retrieval models: [huggingface.co/buddhist-nlp/mitra-qwen35-2026](https://huggingface.co/collections/buddhist-nlp/mitra-qwen35-2026?fbclid=IwY2xjawUYlhRwZG9mBWV4dG4DYWVtAjExAGJyaWQRMTZmc09uTVVoaElzMzZjaVZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3kg6E2QS1Fl5fWSo_e0warTAYkwfW_Zb_o7ER6z9TNPowLIyc9gDgVT5aM0_aem_FpkdT5Qh97Mz9DpUTSqn7g)
