@@ -9,11 +9,11 @@ And our multilingual translation lexicon just has received a major expansion, ad
 
 The updated DharmaMitra lexicon now includes:
 
-   •	**584,000 Sanskrit headwords**, including **311,000 compounds and phrases**
+- **584,000 Sanskrit headwords**, including **311,000 compounds and phrases**
 
-   • **b1.13 million sense pairs**
+- **b1.13 million sense pairs**
 
-   •	**3.47 million cited attestations**, drawn from 402,000 aligned sentences across 54 texts
+- **3.47 million cited attestations**, drawn from 402,000 aligned sentences across 54 texts
 
 
 ### How it works
@@ -52,11 +52,11 @@ Read more about the Aming Tu Prize and the 2026 laureate on the official prize w
 Thanks to the generous support of the Tsadra Foundation, the Dharmamitra team is proud to announce that last week our translation engine has switched back to a model we train and host ourselves.
 This change brings real, practical benefits:
 
-   •	**Better quality** and reliability 
+- **Better quality** and reliability 
 
-   •	**Stronger privacy** for Dharmamitra users 
+- **Stronger privacy** for Dharmamitra users 
 
-   •	**Direct control** over the energy budget of our system
+- **Direct control** over the energy budget of our system
 
 
 Gemini still powers parts of our Research mode and Explore features, and we're working toward bringing those over to our own self-trained models as well.
@@ -69,9 +69,9 @@ Our [leaderboard](https://dharmamitra.github.io/dharmamitra-leaderboard/) demons
 
 We believe in sharing this work with the community:
 
-   •	The translation model is **publicly available** for anyone who wants to run it on their own machine: [huggingface.co/buddhist-nlp/mitra-qwen35-translate](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) 
+- The translation model is **publicly available** for anyone who wants to run it on their own machine: [huggingface.co/buddhist-nlp/mitra-qwen35-translate](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) 
 
-   •	We're also introducing a **new generation of MITRA pretrained foundation models**, including state-of-the-art retrieval models: [huggingface.co/buddhist-nlp/mitra-qwen35-2026](https://huggingface.co/collections/buddhist-nlp/mitra-qwen35-2026?fbclid=IwY2xjawUYlhRwZG9mBWV4dG4DYWVtAjExAGJyaWQRMTZmc09uTVVoaElzMzZjaVZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3kg6E2QS1Fl5fWSo_e0warTAYkwfW_Zb_o7ER6z9TNPowLIyc9gDgVT5aM0_aem_FpkdT5Qh97Mz9DpUTSqn7g)
+- We're also introducing a **new generation of MITRA pretrained foundation models**, including state-of-the-art retrieval models: [huggingface.co/buddhist-nlp/mitra-qwen35-2026](https://huggingface.co/collections/buddhist-nlp/mitra-qwen35-2026?fbclid=IwY2xjawUYlhRwZG9mBWV4dG4DYWVtAjExAGJyaWQRMTZmc09uTVVoaElzMzZjaVZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe3kg6E2QS1Fl5fWSo_e0warTAYkwfW_Zb_o7ER6z9TNPowLIyc9gDgVT5aM0_aem_FpkdT5Qh97Mz9DpUTSqn7g)
 
 
 We are deeply grateful to the Tsadra Foundation and to our entire community for helping make this work possible. With your support, we look forward to continuing to develop tools that are accurate, privacy-conscious, and sustainable for everyone working with these texts.
