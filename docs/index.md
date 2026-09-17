@@ -21,7 +21,7 @@
 
 - [September 7, 2026: The MITRA Translation Lexicon Has Grown!](news.md#september-7-2026-the-mitra-translation-lexicon-has-grown)
 - [August 31, 2026: Aming Tu Prize for Outstanding Creative Contribution to Digital Buddhist Studies](news.md#august-31-2026-aming-tu-prize-for-outstanding-creative-contribution-to-digital-buddhist-studies)
-- [Augustus 23: Mitra Qwen3.5: Dharmamitra Switches to a Self-Trained, Self-Hosted Translation Engine](news.md#augustus-23-mitra-qwen3.5-dharmamitra-switches-to-a-self-trained-self-hosted-translation-engine)
+- [Augustus 23: Mitra Qwen3.5: Dharmamitra Switches to a Self-Trained, Self-Hosted Translation Engine](news.md#augustus-23-mitra-qwen35-dharmamitra-switches-to-a-self-trained-self-hosted-translation-engine)
 - [July 11, 2026: Translation in the Age of AI: Dharmamitra for Translator Workflows](news.md#july-11-2026-translation-in-the-age-of-ai-dharmamitra-for-translator-workflows)
 - [June 22, 2026: MEXT AI for Science (SPReAD) Grant](news.md#june-22-2026-mext-ai-for-science-spread-grant)
 - [May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI](news.md#may-18-2026-dharmamitra-buddhist-philology-in-the-age-of-ai)
