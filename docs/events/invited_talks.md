@@ -1,5 +1,93 @@
 ## Invited Talks
 
+### Dharmamitra Workshop at PNC 2026
+**September 11, 2026**
+
+*ECAI Workshop 04 (Digital Humanities), [PNC 2026 Annual Conference and Joint Meetings](https://www.pnclink.org/), Dharma Drum Institute of Liberal Arts, New Taipei City, Taiwan*
+
+A hands-on Dharmamitra workshop chaired by Howie Lan (Technical Lead, Electronic Cultural Atlas Initiative, University of California, Berkeley). The workshop covered the Dharmamitra tool overview, MITRA Translate and the grammatical analyzer, MITRA Explore and Deep Research, the MITRA browser extensions, Dharmamitra DB, the MITRA dictionaries, an end-to-end workflow overview, and recent updates.
+
+---
+
+### Finding Friends Across Multiple Languages: Dharmamitra as a Multilingual Discovery Tool for Buddhist Textual Research
+**September 9, 2026**
+
+*Talk, [PNC 2026 Annual Conference and Joint Meetings](https://www.pnclink.org/), Dharma Drum Institute of Liberal Arts, New Taipei City, Taiwan*
+
+This presentation introduced the problem of cross-lingual discovery in Buddhist textual research, the Dharmamitra system, the MITRA language model, and takeaways from how Dharmamitra is being used by the research community.
+
+---
+
+### Multilingual Information Retrieval for Semantic Search, Retrieval-Augmented Generation, and Machine Translation of Tibetan
+**August 25, 2026**
+
+*Talk, panel "Advances in Tibetan NLP", [17th Seminar of the International Association for Tibetan Studies (IATS 2026)](https://www.conftool.com/iats2026/), Online*
+
+Sebastian Nehrdich co-chaired the panel "Advances in Tibetan NLP" with Marieke Meelen and presented this paper in it. The panel also featured Elie Roux and Eric Werner (Buddhist Digital Resource Center) on Tibetan OCR development and Tashi Tsering and Tenzin Kaldan on LLM-assisted generation of Tibetan Wikipedia articles.
+
+With the ongoing digitization of Tibetan textual material, ever-larger datasets are becoming available, which present a great opportunity for scholars when it comes to searching for relevant information. Traditional keyword-based search methods can fall short when it comes to lexical ambiguity, orthographic variations, and the inability to retrieve conceptually related passages within the same language and across language boundaries. While general-purpose LLMs have been advancing quickly in recent years, their application to specialized scholarly domains still requires robust mechanisms to ground them in reliable, curated, textual source data. This presentation addresses how information retrieval (IR) systems can be tailored for the specific needs of the Tibetan Studies community. It shows how sparse IR systems such as BM25, and dense methods such as deep neural embeddings based on the Gemma2 MITRA semantic embedding model, can be used on Tibetan material, how different retrieval methods can be combined with reranking to achieve optimal results, and how downstream applications such as machine translation, semantic search for philological use, and retrieval-augmented generation can be realized with advanced IR methods. A special focus is on multilingual retrieval settings, where queries in English or other modern languages are used to retrieve results from Classical Tibetan texts, and on IR between classical languages, i.e., from Sanskrit queries to Tibetan results, or between Buddhist Chinese and Tibetan.
+
+---
+
+### The Future of Tibetan Translation in the Age of AI
+**August 24, 2026**
+
+*Plenary session, [17th Seminar of the International Association for Tibetan Studies (IATS 2026)](https://www.conftool.com/iats2026/), Online*
+
+Sebastian Nehrdich took part in the plenary session "The Future of Tibetan Translation in the Age of AI", chaired by Casey Forgues and Zack Beer (Khyentse Vision Project). His contribution, "Dharmamitra: AI Infrastructure for Buddhist Texts", gave an overview of what Dharmamitra offers for Tibetan translation, deep research, semantic search, the Dharmamitra DB of parallel sentences, and OCR. The seminar was originally planned for Kathmandu and was held online.
+
+---
+
+### A Buddhist Chinese Parallel Corpus and AI Infrastructure from the Kokuyaku Issaikyō
+**August 7, 2026**
+
+*Lightning talk and poster (SPReAD 1000), [DiHuCo Hub Symposium](https://codh.rois.ac.jp/symposium/agentic-dh-2026/), ROIS-DS Center for Open Data in the Humanities (CODH), Hitotsubashi Hall, Tokyo, Japan*
+
+The project turns the Kokuyaku Issaikyō (『国訳一切経』) into AI training data, building a high-precision parallel corpus of more than 300,000 Buddhist Chinese–Japanese sentence pairs to strengthen Dharmamitra's machine translation, search, and retrieval-augmented generation. Milestones include automatic alignment, a human-in-the-loop correction interface, LLM punctuation baselines, a segmentation dataset, and a workshop at Tohoku University, with the methods to be released as open source and transferred to Tibetan and Sanskrit.
+
+---
+
+### Multilingual Semantic Search and Retrieval-Augmented Generation for Philology
+**July 28, 2026**
+
+*Talk, mini-conference "From Palm Leaves to Neural Networks" (AI4AS), [DH2026: Engagement](https://dh2026.adho.org/), Daejeon, South Korea*
+
+Presented at the annual conference of the Alliance of Digital Humanities Organizations. The talk covered the capabilities of Dharmamitra, the technical background of multilingual semantic search and retrieval-augmented generation for classical Asian languages, and the shift from "vibe coding" to "vibe philology".
+
+---
+
+### Translation in the Age of AI: Dharmamitra for Translator Workflows
+**July 11, 2026**
+
+*Online workshop, a collaboration between Dharmamitra and the [Tsadra Foundation](https://tsadra.org/)*
+
+A global interactive workshop designed to bridge translation and philology in the Buddhist textual world with digital humanities infrastructure, exploring how modern AI tools can be integrated to support, enhance, and optimize translation and philological research workflows. The workshop offered translators, scholars, and digital humanities researchers a deep dive into the MITRA framework, a practical look at the current capabilities of the system, real-world case studies, and an outlook on agentic translation workflows in the future.
+
+- **Session 1: Introduction to MITRA and Ecosystem Vision** (45 min), led by Sebastian Nehrdich. A comprehensive overview of the MITRA architecture, the datasets, and its current capabilities.
+- **Session 2: Collaborative Case Studies and Participant-Material Review** (90 min), moderated by Sára Csáki-Bertók and Sebastian Nehrdich. An interactive, hands-on session discussing use-case examples and experiences with AI tools in an open conversation.
+
+**[Watch the recording on YouTube](https://www.youtube.com/watch?v=cV0aAcpTD44&list=PLdPKV6gIAeHE)**
+
+---
+
+### Digital Tools for Indology and Buddhist Studies in the Age of AI: Recent Developments and Future Perspectives
+**May 30, 2026**
+
+*Special lecture, 67th Annual Conference of the Association for Indology and Study of Religion (印度学宗教学会), Tohoku University, Sendai, Japan*
+
+The lecture covered the current capabilities of Dharmamitra across Sanskrit, Tibetan, Chinese, and Pāli, the impact of AI on the future of philology, and a case study on working with agentic AI on a re-edition of the Madhyāntavibhāgaṭīkā. The session was chaired by Naoko Nishimura (Tohoku University), with comments by Ryuta Kikuya (Koyasan University) and Jiro Sawai (Tenri University), followed by a discussion with the audience.
+
+---
+
+### Access as Nonviolence: Designing DH Platforms That Reduce Inequality
+**May 4, 2026**
+
+*Talk, Ahiṃsā Lecture Series, Asia-Africa Institute, University of Hamburg, Hamburg, Germany*
+
+Given as part of the joint Hamburg–Kyoto blended-learning partnership on nonviolence in global perspective, this talk discussed how digital humanities platforms such as Dharmamitra can be designed to reduce inequality of access to the Buddhist textual tradition.
+
+---
+
 ### Dharmamitra: Buddhist Philology in the Age of AI
 **May 18, 2026**
 
