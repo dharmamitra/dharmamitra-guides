@@ -2,6 +2,11 @@
 
 *Chronological list of key peer‑reviewed outputs underpinning the project.*
 
+### 2026
+
+- **MITRA-MT: Continued Pretraining, Parallel Corpus Mining, and Multi-Directional Machine Translation for Sanskrit, Tibetan, and Buddhist Chinese.** *Sebastian Nehrdich, Kurt Keutzer.* *Proceedings of the Eleventh Conference on Machine Translation (WMT 2026)*, Budapest. [PDF](https://sebastian-nehrdich.github.io/files/mitra-mt-wmt2026.pdf)
+- **Mitrasaṃgraha: A Comprehensive Classical Sanskrit Machine Translation Dataset.** *Sebastian Nehrdich, David Allport, Jivnesh Sandhan, Manoj Balaji Jagadeeshan, Sujeet Kumar, Sven Sellmer, Pawan Goyal, Kurt Keutzer.* *Proceedings of the Eleventh Conference on Machine Translation (WMT 2026)*, Budapest. [PDF](https://sebastian-nehrdich.github.io/files/mitrasamgraha-wmt2026.pdf)
+
 ### 2025
 
 - **MITRA‑zh‑eval: Using a Buddhist Chinese Language Evaluation Dataset to Assess Machine Translation and Evaluation Metrics.** *Sebastian Nehrdich, Avery Chen, Marcus Bingenheimer, Lu Huang, Rouying Tang, Xiang Wei, Leijie Zhu, Kurt Keutzer.* *Proc. 5th Intl. Conf. on NLP for Digital Humanities*, Albuquerque, pp. 129–137. [ACL Anthology](https://aclanthology.org/2025.nlp4dh-1.12/) · DOI: 10.18653/v1/2025.nlp4dh-1.12
