@@ -48,7 +48,7 @@
 - [August 2025: Dharmamitra & DharmaNexus: A New Set of Digital Tools for the Philological Study of Buddhist Texts](news.md#august-18-2025-dharmamitra-dharmanexus-a-new-set-of-digital-tools-for-the-philological-study-of-buddhist-texts)
 - [August 2025: MITRA at IABS Conference, Leipzig](news.md#august-2025-mitra-at-iabs-conference-leipzig)
 - [July 2025: Announcing the launch of MITRA Search, MITRA Deep Research, and DharmaNexus](news.md#july-26-2025-announcing-the-launch-of-mitra-search-mitra-deep-research-and-dharmanexus)
-- [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-17-2025-is-training-deep-neural-embeddings-worth-the-effort-a-preliminary-investigation-of-different-representation-methods-for-semantic-similarity-tasks-in-buddhist-chinese-and-related-languages-of-the-buddhist-tradition)
+- [June 2025: Deep Neural Embeddings at Hanmun Lab Workshop](news.md#june-17-2025-deep-neural-embeddings-at-hanmun-lab-workshop--is-training-deep-neural-embeddings-worth-the-effort-a-preliminary-investigation-of-different-representation-methods-for-semantic-similarity-tasks-in-buddhist-chinese-and-related-languages-of-the-buddhist-tradition)
 - [June 2025: From Sthiramati to Dharmamitra at Keio University](news.md#june-2025-from-sthiramati-to-dharmamitra-developing-digital-tools-for-a-new-age-of-philological-buddhist-studies)
 - [March 2025: Machine Translation for Asian Studies Workshop](news.md#march-2025-machine-translation-for-asian-studies-workshop)
 - [March 2025: MITRA Search at CEAL Technology Forum](news.md#march-2025-mitra-search-building-information-retrieval-systems-for-classical-asian-languages-in-the-age-of-ai)
