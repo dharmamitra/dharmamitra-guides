@@ -32,7 +32,7 @@
 - [March 2026: OCR and Beyond Workshop at Tohoku University](news.md#march-2829-2026-ocr-and-beyond-workshop-at-tohoku-university)
 - [March 2026: Dharmamitra: A Platform to Support Research across Language Boundaries on Buddhist Textual Material](news.md#march-20-2026-dharmamitra-a-platform-to-support-research-across-language-boundaries-on-buddhist-textual-material)
 - [March 2026: DharmaNexus as a Multilingual Graph of Buddhist Intertextuality: Design Choices, Research Uses, and Future Applications](news.md#march-17-2026-dharmanexus-as-a-multilingual-graph-of-buddhist-intertextuality-design-choices-research-uses-and-future-applications)
-- [March 13, 2026: Is this the end of (Buddhist) philology as we know It? If so, what’s next?](news.md##march-13-2026-is-this-the-end-of-buddhist-philology-as-we-know-it-if-so-whats-next)
+- [March 13, 2026: Is this the end of (Buddhist) philology as we know It? If so, what’s next?](news.md#march-13-2026-is-this-the-end-of-buddhist-philology-as-we-know-it-if-so-whats-next)
 - [February 2026: Dharmamitra Board of Advisors](news.md#february-2026-dharmamitra-board-of-advisors)
 - [January 2026: Dharmamitra: A data-driven platform for the research of Buddhist texts in multiple languages using advanced NLP methods](news.md#january-31-2026-dharmamitra-a-data-driven-platform-for-the-research-of-buddhist-texts-in-multiple-languages-using-advanced-nlp-methods)
 - [January 2026: AI and Indological/Buddhological researches: Dharmamitra/Dharmanexus and its Application](news.md#january-10-2026-ai-and-indological-buddhological-researches-dharmamitra-dharmanexus-and-its-application)
