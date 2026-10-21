@@ -274,7 +274,7 @@ We are happy to announce that Dharmamitra now features a [**Board of Advisors](h
 
 Co-presented with Kengo Harimoto (University of Naples "L'Orientale"). Recent advances in AI are transforming many areas of scholarship, and the field of Indology is no exception. We introduced Dharmamitra, an AI-assisted research environment that provides advanced tools for philological work across the Classical Asian languages: Pāli, Sanskrit, Tibetan, and Chinese.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#ai-and-indological-buddhological-researches-dharmamitra-dharmanexus-and-its-application)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#ai-and-indologicalbuddhological-researches-dharmamitradharmanexus-and-its-application)**
 
 ---
 
