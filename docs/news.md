@@ -476,7 +476,7 @@ Our paper **"[One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sans
 
 We presented "MITRA: Developing Language Models for Machine Translation and Search in Buddhist Source Languages" at the PNC 2024 Annual Conference in Seoul, Korea.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-language-models-for-machine-translation-and-search-in-buddhist-source-languages)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#mitra-developing-language-models-for-machine-translation-and-search-in-buddhist-source-languages)**
 
 ---
 
@@ -490,7 +490,7 @@ Our paper **"[Breakthroughs in Tibetan NLP & Digital Humanities](https://www.asi
 
 We presented "Massive Multilingual Machine Translation and Search for Buddhist Languages: The Mitra Project" at National Taiwan University (NTU), Taipei, Taiwan.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#massive-multilingual-machine-translation-and-search-for-buddhist-languages-the-mitra-project)
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#massive-multilingual-machine-translation-and-search-for-buddhist-languages-the-mitra-project)**
 
 ---
 
@@ -498,7 +498,7 @@ We presented "Massive Multilingual Machine Translation and Search for Buddhist L
 
 We presented "Dharmamitra: Enabling Massive Multilingual Machine Translation for Ancient Languages of the Buddhist Tradition" at the National University of Singapore.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#dharmamitra-enabling-massive-multilingual-machine-translation-for-ancient-languages-of-the-buddhist-tradition)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#dharmamitra-enabling-massive-multilingual-machine-translation-for-ancient-languages-of-the-buddhist-tradition)**
 
 ---
 
@@ -506,7 +506,7 @@ We presented "Dharmamitra: Enabling Massive Multilingual Machine Translation for
 
 We gave an online presentation on "Machine Translation and LLM-Powered Grammatical Explanation for Sanskrit" at the International Sanskrit Computational Linguistics Conference in Auroville, India.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#machine-translation-and-llm-powered-grammatical-explanation-for-sanskrit)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#machine-translation-and-llm-powered-grammatical-explanation-for-sanskrit)**
 
 ---
 
@@ -526,7 +526,7 @@ Our paper **"[MITRA‑zh: An efficient, open machine translation solution for Bu
 
 We presented "MITRA: Developing Natural Language Processing Tools for the Languages of Buddhist Literature" in Hong Kong.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#mitra-developing-natural-language-processing-tools-for-the-languages-of-buddhist-literature)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#mitra-developing-natural-language-processing-tools-for-the-languages-of-buddhist-literature)**
 
 ---
 
@@ -534,7 +534,7 @@ We presented "MITRA: Developing Natural Language Processing Tools for the Langua
 
 We presented "Developing Machine Translation for ancient Buddhist texts in canonical languages" in Seoul, Korea.
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#developing-machine-translation-for-ancient-buddhist-texts-in-canonical-languages)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#developing-machine-translation-for-ancient-buddhist-texts-in-canonical-languages)**
 
 ---
 
@@ -542,4 +542,4 @@ We presented "Developing Machine Translation for ancient Buddhist texts in canon
 
 We presented "Creating a Shared Semantic Vector Space for Buddhist Languages" in Vienna, Austria. 
 
-**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/presentations/#creating-a-shared-semantic-vector-space-for-buddhist-languages)**
+**[Read more.](https://dharmamitra.github.io/dharmamitra-guides/events/invited_talks/#creating-a-shared-semantic-vector-space-for-buddhist-languages)**
