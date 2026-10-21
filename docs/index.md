@@ -27,7 +27,7 @@
 - [May 18, 2026: Dharmamitra: Buddhist Philology in the Age of AI](news.md#may-18-2026-dharmamitra-buddhist-philology-in-the-age-of-ai)
 - [May 16, 2026: Artificial Intelligence in Buddhist Studies](news.md#may-16-2026-artificial-intelligence-in-buddhist-studies)
 - [May 11, 2026: Introducing ‘Segment View’, Expanded Datasets, and More!](news.md#may-11-2026-introducing-segment-view-expanded-datasets-and-more)
-- [April, 2026: Dharmamitra Platform Update – Introducing Explore](news.md#april-2026-dharmamitra-platform-updateintroducing-explore)
+- [April, 2026: Dharmamitra Platform Update – Introducing Explore](news.md#april-2026-dharmamitra-platform-update-introducing-explore)
 - [April, 2026: Dharmamitra and Buddha Nexus Ecosystems in the age of AI (Workshop)](news.md#april-11-2026-dharmamitra-and-buddha-nexus-ecosystems-in-the-age-of-ai-with-dr-sebastien-nehrdich)
 - [March 2026: OCR and Beyond Workshop at Tohoku University](news.md#march-2829-2026-ocr-and-beyond-workshop-at-tohoku-university)
 - [March 2026: Dharmamitra: A Platform to Support Research across Language Boundaries on Buddhist Textual Material](news.md#march-20-2026-dharmamitra-a-platform-to-support-research-across-language-boundaries-on-buddhist-textual-material)
